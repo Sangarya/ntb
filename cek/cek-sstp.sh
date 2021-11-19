@@ -1,9 +1,3 @@
-#!/bin/bash
-red='\e[1;31m'
-green='\e[0;32m'
-NC='\e[0m'
-clear
-accel-cmd show sessions
-echo ""
-echo -e "============================" | lolcat
-echo "- Mod By GEO GABUT"
+z="
+";Zz='cat';Wz='====';Kz='clea';Rz='ons';az=' "- ';Sz='echo';Fz='n='\''\';Uz=' -e ';Az='red=';Dz='m'\''';Lz='r';Xz='=" |';Iz='NC='\''';Ez='gree';Hz='32m'\''';Qz='essi';Pz='ow s';Nz='l-cm';dz='EO G';fz='"';Oz='d sh';Bz=''\''\e[';Cz='1;31';Tz=' ""';bz='Mod ';Gz='e[0;';Mz='acce';Jz='\e[0';ez='ABUT';Yz=' lol';cz='By G';Vz='"===';
+eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$z$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$z$Sz$Uz$Vz$Wz$Wz$Wz$Wz$Wz$Wz$Xz$Yz$Zz$z$Sz$az$bz$cz$dz$ez$fz"

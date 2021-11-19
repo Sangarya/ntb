@@ -1,16 +1,3 @@
-#!/bin/bash
-red='\e[1;31m'
-green='\e[0;32m'
-NC='\e[0m'
-clear
-last | grep ppp | grep still | awk '{print " ",$1," - " $3 }' > /tmp/login-db-pptp.txt;
-echo " "
-echo -e "${red}============================${NC}";
-echo "     PPTP VPN USER LOGIN" | lolcat
-echo -e "${red}============================${NC}";
-echo "Username   ---   IP" | lolcat
-echo -e "${green}------------------------------------- ${NC}";
-cat /tmp/login-db-pptp.txt
-echo " "
-echo -e "${red}============================${NC}";
-echo " ";
+z="
+";Zz='- " ';Tz=' | a';kz=' -e ';Iz='NC='\''';KBz='reen';Hz='32m'\''';QBz=';';pz='{NC}';Az='red=';NBz='-- $';jz=' " "';Lz='r';HBz=' lol';Bz=''\''\e[';wz=' LOG';dz='/log';uz='VPN ';ez='in-d';mz='ed}=';vz='USER';bz=''\'' > ';MBz='----';hz='xt;';Rz='ep s';CBz='erna';Oz='rep ';Wz='nt "';Jz='\e[0';Vz='{pri';Gz='e[0;';nz='====';GBz='P" |';Mz='last';Kz='clea';Ez='gree';Cz='1;31';fz='b-pp';OBz='cat ';Qz='| gr';Nz=' | g';Uz='wk '\''';Dz='m'\''';FBz='   I';ABz='lcat';gz='tp.t';PBz='xt';tz='PTP ';cz='/tmp';Sz='till';yz='| lo';Fz='n='\''\';xz='IN" ';Xz=' ",$';Yz='1," ';rz=' "  ';oz='===$';IBz='cat';lz='"${r';Pz='ppp ';az='$3 }';BBz=' "Us';DBz='me  ';EBz=' ---';qz='";';JBz='"${g';LBz='}---';sz='   P';iz='echo';
+eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$z$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$z$iz$jz$z$iz$kz$lz$mz$nz$nz$nz$nz$nz$nz$oz$pz$qz$z$iz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$z$iz$kz$lz$mz$nz$nz$nz$nz$nz$nz$oz$pz$qz$z$iz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$z$iz$kz$JBz$KBz$LBz$MBz$MBz$MBz$MBz$MBz$MBz$MBz$MBz$NBz$pz$qz$z$OBz$cz$dz$ez$fz$gz$PBz$z$iz$jz$z$iz$kz$lz$mz$nz$nz$nz$nz$nz$nz$oz$pz$qz$z$iz$jz$QBz"

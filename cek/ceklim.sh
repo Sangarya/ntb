@@ -1,23 +1,3 @@
-#!/bin/bash
-red='\e[1;31m'
-green='\e[0;32m'
-NC='\e[0m'
-clear
-echo " "
-echo "===========================================";
-echo " ";
-if [ -e "/root/log-limit.txt" ]; then
-echo "User Who Violate The Maximum Limit";
-echo "Time - Username - Number of Multilogin"
-echo "-------------------------------------";
-cat /root/log-limit.txt
-else
-echo " No user has committed a violation"
-echo " "
-echo " or"
-echo " "
-echo " The user-limit script not been executed."
-fi
-echo " ";
-echo "===========================================";
-echo " ";
+z="
+";XBz=' not';Lz='r';Iz='NC='\''';Bz=''\''\e[';cBz='fi';Vz='ot/l';bz='n';jz='um L';EBz='mit.';YBz=' bee';NBz=' a v';Xz='imit';GBz='else';iz='axim';Kz='clea';Hz='32m'\''';Fz='n='\''\';BBz='/roo';Pz='====';OBz='tion';tz='ltil';ZBz='n ex';ez='ho V';Sz='if [';Uz='"/ro';FBz='txt';Wz='og-l';uz='ogin';PBz=' " o';sz='f Mu';ABz='cat ';KBz='as c';yz='---"';UBz='limi';MBz='tted';Gz='e[0;';Oz=' "==';oz='rnam';Yz='.txt';SBz='he u';az=' the';kz='";';gz='te T';Ez='gree';VBz='t sc';Zz='" ];';rz='er o';Rz=';';Dz='m'\''';HBz=' " N';DBz='g-li';fz='iola';TBz='ser-';JBz='er h';CBz='t/lo';hz='he M';RBz=' " T';lz=' "Ti';mz='me -';LBz='ommi';cz=' "Us';dz='er W';Mz='echo';Nz=' " "';Jz='\e[0';Cz='1;31';pz='e - ';vz='"';WBz='ript';bBz='ed."';qz='Numb';Tz=' -e ';xz='----';QBz='r"';Qz='=";';nz=' Use';wz=' "--';IBz='o us';aBz='ecut';Az='red=';
+eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$z$Mz$Nz$z$Mz$Oz$Pz$Pz$Pz$Pz$Pz$Pz$Pz$Pz$Pz$Pz$Qz$z$Mz$Nz$Rz$z$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$z$Mz$cz$dz$ez$fz$gz$hz$iz$jz$Xz$kz$z$Mz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$z$Mz$wz$xz$xz$xz$xz$xz$xz$xz$xz$yz$Rz$z$ABz$BBz$CBz$DBz$EBz$FBz$z$GBz$z$Mz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$fz$OBz$vz$z$Mz$Nz$z$Mz$PBz$QBz$z$Mz$Nz$z$Mz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$z$cBz$z$Mz$Nz$Rz$z$Mz$Oz$Pz$Pz$Pz$Pz$Pz$Pz$Pz$Pz$Pz$Pz$Qz$z$Mz$Nz$Rz"

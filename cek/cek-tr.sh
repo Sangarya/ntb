@@ -1,29 +1,3 @@
-#!/bin/bash
-red='\e[1;31m'
-green='\e[0;32m'
-NC='\e[0m'
-MYIP=$(wget -qO- icanhazip.com);
-echo "Checking VPS"
-clear
-data=( `cat /var/log/trojan.log | grep -w 'authenticated as' | awk '{print $7}' | sort | uniq`);
-echo "-------------------------------";
-echo "-----=[ Trojan User Login ]=-----";
-echo "-------------------------------";
-for akun in "${data[@]}"
-do
-data2=( `lsof -n | grep -i ESTABLISHED | grep trojan | awk '{print $9}' | cut -d':' -f2 | grep -w 445 | cut -d- -f2 | grep -v '>127.0.0.1' | sort | uniq | cut -d'>' -f2`);
-echo -n > /tmp/iptrojan.txt
-for ip in "${data2[@]}"
-do
-jum=$(cat /var/log/trojan.log | grep -w $akun | awk '{print $4}' | cut -d: -f1 | grep -w $ip | sort | uniq)
-if [[ -z "$jum" ]]; then
-echo > /dev/null
-else
-echo "$jum" > /tmp/iptrojan.txt
-fi
-done
-jum2=$(cat /tmp/iptrojan.txt | nl)
-echo "user : $akun";
-echo "$jum2";
-echo "-------------------------------"
-done
+z="
+";Wz='PS"';SBz='`lso';wz='q`);';GCz='a2[@';fBz=''\'':'\'' ';pBz=' sor';DCz='ip i';OBz='ata[';az='=( `';yCz=' | n';vCz='tmp/';BDz=' "us';pz='wk '\''';Nz='-qO-';uBz='d'\''>'\''';tz='| so';Lz='=$(w';kCz=']]; ';EBz=' Use';tCz='=$(c';aCz='p -w';GBz='gin ';iz='ep -';XCz='$4}'\''';NBz='"${d';UCz='awk ';QBz='do';YBz='LISH';bBz='p tr';FCz='{dat';pCz='else';XBz='STAB';bCz=' $ip';WBz='-i E';hBz='w 44';BBz='---=';Dz='m'\''';Ez='gree';cCz=' | s';JBz=';';MCz='og/t';jz='w '\''a';KCz='t /v';sCz='jum2';rBz='uniq';ez='/tro';dCz='ort ';ABz='-";';Pz='nhaz';kz='uthe';FBz='r Lo';Vz='ng V';dBz='| cu';hCz='[ -z';oCz='null';yBz='> /t';rz='nt $';Bz=''\''\e[';nBz='0.0.';CDz='er :';Gz='e[0;';ADz='l)';aBz=' gre';gCz='if [';nz=' as'\''';mz='ated';Zz='data';NCz='roja';PBz='@]}"';Yz='r';mBz='127.';PCz='g | ';KBz='for ';QCz='grep';jBz='cut ';ZBz='ED |';Tz=' "Ch';mCz=' > /';xCz='.txt';bz='cat ';CCz='txt';TCz='n | ';IBz='---"';uCz='at /';vz=' uni';Mz='get ';UBz=' | g';xz=' "--';JCz='$(ca';WCz='int ';GDz='-"';Cz='1;31';Fz='n='\''\';HCz=']}"';EDz='un";';eBz='t -d';lBz='v '\''>';yz='----';vBz=' -f2';Kz='MYIP';iBz='5 | ';qz='{pri';Iz='NC='\''';tBz='ut -';DBz='ojan';Az='red=';cz='/var';oBz='1'\'' |';cBz='9}'\'' ';MBz=' in ';kBz='-d- ';Qz='ip.c';HBz=']=--';lz='ntic';gz='log ';wBz='`);';VBz='rep ';DDz=' $ak';fz='jan.';TBz='f -n';VCz=''\''{pr';uz='rt |';LCz='ar/l';jCz='um" ';FDz='um2"';hz='| gr';OCz='n.lo';sBz=' | c';qBz='t | ';iCz=' "$j';LBz='akun';dz='/log';Uz='ecki';CBz='[ Tr';RCz=' -w ';eCz='| un';ECz='n "$';BCz='ptro';qCz='fi';lCz='then';sz='7}'\'' ';YCz='d: -';gBz='-f2 ';Xz='clea';ICz='jum=';Sz='echo';RBz='2=( ';wCz='iptr';rCz='done';Rz='om);';Oz=' ica';ACz='mp/i';fCz='iq)';Hz='32m'\''';SCz='$aku';Jz='\e[0';xBz=' -n ';ZCz='f1 |';nCz='dev/';oz=' | a';
+eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$z$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$z$Sz$xz$yz$yz$yz$yz$yz$yz$yz$ABz$z$Sz$xz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$z$Sz$xz$yz$yz$yz$yz$yz$yz$yz$ABz$z$KBz$LBz$MBz$NBz$OBz$PBz$z$QBz$z$Zz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$DBz$oz$pz$qz$rz$cBz$dBz$eBz$fBz$gBz$hz$iz$hBz$iBz$jBz$kBz$gBz$hz$iz$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$z$Sz$xBz$yBz$ACz$BCz$fz$CCz$z$KBz$DCz$ECz$FCz$GCz$HCz$z$QBz$z$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$sBz$tBz$YCz$ZCz$aBz$aCz$bCz$cCz$dCz$eCz$fCz$z$gCz$hCz$iCz$jCz$kCz$lCz$z$Sz$mCz$nCz$oCz$z$pCz$z$Sz$iCz$jCz$yBz$ACz$BCz$fz$CCz$z$qCz$z$rCz$z$sCz$tCz$uCz$vCz$wCz$DBz$xCz$yCz$ADz$z$Sz$BDz$CDz$DDz$EDz$z$Sz$iCz$FDz$JBz$z$Sz$xz$yz$yz$yz$yz$yz$yz$yz$GDz$z$rCz"
