@@ -1,17 +1,3 @@
-#!/bin/bash
-
-read -p "Input New Domain : " domainbaru
-
-#Validate
-if [[ $domainbaru == "" ]]; then
-echo "Please Input New Domain"
-exit 1
-fi
-
-#Input To Domain
-cat > /etc/v2ray/domain << END
-$domainbaru
-END
-
-clear 
-echo "SUCCESS"
+z="
+";mz='r';az='> /e';hz='$dom';Rz='echo';jz='aru';Dz='ut N';nz=' "SU';Kz='if [';Cz='"Inp';Qz='then';Pz=']]; ';Xz=' 1';fz='<< E';Jz='baru';Oz=' "" ';Sz=' "Pl';lz='clea';Yz='fi';Ez='ew D';Lz='[ $d';dz='/dom';Wz='exit';gz='ND';Tz='ease';Gz='n : ';Bz=' -p ';Mz='nbar';Zz='cat ';Vz='n"';Az='read';Uz=' Inp';Fz='omai';iz='ainb';bz='tc/v';Nz='u ==';cz='2ray';ez='ain ';Hz='" do';Iz='main';pz='S"';kz='END';oz='CCES';
+eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$z$Kz$Lz$Fz$Mz$Nz$Oz$Pz$Qz$z$Rz$Sz$Tz$Uz$Dz$Ez$Fz$Vz$z$Wz$Xz$z$Yz$z$Zz$az$bz$cz$dz$ez$fz$gz$z$hz$iz$jz$z$kz$z$lz$mz$z$Rz$nz$oz$pz"
