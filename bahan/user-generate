@@ -1,0 +1,93 @@
+#!/bin/bash
+# Created by http://halucok.me
+# Modified by GEO
+grey='\x1b[90m'
+red='\x1b[91m'
+green='\x1b[92m'
+yellow='\x1b[93m'
+blue='\x1b[94m'
+purple='\x1b[95m'
+cyan='\x1b[96m'
+white='\x1b[37m'
+bold='\033[1m'
+off='\x1b[m'
+flag='\x1b[47;41m'
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+MYIP=$(wget -qO- icanhazip.com);
+echo "Terhubung ke GEO GABUT..." | lolcat
+sleep 0.1
+echo "CEK IZIN..." | lolcat
+sleep 0.1
+CEK=GEO
+if [ "$CEK" != "GEO" ]; then
+		echo -e "${red}PERMINTAAN DITOLAK!${NC}";
+        echo $CEK;
+        exit 0;
+else
+echo -e "${green}PERMINTAAN DITERIMA...${NC}"
+sleep 0.1
+clear
+fi
+
+IP=$(wget -qO- ipv4.icanhazip.com)
+ssl="$(cat ~/log-install.txt | grep -w "Stunnel4" | cut -d: -f2)"
+sqd="$(cat ~/log-install.txt | grep -w "Squid" | cut -d: -f2)"
+ovpn="$(netstat -nlpt | grep -i openvpn | grep -i 0.0.0.0 | awk '{print $4}' | cut -d: -f2)"
+ovpn2="$(netstat -nlpu | grep -i openvpn | grep -i 0.0.0.0 | awk '{print $4}' | cut -d: -f2)"
+clear
+if [[ "$IP2" = "" ]]; then
+domain=$(cat /etc/v2ray/domain)
+else
+domain=$IP2
+fi
+read -p "BERAPA BANYAK AKUN YANG AKAN DIBUAT ? : " banyakuser
+read -p "BERAPA HARI ?                    : " aktif
+today="$(date +"%Y-%m-%d")"
+expire=$(date -d "$aktif days" +"%Y-%m-%d")
+clear
+echo " "
+echo -e "===============================" | lolcat
+echo "        ACCOUNT INFORMATION        " | lolcat
+echo -e "===============================" | lolcat
+echo "  - IP/Host       : $IP"
+echo "  - Domain        : ${domain}"
+echo "  - OpenSSH       : 443, 22"
+echo "  - Dropbear      : 443, 143, 109"
+echo "  - SSL/TLS       : 443, 777, 171"
+echo "  - Ws TLS        : 443, 2096"
+echo "  - Ws OpenSSH    : 2095"
+echo "  - Ws Dropbear   : 2052"
+echo "  - Ws Ovpn       : 2082"
+echo "  - OpenVPN       : 1194"
+echo "  - OpenVPN       : 2200"
+echo "  - OpenVPN       : 442"
+echo "  - Squid Proxy   : 3128, 8080"
+echo "  - Badvpn        : 7100, 7200, 7300"
+echo -e "===============================" | lolcat
+echo " Payload WS       : GET / HTTP/1.1[crlf]Host: ${domain}[crlf]Upgrade: websocket[crlf][crlf]"
+echo ""
+echo  "PAYLOAD WS SSL   : GET wss://BUG [protocol][crlf]Host: $domain[crlf]Upgrade: websocket[crlf][crlf]"
+echo -e "===============================" | lolcat
+echo "        LINK DOWNLOAD OVPN" | lolcat
+echo -e "===============================" | lolcat
+echo "http://${domain}:85/client-tcp-$ovpn.ovpn"
+echo "http://${domain}:85/client-udp-$ovpn2.ovpn"
+echo "http://${domain}:85/client-tcp-ssl.ovpn"
+echo -e "===============================" | lolcat
+echo "   Until On       : $(date -d "$aktif days" +"%d-%m-%Y")"
+echo -e "===============================" | lolcat
+for (( i=1; i <= $banyakuser; i++ ))
+do
+	USER=`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 15 | head -n 1`
+	useradd -M -N -s /bin/false -e $expire $USER
+	PASS=`cat /dev/urandom | tr -dc 'a-zA-Z0-9' | fold -w 15 | head -n 1`;
+	echo $USER:$USER | chpasswd
+	echo "$i. Username/Password: $USER"
+done
+
+echo -e "===============================" | lolcat
+  echo " "
+  echo " Script By @sampiiiiu" | lolcat
+  echo " "
