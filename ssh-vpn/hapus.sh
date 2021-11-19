@@ -1,15 +1,3 @@
-#!/bin/bash
-red='\e[1;31m'
-green='\e[0;32m'
-NC='\e[0m'
-MYIP=$(wget -qO- icanhazip.com);
-echo "Checking VPS"
-clear
-read -p "Username SSH to Delete : " Pengguna
-
-if getent passwd $Pengguna > /dev/null 2>&1; then
-        userdel $Pengguna
-        echo -e "User $Pengguna was removed."
-else
-        echo -e "Failure: User $Pengguna Not Exist."
-fi
+z="
+";Cz='1;31';cz='rnam';Bz=''\''\e[';yz='del ';LBz='else';DBz=' -e ';ez='H to';Sz='echo';Kz='MYIP';oz=' $Pe';pz='nggu';OBz=': Us';kz='if g';az=' -p ';iz='Peng';Yz='r';Tz=' "Ch';dz='e SS';IBz='remo';wz='n';ABz='$Pen';Ez='gree';Dz='m'\''';Gz='e[0;';vz=' the';jz='guna';fz=' Del';Qz='ip.c';nz='sswd';Iz='NC='\''';Rz='om);';BBz='ggun';PBz='er $';Zz='read';FBz='engg';Oz=' ica';HBz='was ';gz='ete ';CBz='a';KBz='"';Hz='32m'\''';mz='t pa';NBz='lure';Pz='nhaz';Mz='get ';hz=': " ';qz='na >';Fz='n='\''\';uz='>&1;';Wz='PS"';bz='"Use';sz='v/nu';TBz='fi';MBz='"Fai';QBz=' Not';Vz='ng V';Xz='clea';lz='eten';rz=' /de';tz='ll 2';JBz='ved.';GBz='una ';Jz='\e[0';Uz='ecki';xz='user';Lz='=$(w';SBz='st."';EBz='r $P';RBz=' Exi';Az='red=';Nz='-qO-';
+eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$z$Sz$Tz$Uz$Vz$Wz$z$Xz$Yz$z$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$z$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$z$xz$yz$ABz$BBz$CBz$z$Sz$DBz$bz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$z$LBz$z$Sz$DBz$MBz$NBz$OBz$PBz$iz$jz$QBz$RBz$SBz$z$TBz"
