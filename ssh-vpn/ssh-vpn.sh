@@ -87,7 +87,7 @@ sed -i 's/AcceptEnv/#AcceptEnv/g' /etc/ssh/sshd_config
 apt-get --reinstall --fix-missing install -y bzip2 gzip coreutils wget screen rsyslog iftop htop net-tools zip unzip wget net-tools curl nano sed screen gnupg gnupg1 bc apt-transport-https build-essential dirmngr libxml-parser-perl neofetch git lsof
 echo "clear" >> .profile
 echo "figlet -f slant GEO GABUT | lolcat" >> .profile
-echo "sleep 0.5" >> .profile
+echo "sleep 0.2" >> .profile
 echo "clear" >> .profile
 echo "neofetch" >> .profile
 echo "echo -e \" - Script Mod By Geo Gabut\" | lolcat" >> .profile
@@ -190,7 +190,7 @@ END
 #SSLH
 apt-get install sslh -y
 #Forward 443 = ws-ssl-stunnel4-dropbear
-wget -O /etc/default/sslh "https://raw.githubusercontent.com/Sangarya/ntb/main/websocket/sslh.conf"
+wget -O /etc/default/sslh "https://raw.githubusercontent.com/Sangarya/ntb/main/websocket/error"
 service sslh restart
 
 # certificate
@@ -455,4 +455,3 @@ figlet -f slant GEO GABUT | lolcat
 sleep 1
 # finihsing
 clear
-neofetch
