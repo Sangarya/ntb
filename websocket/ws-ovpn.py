@@ -1,3 +1,269 @@
-z="
-";Hez='$vBz';tVz=''\'';KE';VOz=''\''ads';vVz=';MHz';fpz='z$oJ';pqz='Kz$h';GWz='d['\'';';UDz='='\''e ';AVz=''\'';TK';Yqz='$z$i';OGz=';MGz';JWz=' '\'';g';ogz='Ez$J';YXz=''\'',"p';xTz=''\'';wJ';PWz='T)'\'';';Kdz='Bz$W';Xrz='BLz$';hZz='LT_H';TTz='lis'\''';MTz=''\'';OG';pTz='ING'\''';Ckz='Cz$Y';vBz='Iz='\''';Drz='$jKz';Gkz='Fz$t';tYz=''\'')'\'';';piz='z$TF';PPz=';JEz';DCz=','\'';J';rCz='le'\'';';Lqz='z$NK';WRz='('\'';N';Ytz='WMz$';Grz='Kz$m';FIz='='\''ca';Viz='$tDz';pEz='recv';cFz=' t'\'';';Jfz='z$oC';hGz='= h'\''';hLz='RFz=';kdz='Bz$b';Egz='gDz$';vFz='='\''ea';OFz=';wIz';fMz='so'\'';';gYz=';nLz';Ysz='Lz$n';PXz='cs'\'';';Rsz='$hLz';Eiz='$vEz';ltz='cMz$';xoz='z$JF';hDz='='\''ve';QPz='='\''og';dqz='Kz$j';pMz='\'\'';i';tUz='='\''op';wGz=''\'';FG';aJz=' <p'\''';INz=''\''.bi';gqz='$z$P';Csz='z$RL';Ldz='z$BB';rIz='UCz=';rdz='hBz$';Tjz='lFz$';KEz='UKz=';tjz='$pFz';Urz='Kz$n';sLz='LHz=';bjz='ODz$';dMz=';bCz';snz='$eIz';EQz='.0.'\''';ADz='mHz=';dZz='er,'\''';fmz='$hFz';pBz=''\'';WC';ukz='ZGz$';sqz='$sJz';dpz='mJz$';scz='fz$g';NRz='Rz='\''';ynz='$iIz';Kez='z$AC';ylz='z$SH';Fpz='z$YJ';nEz=' '\'';b';msz='z$yL';HUz=':'\'';Q';xlz='z$RH';XQz=''\''art';oDz=''\''cCl';Mfz='z$rC';Suz='BNz$';qTz=';OLz';Zjz='z$pF';bOz='CON'\''';hWz=' PA'\''';YKz='i'\'';H';rqz='Kz$i';Boz='$jIz';JIz='.'\'';v';TFz='KDz=';NVz='='\''n\';xqz='$fDz';Flz='z$fG';uQz=':'\'';j';qoz='PJz$';ohz='wBz$';bIz='all(';kNz=''\'';aB';AZz='dHe'\''';EMz=''\'';DG';cXz=''\''-'\'';';ePz='ST'\'';';yz=''\'';yE';IBz='z='\''O';NOz=''\'';MB';WPz=';CMz';pKz='E'\'';o';pZz='i'\'';l';qXz='='\''BU';dUz=''\'''\''X-';Rmz='z$cH';RIz='ASS)';mbz=''\''= s';HDz=';gz=';CPz='s'\'';G';goz='z$JJ';Gbz='409'\''';QDz=', ar';gIz='\n'\'';';PMz=';bIz';QSz=';mJz';EFz='ep(2';hiz='z$MF';DZz='T:'\'';';Hsz='z$YL';Foz='Iz$n';BEz='rue'\''';nIz=') ='\''';xdz='Ez$n';BRz='in'\'';';Dpz='WJz$';diz='z$KF';dHz=';LNz';Apz='mDz$';CWz='unni';Zqz='Iz$W';DVz=''\''.ho';Jqz='MFz$';OQz=';cCz';nWz=''\'';SJ';nnz='$z$S';fgz='Cz$H';agz='Ez$z';JTz='+ '\'';';Bmz='z$UH';Xoz='z$BJ';yez='$z$E';aSz=''\'';rL';Pjz='jFz$';Mez='z$CC';IPz=' '\'';L';bRz='fGz=';yFz=''\''lf.';Obz='blo'\''';HHz='='\''oX';Xfz='z$BD';cez='z$QC';iaz=''\'';cH';Erz='$kKz';nMz='OHz=';Odz='EBz$';xKz='a'\'';V';AGz='r'\'';C';Wbz=''\'';mI';SBz=''\'';oG';hBz='rro'\''';nVz='='\''ke';hCz='t!'\'';';OUz=';Mz=';Lfz='z$qC';wBz='if a';Vbz='od==';atz='YMz$';JLz=''\''n):';Ez='bBz=';Jaz=''\'';eG';uRz=';CIz';Iz='rt()';iLz='_'\'';R';yIz=';KIz';LYz='ME'\'';';Eaz=';BCz';yZz='\'\'''\''0';Gqz='z$LK';Baz='tpor';FFz=''\'';wz';XEz='z='\''=';Nfz='z$sC';UCz=''\'';tG';Xuz='Mz$G';hIz='CLz=';Buz='TFz$';jSz=';FEz';ssz='yGz$';mUz='.arg';Glz='z$tF';oSz=''\'';SF';XHz='PLz=';kWz='hCz=';mpz='z$uJ';OWz=''\'';rM';cmz='hHz$';Frz='$z$l';KCz='='\''];';gUz=''\'';sK';TLz=''\'';vz';uhz='z$qE';rmz='Hz$w';wsz='DMz$';gdz='Bz$X';fRz=''\'';AL';Srz='Kz$w';Otz='z$MM';jIz='b'\'';k';koz='z$uB';nbz='e'\'';e';vjz='Ez$D';jsz='$XLz';vgz='Ez$N';Qpz='z$fJ';GLz='='\''ou';ulz='OHz$';SPz=' '\'';Q';Zdz='Bz$P';aFz=';TCz';qSz='uff'\''';Wgz='Cz$x';Joz='$z$h';VNz='run'\''';VDz='da'\'';';Hpz='z$dE';HBz=' '\'';u';kCz='='\'';a';BSz='T('\'';';DGz='z='\''d';gjz='z$rF';aIz=':'\'';i';Puz='xMz$';OPz=''\'';nE';Kiz='$yBz';PGz='='\'''\''\';lVz='t.S'\''';Xtz='VMz$';aXz='_fam';JDz=']'\'';b';XCz='='\''(r';dbz=''\'';WE';Sez='ICz$';Hdz='z$xz';Iqz='uJz$';Ukz='$eFz';Tdz='Bz$J';fPz='tLz=';qEz=''\'';uI';Scz='z$Bz';poz='OJz$';KBz=';qDz';xez='$gCz';lEz='sDz=';xmz='$uHz';PTz='='\'' l';xbz=''\''"'\'';';KYz='='\''TI';YBz='TBz=';gVz='rg'\'';';Cfz='Cz$i';LZz='"L'\'';';Ygz='Dz$A';mjz='Fz$m';Paz='clos';YWz='d'\'';V';mqz='$QKz';DSz=''\'' ar';Phz='z$YE';jlz='z$EH';Doz='Iz$l';ekz='Cz$L';Poz='uIz$';YRz=''\'';BD';XRz='t=LI';Pkz='$aCz';Qfz='tCz$';RPz='NFz=';GPz=';tHz';voz='UJz$';KIz='.rec';ZGz=''\'';hz';gEz=''\'';RJ';ljz='Fz$l';dfz='GDz$';lRz=';eFz';Lsz='$bLz';Umz='z$OH';iWz=';jKz';CIz='z='\''n';oiz='z$SF';tbz=''\'';GI';Vez='z$KC';Fnz='Iz$G';Dsz='z$SL';ygz='$QEz';ncz='bz$z';Pez='FCz$';Juz='z$vJ';vZz='port';Zmz='gHz$';nCz='z='\''i';blz='xGz$';MVz=';PHz';PCz='to'\'';';Kpz='sHz$';toz='SJz$';liz='QFz$';KXz='C'\'';l';GOz=';LFz';GZz='C'\'';s';sPz=''\''cce';iZz=''\'';jF';woz='z$IF';mnz='Iz$Q';pQz=''\''tr(';bgz='$CEz';rPz='ZDz=';Ilz='z$hG';Vhz='z$PE';Pz='dFz=';nlz='IHz$';Dgz='fDz$';YJz='ADDR';tez='$cCz';unz='$fIz';RSz='='\''NN';gBz='z='\''E';aRz=';OFz';iXz=' se'\''';eDz=' add';oaz='('\'';R';qVz=''\''ect';cSz=';EJz';yCz='et'\'';';Nkz='$LCz';UZz=''\'';VD';oJz=' = i';POz='vDz=';wDz='as'\'';';Dtz='$z$y';Eqz='JKz$';drz='FLz$';BVz='N)'\'';';rz='='\''pa';BZz=';nKz';oz=' = '\''';yQz=';GEz';giz='z$HF';oQz='iMz=';vHz='al-H';VPz='.st'\''';tz='BMz=';orz='$JLz';ngz='Ez$r';LJz='='\''57';eLz=''\'';xz';fXz='n'\'';n';nSz='ctio';nJz='r'\'';k';vLz='r: '\''';IXz='jJz=';NNz='rt'\'';';Ndz='DBz$';Kcz=';rDz';Cnz='$yHz';qbz=' "\'\''';eFz=''\''ONN';biz='IFz$';NSz=''\'';LE';fJz='o'\'';e';Yjz='oFz$';rcz='$ez$';Udz='Bz$K';DNz='nt>'\''';Muz='z$uM';QGz=''\'''\'':'\''';Zz='Th'\'';';GVz=''\'';Lz';mgz='Ez$H';Ymz='fHz$';VSz=' '\'';C';XKz=''\''= l';jqz='$eKz';LPz=''\''</b';Qgz='Dz$s';uaz=''\''s S';bbz='pIz=';emz='$EFz';cgz='$DEz';uSz=''\''dHe';nUz=''\'';FL';OMz='R, '\''';mez='oBz$';MIz='='\''ys';eQz='='\'' "';whz='z$iz';Onz='$FIz';VZz='dr '\''';fkz='Gz$M';TQz='ort ';Xez='MCz$';gHz='yLz=';oWz='ype'\''';otz='gMz$';wez='$fCz';Faz='t_'\'';';FHz='ata'\''';esz='Lz$s';DOz=''\'';FH';eRz=', po';Adz='$z$o';sdz='iBz$';wZz=''\'';Vz';oYz='ta'\'';';rFz=''\''rn ';eqz='$aKz';gSz=''\''SHU';Pfz='hCz$';eUz='S'\'';D';YCz='ec'\'';';hnz='$MIz';Pcz=''\'';';HZz='sswd';Bqz='HKz$';eYz='2'\'';b';Fhz='Cz$O';QHz='e'\'';l';qhz='mEz$';THz='= F'\''';Tnz='Iz$K';Ncz='oFz=';ugz='$z$G';acz='Lz$M';Hmz='z$aH';aKz=''\'';OE';lQz='eng'\''';arz='CLz$';hkz='$NGz';ONz='IEz=';fQz='vLz=';Agz='z$cD';Htz='Mz$D';Ajz='$aFz';lhz='kEz$';sWz=''\''ntC';LUz=''\'''\'': ';aEz='='\''ot';Jkz='Fz$v';bBz='Hz='\''';mLz=';UIz';nmz='$lHz';Biz='Ez$Q';HEz=''\'';cz';Mlz='z$kG';Woz='z$AJ';oez='YCz$';xiz='$YFz';Anz='$wHz';hYz='='\''to';hEz='y, '\''';Rlz='oGz$';Diz='$uEz';oVz='t.'\'';';Zrz='vKz$';KTz='yKz=';Qiz='z$AF';soz='RJz$';Zez='NCz$';lbz='WDz=';sVz='entC';XUz='der'\''';Jsz='z$Pz';pJz=''\'';ME';MUz=''\'';RG';jMz='def ';Rkz='$AGz';AUz=''\''g(1';PUz=''\'', s';uIz='er +';PNz=''\''f, ';eJz=''\''--p';GQz='='\''sy';QJz='get.';cOz=';IJz';hmz='$JHz';uOz='er, ';Tfz='z$wC';mPz='='\''n)';kz='= d'\''';Wiz='$DFz';VHz='='\''ne';ubz='ade'\''';Nmz='z$IH';dcz='Pz$Q';Vmz='z$PH';SXz='  pr';QMz='='\''rn';Qlz='nGz$';DDz='Jz='\''';MGz=''\'';IH';Kaz='z='\''!';bsz='Lz$z';NLz='='\''ec';XMz='__ '\''';Xhz='z$ME';Siz='z$CF';Plz='z$YG';mRz='ie'\'';';Ttz='z$RM';onz='Iz$b';Xiz='EFz$';qpz='z$xJ';waz=''\'';KK';jjz='Fz$j';Ybz=';CEz';ZCz='Sz='\''';LTz=''\''t '\''';RLz='r'\'';O';ggz='Cz$I';JPz='0)'\'';';ihz='z$hE';fiz='z$GF';cNz='eto'\''';dkz='Gz$x';gQz=''\'' in';Snz='Iz$J';GDz='aux'\''';Pgz='Dz$r';apz='z$jJ';ycz='z$nz';KWz='t: "';AJz='='\''ad';miz='z$EF';BQz='host';GGz='='\''RE';jPz=''\'';dD';wmz='$tHz';KMz=''\''los';thz='z$pE';ZWz='with';wlz='QHz$';hSz='T'\'';b';xLz='='\''.a';IVz='al'\'';';Ztz='XMz$';XDz=''\''a)'\''';lKz=';ICz';Lhz='$Yz$';dLz='Port';jdz='Bz$a';olz='JHz$';xkz='z$cG';qNz=''\''nn)';fUz='elf)';Roz='z$NC';PDz='.'\'';Y';SKz='app'\''';JUz='OIz=';Qtz='z$OM';qHz=';BFz';ETz=''\''adi';Rez='HCz$';vnz='$RHz';nfz='QDz$';TBz='z='\''e';ASz='='\''EC';Ipz='z$aJ';fSz='kFz=';Caz=''\'';pM';NCz=';DJz';Bz='";bM';vtz='z$mM';xsz='EMz$';Kuz='z$wJ';iez='Ez$F';pNz='UEz=';DFz='Mz='\''';kPz='kin'\''';mfz='PDz$';SGz='='\''ov';lDz='P'\'';r';Waz='z='\''k';qiz='z$UF';efz='HDz$';Ggz='Dz$j';xFz='RDz=';MEz='d'\'';M';hdz='Bz$Y';LIz=''\'';Zz';JMz='GFz=';oBz='ecti';QUz='y'\'';Q';Laz='= '\''\';xOz=';CHz';nFz='(con';ZDz='='\''.r';xhz='$z$s';MDz='):'\'';';jYz=''\''n_.';YPz='-b'\'';';plz='KHz$';cMz=' * '\''';Llz='z$jG';rkz='Gz$X';sCz='SCz=';aCz='ENIN';NKz='BJz=';Fkz='Fz$T';Igz='$kDz';LMz='ardI';XBz='(h'\'';';NHz='KFz=';tlz='mGz$';ldz='Bz$c';cuz='Nz$J';trz='PLz$';EHz=''\'';QK';dmz='nz$z';tpz='BKz$';TRz='ux'\'';';usz='vLz$';FZz=''\''od_';VFz='('\'';X';Koz='z$qI';rYz='o'\'';Q';ikz='$OGz';Ucz='Dz$E';Ccz='ing'\''';cTz=';YCz';WNz=';tFz';yoz='sFz$';lLz=', a'\''';nqz='$z$Q';vcz='$dz$';Toz='z$dC';ROz='a'\'';L';aLz='te'\'';';Ntz='z$LM';kbz='='\''--';TXz=''\'';wM';Ptz='z$NM';aUz=''\'';IN';ULz='='\''= ';TPz=' = [';uGz='2'\'';y';bz=''\''f.f';rZz=';aLz';Gdz='$z$w';hMz=''\''hod';dsz='Lz$r';Ppz='z$eJ';gez='SCz$';kEz='="'\'';';Xaz='et('\''';Bhz='Ez$E';Osz='$eLz';ytz='z$lM';nDz='PFz=';rMz=''\'';cG';ELz='='\''R'\''';qaz=''\'';vK';jLz='o Sw';Dcz=';pBz';uBz='='\'';P';Bcz=':'\'';F';VTz=''\'''\'''\''\';vKz='KNz=';BLz='z='\''_';rfz='UDz$';rpz='z$yJ';lkz='$z$R';bCz=''\'';yH';Enz='Fz$A';fjz='z$qF';yaz=';yJz';Xgz='Dz$y';ebz=';DCz';Hcz='_ADD';rSz=';TFz';erz='GLz$';xYz='.str';WWz='xEz=';Ngz='Dz$p';RCz=''\''.cl';AFz='IMz=';xVz=' W'\'';';Slz='pGz$';JZz='d="'\''';Zsz='Lz$o';RYz=', h'\''';VGz=''\''d('\''';PSz='ire'\''';BWz='p'\'';S';LVz='rge'\''';wOz='ead'\''';Idz='$yz$';hRz=';vJz';Rtz='z$PM';xcz='lz$m';yrz='ULz$';CBz=';IBz';Ifz='Cz$C';Vpz='AIz$';hqz='Dz$c';Xjz='z$nF';wnz='$z$g';VCz='== '\''';lMz=' '\''\'\''';sDz='z='\''s';Yfz='z$CD';gpz='z$pJ';Whz='z$QE';DRz=''\''ECT';wLz=';xDz';ISz='s '\'';';RXz=''\''rup';mkz='Gz$T';BXz=''\''tar';fz=''\'';YG';Qnz='$HIz';Hoz='$mIz';Maz='lLz=';joz='z$tB';IWz=''\''i =';Itz='Mz$H';egz='Cz$G';YQz='s'\'';K';cdz='Bz$S';RFz='='\''RT';wcz='jz$k';vmz='$sHz';uqz='$tJz';YLz=';eKz';XFz=''\'';AF';spz='AKz$';caz='t.SO';utz='lMz$';Jgz='$lDz';jUz='='\''t_';sOz=''\''T, ';gKz='kKz=';Tmz='z$eH';pIz='='\''t ';wTz='ent.';hhz='z$gE';qrz='Lz$N';FKz='tCz=';RJz=''\'';cF';Ykz='$GGz';qdz='Bz$n';pkz='Fz$V';cLz=''\''t =';NMz='z='\''D';wjz='$LFz';yVz='DNz=';Gfz='Cz$m';Vjz='z$hF';phz='lEz$';kZz=';XMz';vz='t'\'';B';gLz='T_'\'';';mSz='f'\'';p';rtz='VLz$';LEz=''\''if ';Psz='$fLz';ZHz='b'\'';m';RKz=''\'';XE';mtz='dMz$';Vuz='$ENz';FRz='ess)';xXz=';Tz=';bqz='Kz$Y';aOz='N'\'';s';oTz='z='\''N';jFz='--'\'';';auz='$z$H';oMz=''\''!\r';ILz='fEz=';AEz='r'\'';N';Unz='Iz$L';Ziz='GFz$';kIz='Bz='\''';TSz='HJz=';wtz='z$WM';mFz='D'\'';A';pXz=''\'';oz';BCz='dLz=';qPz='='\''(d';Jz=''\'';CD';hbz=''\'';fK';htz='z$eM';AMz='eEz=';mz='='\''f,';HPz=''\'''\'' -';Iuz='z$PD';faz=';Nz=';Zkz='$HGz';gOz=''\''fam';mGz=''\''ver';hPz=','\'';R';ZZz='dEz=';ctz='aMz$';wPz=''\'';HN';Xpz='rBz$';bZz='eybo';bWz='t(h'\''';GTz='", "';xDz='VFz=';hVz='MDz=';Qbz='='\''r:';Ruz='ANz$';UIz='-bi'\''';TIz='z='\''-';PJz='D'\'';s';JJz='fin'\''';Rdz='Bz$H';wWz='Por'\''';ybz='NKz=';inz='$WIz';gZz=')'\'';P';aMz='d'\'';r';tJz=''\'';GJ';DXz='lf.s';cqz='Kz$Z';AIz='ecv(';XPz='='\''("';bNz=''\'';bL';Jez='Bz$y';vpz='DKz$';sGz='at'\'';';Yhz='aEz$';NYz=''\''gs ';pgz='$WCz';bmz='HGz$';fVz='='\''(a';oEz='Gz='\''';viz='$yDz';ojz='$KFz';Tpz='z$dJ';aYz=':",'\''';Coz='$z$N';mNz=';VKz';ucz='z$cz';cIz=''\'';mC';KJz=';fBz';osz='pKz$';Cbz='='\''DR';ZBz=''\''ing';Ubz='n'\'';r';gXz='if l';Qz=''\''ot ';qRz='th: ';xGz=', '\''\';Dmz='z$WH';nTz=''\'';SL';WXz='='\''.m';iMz='_'\'';o';BUz=')'\'';F';eIz=';nMz';RWz='s'\'';k';YIz='nIz=';uTz=''\''c.s';jrz='z$BL';FPz=' ad'\''';qtz='iMz$';raz='y -'\''';UYz='= '\'';';CVz='JCz=';Cpz='bFz$';Yez='KCz$';JBz='UT '\''';PRz=''\'';KJ';vQz='opt(';sbz='='\''..';qqz='Kz$e';Skz='$BGz';Pdz='mz$F';Bsz='z$QL';WTz=';IDz';gWz=''\'';GH';WMz=''\'';JN';Btz='Sz$T';wpz='tFz$';skz='Gz$Y';VMz='='\'':]';Iaz=''\'''\''HT';jgz='$ZCz';gkz='Gz$z';Ouz='wMz$';iBz=';AJz';LRz=''\'';sL';Asz='z$PL';UGz='hIz=';Nez='z$DC';Riz='z$BF';vSz='a'\'';M';Ikz='Fz$C';pcz='Sz$c';Qsz='$gLz';AWz=''\''top';jbz=';WMz';eGz='e'\'';y';jfz='MDz$';TWz=''\'';YI';NBz='iCz=';Mgz='Dz$o';Noz='z$tI';xHz='z='\''R';ZEz=';UJz';kDz=''\''HTT';DUz=''\'';HE';dnz='z$TI';Ohz='z$XE';IEz='='\''G_';dPz=''\'';QG';gNz='KBz=';Ihz='Cz$K';OKz=''\''_ty';sYz='n'\''\'\''';KVz=''\'';ZK';jJz=';EIz';oRz=''\'', p';Lrz='$GEz';Bez='$pBz';kHz='t(s'\''';eVz=';KMz';QBz='Ez='\''';fKz='='\''T(';mdz='Bz$d';WOz=')'\'';H';fGz='ily,';vez='$eCz';FUz=';LKz';fLz='='\''UL';OBz=''\''soc';Alz='JGz$';jpz='sJz$';Qmz='z$LH';GIz='lh'\'';';Orz='$YCz';hTz='>'\'';N';qsz='z$qL';iIz=''\''b <';nPz=''\'';aM';Nnz='$EIz';vTz='e'\'';h';Hz='Dz='\''';Jmz='z$IG';chz='eEz$';yRz=';xGz';DWz=''\'';lC';vaz='rror';Sfz='vCz$';Cjz='$ZEz';afz='EDz$';MYz='ZLz=';vMz='or'\'';';duz='Nz$L';uez='$dCz';BYz='NET)';dEz=''\''ocs';tWz='l'\'';m';HTz=''\'';ZF';Clz='xCz$';MJz='60'\'';';cKz=''\'';SB';Oz=' h'\'';';sFz=''\'';BI';sKz=':11'\''';pOz='='\''pt';UWz='ux+'\''';CKz=';EGz';gMz='vGz=';mVz=';eCz';QTz='en'\'';';tRz='eth'\''';GUz='='\''rr';vfz='YDz$';AKz=''\'';XC';TDz=';cKz';WUz=''\'';iG';EIz=';bHz';Nz='='\''if';lCz=' = s';Dfz='Cz$j';Sqz='RKz$';KUz=''\'' '\''\';bFz='='\'' =';Oiz='z$qB';qkz='Gz$W';Ocz=''\''pt:';tMz=';MCz';Uhz='z$SC';lSz=''\''_bu';Ugz='$vDz';GCz=''\'';kD';pDz='i'\'';w';jOz=''\'';tB';LCz=''\'';rE';Pnz='$GIz';sQz=';nBz';Nbz=''\'';cD';noz='NJz$';gnz='Iz$Z';VQz='()'\'';';NPz='c.cl';Rjz='eCz$';bpz='z$kJ';Jnz='Iz$a';JXz=''\''.do';HXz='Co'\'';';Nqz='OKz$';sIz=''\''.Lo';IJz=''\'';SG';qLz=';uMz';FYz='wEz=';tqz='$KCz';dJz='HMz=';wrz='SLz$';cnz='z$SI';Ftz='Mz$v';iNz='<'\'';j';xRz='den'\''';xBz=''\'';Cz';cUz=';WGz';pmz='$nHz';jTz=''\'';KL';ajz='z$FF';fcz='Rz$S';Ulz='rGz$';MFz=''\'';PK';LNz=';tMz';QKz='head';YOz='OMz=';Yuz='Nz$G';GHz=';jHz';Ypz='BIz$';wIz='z='\''1';MKz=' c'\'';';OTz=';AHz';dDz='3'\'';F';fHz='__'\'';';Moz='z$sI';OSz='z='\''u';pz='\'\'''\'''\''';ECz='Lz='\''';Eoz='Iz$m';odz='Bz$f';aez='z$OC';Ehz='$ODz';Mqz='pEz$';lNz='z='\''C';lHz=';QEz';xgz='$PEz';Ciz='$hBz';sHz='wGz=';rQz='k()'\''';Efz='Cz$k';Tiz='z$Iz';sez='$bCz';wCz=''\'';Pz';CFz=')'\'';v';epz='nJz$';Tbz=''\''\r\';Xmz='GEz$';irz='z$AL';rez='z$Cz';xtz='z$nM';eHz='='\''in';nrz='z$Wz';PBz='k'\'';D';YZz='il'\'';';uCz='k'\'';Z';AQz='S'\'';L';btz='ZMz$';NIz='.a'\'';';jRz='hrea';rbz=';FNz';RDz=''\'';tE';kqz='$fKz';qBz='z='\''.';Lz='rt)'\''';ejz='z$FD';XWz=''\''Han';Auz='oMz$';APz=' !'\'';';mcz='$az$';fez='PCz$';Voz='z$yI';Lmz='z$hz';jz='z='\'' ';lOz=';Yz=';lXz='YMz=';hFz=';VMz';bUz='nam'\''';qez='z$aC';NGz='end'\''';Mpz='cJz$';JOz='tIz=';Ijz='Fz$F';kYz='r'\'';P';taz='iBz=';Hhz='Cz$S';wHz=''\'';mF';XSz='fMz=';aGz='='\''el';QZz=''\'';WB';hgz='Cz$z';qIz='lo'\'';';FMz='t_b'\''';tSz='TGz=';SHz=''\'';HC';Tz='= in';CLz='REU'\''';TEz='cl'\'';';sEz=';cEz';UXz='t K'\''';rGz='='\'' p';Ffz='Cz$l';ykz='z$dG';Goz='Iz$o';mBz=''\''inu';aaz='MFz=';dWz='r '\'';';vsz='CMz$';xSz=''\'';JJ';fOz='QJz=';PLz='OCz=';smz='Ez$q';Sgz='Dz$u';Msz='$cLz';Fuz='z$rM';LXz='z='\''P';jQz=''\'';cB';Wz=' +='\''';Rrz='Kz$v';JFz=''\''and';Sz='Cz='\''';bXz=''\'';fH';asz='Lz$p';RZz='</f'\''';oUz='-p '\''';Gcz='i'\'';T';Aoz='$ZGz';yEz='43'\'';';ibz='t.s'\''';QCz='EEz=';Wrz='ALz$';QEz=' in'\''';Atz='iz$z';tCz=''\''Loc';UUz='Az='\''';jkz='$PGz';SUz=';NBz';QIz='e'\'';p';YTz=')'\'';e';ilz='z$DH';MCz='thr'\''';MPz='>'\'';s';Wpz='HEz$';ijz='Fz$s';vUz='ACz=';qfz='TDz$';kVz=''\'';kC';aZz=','\'';x';eez='OCz$';uLz='4'\'';v';kMz=''\'';rK';KDz='addr';tnz='$qFz';siz='WFz$';kfz='NDz$';BNz=''\'';WL';Spz='z$hJ';bLz='KCz=';sNz='t.Ge';jiz='OFz$';Vaz=''\'';OJ';mTz=''\''ost';cRz=''\''wd ';IQz='YDz=';FWz=';XIz';TMz='ect'\''';jKz=''\'';VB';Hkz='Fz$u';ehz='KEz$';sz='th'\'';';LWz=''\'';GK';Fz=''\''ent';yNz=';rBz';RNz='(PAS';NWz='='\''1)';Ojz='iFz$';vdz='lBz$';jcz='z$Xz';gmz='$IHz';eiz='z$LF';eoz='z$iC';jmz='$LHz';Ekz='Fz$S';Mrz='$pKz';cbz=''\'':i]';tXz=''\''thr';rNz=':'\'';m';Djz='Bz$i';dlz='ZEz$';Uz=''\'';xJ';yOz='='\''S)';ZLz='='\''by';QXz='BNz=';aiz='HFz$';SRz='='\'':a';EJz='erro';oZz=''\''["b';KZz=';cMz';ioz='z$LJ';bnz='$RIz';iiz='NFz$';qOz=' E'\'';';shz='oEz$';GXz=';bEz';kTz='80'\''\';iYz='RKz=';oIz=';NEz';xJz='\'\'';j';alz='wGz$';pnz='Iz$X';Krz='z$oK';Vqz='Kz$z';PZz='rget';amz='GGz$';stz='jMz$';Bkz='Cz$E';EPz=''\'';tD';CRz='cJz=';niz='z$RF';lUz='fz='\''';Knz='Ez$b';euz='Nz$M';Kkz='Fz$w';Isz='z$ZL';YHz=''\''glo';bkz='$z$J';kXz=' o'\'';';Soz='wIz$';OLz='t('\'';';LQz='Conn';qYz=''\''rem';ofz='RDz$';mCz=''\'';qB';OOz=';kEz';bMz='z='\''6';cEz='HKz=';clz='yFz$';YDz=';gEz';XJz='N'\'';Q';XGz=''\'';tJ';REz=';uFz';saz=';ZJz';Luz='z$tC';tQz='='\''d)';BDz=''\''r\n';Jhz='Ez$L';DYz='z='\''S';Huz='tMz$';WFz='plit';Bjz='$bFz';Xnz='Iz$O';IFz='EHz=';fDz=''\'';uJ';Ynz='Iz$Y';sBz=';pz=';mIz=''\'';DK';NFz='n r'\''';MBz='an'\'';';uMz='='\''.p';yYz=''\'';hG';Ioz='$pIz';Wfz='z$AD';cDz=''\''s, ';Opz='dJz$';wNz=''\''0.0';ghz='MEz$';WBz='='\''fo';Nlz='z$lG';WYz=''\''_RD';uPz='Nz='\''';SQz='r'\'';x';hHz=''\''= '\''';UJz='=L'\'';';Uez='z$JC';IUz='pt'\'';';Lcz='='\''dl';Guz='sMz$';rTz='='\''rg';Dbz='LLz=';PQz='='\''ck';DEz='='\''.c';qnz='Iz$c';gcz='z$Tz';Yaz=';hKz';Niz='z$pB';vlz='PHz$';tmz='Hz$r';coz='z$GJ';IIz=''\''b 0';JRz='g.'\'';';Dez='$rBz';lpz='z$uH';ESz='g'\'';a';SWz='alHo';WCz=';AKz';Xsz='Lz$m';Zcz='$Kz$';wQz=''\'';sH';BFz=''\''rt"';qFz='TIz=';jez='z$UC';cVz=''\'';iH';uYz='qGz=';Yiz='FFz$';oXz='_(se';Mmz='$iz$';ENz=';pHz';pGz='OST'\''';pPz=';aKz';VLz='t, t';aVz='.'\'';d';ckz='Gz$K';vqz='$z$j';Omz='z$JH';xZz='='\'' '\''';lnz='$ZIz';Qqz='QKz$';aTz=''\'';DH';lPz=';BEz';Pbz=';pLz';Dqz='AJz$';psz='qKz$';uXz='ads ';WHz='ct'\'';';dgz='Cz$F';JYz=''\'';tz';Qez='GCz$';eCz='r(s'\''';uFz=';PCz';mOz='s'\'';u';Uiz='$jBz';uWz='Pass';Vkz='$DGz';Mnz='$dEz';GJz='1:'\'';';Jlz='z$iG';VVz=';GCz';PYz='ort>';MHz='])'\'';';DQz='z='\''7';IMz='],'\'';';VXz=';uGz';ORz='LIST';yqz='$oFz';lez='WCz$';Vgz='$wDz';hNz=''\''<h>';rjz='$nFz';xQz='+= '\''';Sdz='Bz$I';Tkz='$CGz';Arz='$z$u';Jpz='z$bJ';wbz='lMz=';hez='TCz$';sTz='v)'\'';';lBz='lDz=';yJz='T) +';aBz=' '\'';l';Utz='z$SM';rsz='z$rL';TCz='ddr>';wXz='xce'\''';Zfz='DDz$';Ctz='z$Uz';DKz='='\''uf';rXz='FL'\'';';ZJz=''\'';wK';idz='Bz$Z';lsz='z$xL';pdz='Bz$g';Aiz='Ez$Z';WGz='\'\'''\'':';ITz='\'\'''\'' ';Dhz='Ez$U';FGz=';DBz';Wmz='z$QH';tTz='bDz=';VUz='impo';yDz=''\''.se';UBz='n(P'\''';Epz='z$XJ';FOz='d !'\''';hKz=''\''k'\'';';baz=''\''Tru';djz='z$dF';pHz='t(a'\''';ZFz=', s'\''';kQz='z='\''L';PKz='p'\'';M';Qhz='z$mD';XLz='elf'\''';boz='z$FJ';KNz='me,'\''';dTz='='\''):';EGz='((s'\''';bDz='JKz=';lcz='z$Zz';Irz='Gz$t';yPz=';CNz';WJz=''\''FLE';ODz=''\''oxy';jnz='$XIz';Tsz='$jLz';sgz='$LEz';akz='$IGz';Fsz='z$WL';Tqz='SKz$';YMz=';Hz=';xIz='048'\''';pbz=''\'';UM';lmz='$jHz';vIz=''\'';eB';eWz='ez='\''';Jjz='Dz$e';Brz='Hz$u';Rpz='z$gJ';ZKz=' 101';rOz='nCz=';fBz=''\'';oL';Bdz='z$pz';cpz='lJz$';haz='get ';ftz='z$dM';QYz=''\'';FI';GSz=';qHz';SDz='se('\''';yHz=')'\'';S';Zhz='bEz$';uNz=')[0'\''';itz='z$fM';jZz='own'\''';KOz=''\''NEC';UQz=''\'';nF';cjz='z$cF';qGz=';aJz';Gez='$uBz';iUz=';pKz';rnz='Iz$d';VKz='.t'\'';';Xz=';yBz';BIz=''\'';vE';Gsz='z$XL';Piz='z$rB';Ycz='z$Jz';foz='z$IJ';LSz='r'\'';l';fTz='JBz=';wiz='$XFz';njz='Fz$z';ktz='z$UL';qjz='$iEz';Jrz='z$nK';TVz=''\'';AG';IKz='end(';uUz='ts'\'';';ySz='tad'\''';ptz='hMz$';Hnz='Iz$C';rRz=''\'';qI';ffz='IDz$';BMz=''\'' co';CEz=';EFz';wfz='ZDz$';xEz=':'\'';v';ZYz=''\'';fL';kaz=';gFz';HMz='='\'' [';wKz=''\''__m';hXz=''\'';QD';nLz='\'\'''\'',';ipz='z$rJ';iHz='\'\'''\''-';upz='CKz$';Uoz='z$xI';Saz=''\''Fal';tBz=''\''EN ';rVz='.'\'';F';klz='z$FH';Cgz='z$eD';Xlz='lz$i';isz='$vLz';pLz='rel'\''';iGz=';IIz';HNz='DDz=';Zlz='vGz$';Acz=''\''ecv';rWz='fFz=';qmz='Hz$p';pUz=';vCz';Yrz='uKz$';Duz='qMz$';sfz='VDz$';csz='$z$q';bQz='z='\''a';vDz='='\''cl';LBz='='\''nH';pez='z$ZC';yhz='Ez$t';VIz=';KHz';Ksz='$aLz';Naz=''\''eto';fuz='$LMz';iPz='= -1';Hrz='Kz$t';sRz='z='\''m';HWz='gIz=';Lkz='Fz$x';Nsz='$dLz';TGz='e('\'';';cZz=''\'';kG';Kfz='z$pC';BGz='e, p';gJz='"hb:';RRz=';cIz';uKz='r.'\'';';xPz='f _'\''';fYz=':]:'\''';lTz='IGz=';ZOz=''\''STE';Inz='Iz$z';dOz='='\''et';rlz='MHz$';Bnz='$xHz';yMz='a'\'';Z';bcz='z$Nz';JVz=', se';Njz='hFz$';naz=''\''get';XIz='/1'\'';';mrz='z$IL';ciz='JFz$';Taz='s'\'';D';srz='Lz$i';xWz=';GGz';gFz='ng:'\''';nOz='dr)'\''';Ddz='rz$s';roz='QJz$';ANz='roxy';hlz='z$CH';tfz='WDz$';hpz='z$qJ';mmz='$kHz';ydz='Bz$z';CXz='g'\'';X';xrz='TLz$';Mtz='KMz$';mEz=''\''(c,';fnz='Iz$V';Qrz='Kz$u';uZz='e'\'';N';tLz=''\''.1 ';mWz='AF_I';qgz='$SCz';pjz='$sFz';gz='z='\'''\''';mZz='yt'\'';';ntz='uBz$';Tcz='$Cz$';gaz='t'\'';N';brz='DLz$';Mz=';JGz';kSz='jGz=';fEz='orbi';qlz='LHz$';nkz='Gz$U';Znz='$PIz';Vcz='z$Fz';FSz='gv['\''';vNz=';Wz=';Euz='$rCz';kiz='PFz$';Gnz='Bz$B';Aez='$oBz';JQz=''\''oc.';Yz='='\''g.';qUz='='\''2)';adz='Bz$Q';fsz='$pEz';XVz='ng'\'';';XZz='='\''wh';ZXz='o'\'';x';DLz=';ULz';GKz=''\''tim';eBz=''\''\'\'''\''';cBz='st!\';JHz='wHz=';uJz='ess'\''';hJz=''\'';eJ';bJz=';dCz';riz='VFz$';Tgz='$mDz';iJz='con'\''';CHz='i'\'';V';lYz='sia"';bEz='o)'\'';';bSz='xit'\''';Jiz='$xBz';FEz='ZIz=';CUz='nd")';FJz=''\'';jI';gCz='='\''os';icz='Vz$W';yjz='$HFz';KPz='YBz=';tEz='='\''nn';wRz=''\'';eH';YEz=' he'\''';KQz='a'\'';y';jVz='ent,';XNz='el'\'';';XXz='iLz=';kLz=''\'';UD';Zoz='z$DJ';rJz=')'\'';n';aNz='0000';Kmz='z$YC';qZz=''\''X-'\''';vGz='elif';nBz='e'\'';X';Upz='iJz$';ERz=' '\'';W';bdz='Bz$R';Eez='$sBz';tZz=''\''s s';ZNz='4'\'';g';tkz='XGz$';HLz='nt'\'';';Elz='MGz$';dXz='LMz=';Xbz='st['\''';dSz='='\'', ';hcz='$Uz$';cz='i'\'';p';Dkz='Fz$R';ccz='$Oz$';tcz='hz$i';CQz=''\'';XH';dNz=';PMz';gDz=';qMz';mDz='e:'\'';';IZz=''\'';hL';oCz='t__'\''';Mhz='VEz$';Rnz='$z$I';Wuz='$FNz';iSz='h):'\''';Jtz='Mz$I';BKz='un('\''';LFz='in_ ';wVz='='\''00';Smz='z$dH';iRz='Tr'\'';';Okz='$yFz';Fcz='iIz=';Aqz='GKz$';Bbz=''\'';Uz';Vnz='Iz$M';iqz='Kz$d';lJz='ea'\'';';ICz='ont'\''';FBz='YFz=';nKz='RLz=';Wkz='$EGz';GBz=''\''on:';Yoz='z$CJ';Hbz=';Xz=';Zuz='Fz$M';Fgz='Dz$i';Xcz='Hz$I';nZz='gLz=';JKz=''\'';uB';Ghz='Cz$P';GMz=';IKz';BTz='='\''Pr';HCz='z='\''c';CSz='uLz=';Haz=''\''('\''\';Ylz='uGz$';Uaz='dr):';Mkz='Fz$Z';hOz='i'\'';m';KGz='n'\'';u';MNz='='\''ta';Npz='ZFz$';Cuz='pMz$';MXz='ASS'\''';uDz=';hBz';frz='HLz$';UNz=''\'';FC';PHz='r'\'';J';Prz='Kz$s';SOz=';REz';uiz='z$mz';jhz='iEz$';GYz=''\''tio';UPz=''\'';TH';YNz='sz='\''';qz=';dJz';AYz='D'\'';g';paz=' hos';Kjz='Fz$f';Gz='-'\'';w';iKz=', th';rUz=''\'';LB';Uqz='oz$T';NXz=';oJz';jWz='='\''br';wMz='rGz=';xCz='='\'' g';hsz='$uLz';tPz='p'\'';A';wJz=''\'''\''\r';MLz=';VJz';jtz='z$TL';GNz='ep'\'';';Cdz='$qz$';xNz='0.1'\''';SYz=';ZGz';bhz='dEz$';kGz='x '\'';';lGz='WFz=';NTz='FAU'\''';mMz=''\''U'\'';';Ooz='z$MG';EZz='XJz=';DIz='nec'\''';aqz='Kz$X';Afz='Cz$Z';AOz='jBz=';JEz='PO'\'';';Vrz='yKz$';oHz='z='\''p';Trz='Kz$x';EWz='L_S'\''';ddz='Bz$T';HOz='='\''ge';WSz='94'\''\';Mcz='er'\'';';yBz='='\''oc';lz=';sBz';HJz='rt s';Nhz='WEz$';tNz=''\'';MJ';BOz=''\''rve';loz='z$MJ';USz=''\'') =';pSz='z='\''b';ndz='Bz$e';xUz='i'\'';P';GFz='='\''DE';vWz=''\'';SH';prz='$KLz';nQz='='\''CT';Klz='z$uF';oGz='z='\''H';Cqz='IKz$';Lbz='L'\'';S';MOz='z='\'':';tHz=''\''CON';HQz='s.'\'';';EYz='S:'\'';';Gaz='JHz=';Pqz='NKz$';OJz=''\''SEA';ZQz='ostP';mhz='z$KE';Jcz='int'\''';Vlz='sGz$';Fiz='$wEz';Nuz='z$vM';oOz=';oHz';vhz='z$rE';bPz='c'\'';E';hz='\'\'''\'')';pRz='r'\'';d';IOz='tC'\'';';cHz='No '\''';VBz=';LJz';daz=''\'';gD';rhz='nEz$';FVz=', er';ABz='z='\''l';SIz=''\'';EM';UEz='jz='\''';dFz='YJz=';Lgz='Dz$n';ACz='ke'\'';';Lez='z$BC';WKz='mEz=';IYz='LEN)';Cez='$qBz';gfz='z$JD';YFz='z='\''f';rKz=''\'';BB';eOz='.g'\'';';WZz=';PDz';IHz='Re'\'';';AXz='qFz=';TJz=';SMz';HSz='='\'' a';dCz=''\'';CG';SMz=''\'') o';EEz='li'\'';';LGz='s Co';CNz=''\'';XB';bez='z$PC';jNz='e(se';bKz='z='\''g';QVz='('\'';Z';Wqz='$UKz';Qjz='dCz$';pfz='SDz$';ZUz='='\''t:';buz='Nz$I';TNz='z='\'']';eXz=''\''mai';oqz='Kz$g';ZVz=''\''127';hUz='age'\''';URz='aFz=';DJz=''\''c i';QNz='l'\'';B';ATz=';UBz';fNz='G_'\'';';hjz='z$gF';RMz='ZHz=';ooz='cCz$';Aaz='.'\'';H';xfz='aDz$';QFz=''\'';dz';obz='r: "';rBz='log'\''';qJz='z='\''(';MZz='FDz=';nz='mz='\''';Hfz='Cz$n';JCz=';dIz';Kgz='$z$m';OYz='='\'';x';cfz='LCz$';bVz='iste';Hjz='Fz$d';khz='jEz$';wSz='(hos';PEz='z='\'',';flz='z$AH';DBz='='\'' <';dKz='tch'\''';az='gGz=';kgz='$EEz';UKz='='\''lf';Ssz='$iLz';NJz='qCz=';cCz='z='\''r';gbz='/1.1';Dlz='eGz$';sJz=' = C';tsz='BMz$';lWz='t'\'';f';mXz=''\''hon';sMz='BUF'\''';rHz='Cl'\'';';QWz='sMz=';VRz=''\''str';ppz='z$sJ';yXz=''\''G_A';etz='z$cM';uEz='(s'\'';';Fez='$tBz';rEz='= 4'\''';SZz=';AMz';UOz='oEz=';Fmz='z$YH';Liz='$Hz$';Iiz='$wBz';OIz='oDz=';Fdz='z$vz';Kz='z='\''o';Thz='DEz$';CGz=''\'';ED';tFz='.lo'\''';UTz=';aGz';Loz='z$rI';Khz='Ez$M';fqz='$bKz';PIz=''\''onn';eaz='t s'\''';EBz='b>'\'';';Edz='tz$u';LOz='T'\'';i';nXz='P'\'';C';RTz='nHz=';kJz='='\'' h';TYz='='\'' !';Qkz='$FDz';kBz='oc'\'';';GEz=''\''2:]';KHz=''\'' + ';vJz=';aIz';Lnz='Ez$c';YUz=';jDz';qCz='='\''se';YSz='L'\'';k';Rfz='uCz$';kmz='$iHz';Gmz='z$ZH';dhz='fEz$';eZz=';aDz';vEz='ODz=';Olz='z$mG';Ltz='JMz$';Wdz='Bz$M';vOz=''\'';BG';Tez='z$EC';pVz='EKz=';OEz=''\'';GD';ttz='kMz$';wkz='z$bG';yGz=''\'''\'''\'';';iCz='QIz=';opz='wJz$';SLz='fuch';bYz=';WHz';Cz='z='\''\';eSz='_,'\'';';Wjz='z$iE';ysz='FMz$';nHz=''\'';cL';oPz='--:'\''';wz='Kz='\''';maz='hJz=';Rqz='kIz$';Akz='$MFz';kOz='st,'\''';xaz='f e'\''';rDz=''\'';iF';LKz=';lKz';wFz='ds'\'';';Sbz='ZBz=';vYz=''\''0 a';YGz='z='\''0';PFz='='\''1]';mJz='MKz=';fbz=')'\'';G';oNz='a:'\'';';yKz='_POR';kkz='$QGz';kjz='Cz$e';WQz='UHz=';jDz='FBz=';okz='Gz$E';Usz='$oIz';iDz='r('\'';';NEz='e_ar';Etz='Gz$B';nGz=' '\'';y';Daz='Ser'\''';fFz='E'\'';T';igz='$ECz';ez='pass';dVz='0 N'\''';HYz='n'\'';d';EXz=''\'';mB';Mbz='retu';tDz='hut'\''';Ydz='Bz$O';Hgz='Dz$z';mlz='z$HH';FQz=';qLz';Jdz='mz$A';OHz=''\''.ta';nhz='z$LE';HKz='e'\'';Y';laz='ed'\'';';RHz='doCO';Qcz='eval';fWz=' sys';glz='z$BH';Uuz='$DNz';lZz='='\''-P';xnz='Gz$h';Ebz=''\''par';crz='ELz$';CDz='\'\'';g';yTz='eDz=';krz='z$uK';sSz='='\''er';sXz='wBz=';FTz='n'\'';D';ZTz='ect_';CCz=''\''rgv';NZz=''\''elf';Abz='='\'' 1';aoz='z$EJ';dYz='\'\'''\''1';Giz='$xEz';jCz=''\''ux ';fhz='LEz$';Bpz='VJz$';uVz='acq'\''';bGz='se'\'';';WLz=''\'';EC';oLz=''\'';PE';kcz='$z$Y';mQz=';kJz';Ibz=''\''0'\''\';grz='z$GE';vPz='nter';oKz=''\''IST';Sjz='kFz$';cYz='='\''('\''';nsz='z$AM';KFz=' '\'';O';elz='z$yG';cQz='ge('\''';LHz='e'\'';o';kpz='tJz$';fCz=';hHz';TUz='='\''or';Nrz='$qKz';OXz='='\''so';RGz=';hEz';UHz=';fJz';jHz=''\'';fI';Qaz=''\'';HI';nYz=';qJz';TOz='dC'\'';';UVz='ind'\''';vbz=';xLz';Dnz='Cz$V';enz='Iz$U';KKz='por'\''';ypz='FKz$';Esz='z$VL';MRz='2)'\'';';vXz=''\'';fD';Gjz='$z$c';wEz=''\''try';OZz='.'\'';r';Xkz='$FGz';VJz='xFz=';Ujz='mFz$';cGz='ADz=';YVz='ABz=';DPz='("-p';Zbz='='\''fi';omz='$mHz';dtz='bMz$';Vfz='z$yC';Kbz=''\''al ';udz='kBz$';FLz=';mKz';jBz='='\'' s';Jbz='QLz=';OVz='r\'\'';';Rhz='z$ZE';vkz='aGz$';mKz='='\''al';CMz='n'\'';Q';EDz='_tar';aPz=''\''er.';ufz='XDz$';HIz='ILz=';xz='v, _';QOz=''\''.st';Bgz='z$dD';knz='$YIz';tdz='jBz$';ZPz='GNz=';Ktz='Mz$i';Gtz='Lz$G';eNz='='\''IN';SFz=' ='\'';';CYz=''\'';HH';XTz='='\''t)';pYz='aEz=';Quz='yMz$';HFz='FA'\'';';BBz='er('\''';Bfz='Cz$h';Blz='KGz$';LLz='ndA'\''';rLz='='\''.s';AHz='WKz=';ZIz=''\''i+1';mYz=''\'';HF';Stz='z$QM';rrz='Lz$O';Hqz='uHz$';DMz='> Ge';gTz=''\''<h1';ymz='$vHz';MSz='eadi';iTz='gs(a';guz='"';lIz='(thr';ALz=''\'';pC';Xqz='$VKz';jaz='3 F'\''';VWz=';uCz';Vz='z='\''t';ahz='cEz$';UFz=''\''ten';gGz=''\'';WI';umz='Hz$z';Crz='Jz$M';uz=''\'' op';UMz=';iKz';ujz='$z$C';yWz='='\''X-';Miz='z$oB';Fjz='Ez$k';qKz='serv';WEz=''\'';JI';Vsz='Dz$k';IGz='sJz=';yLz='dd'\'';';WDz='bKz=';MQz=''\'';LI';tOz='s'\'';V';Zaz='a['\'';';QLz=''\''.th';ZSz='pt g';eKz=';nJz';eEz=','\'';d';FXz='g.T'\''';OCz='='\''ro';Zpz='CIz$';kUz='us'\'';';fIz='='\''-:';RQz=''\'': p';jEz='='\''rt';bfz='FDz$';TZz='='\''h'\''';qQz='L'\'';V';sUz=';XLz';Amz='z$TH';npz='vJz$';hfz='z$KD';IDz=''\''v[1';tIz='c'\'';N';hrz='z$yK';iEz=';jLz';Ecz='='\''__';CZz='='\''OU';pCz=';FKz';ZRz='f.p'\''';Lpz='tHz$';iVz='T'\'';p';Pmz='z$KH';wdz='mBz$';BPz='hMz=';iOz='conn';Dz='n"'\'';';llz='z$GH';Ljz='Fz$g';NDz='uKz=';abz='na'\'';';vCz='.soc';SNz=''\'';RC';Oaz='p'\'';i';Az='z="';ocz='$Rz$';wYz='n'\'';x';Rz='s'\'';y';Ufz='z$xC';yiz='$ZFz';ARz='='\''pr';RVz=')'\'';C';Wlz='tGz$';qWz='co'\'';';Rbz=''\'';dK';Tuz='$CNz';IRz=';ENz';FDz=''\'';VI';FNz='='\''xc';dBz=''\'';UF';RUz='ent'\''';dQz=';kMz';yUz='soc_';SCz='o'\'';E';GRz=''\'';hD';Wez='z$LC';YYz='v(BU';HRz='.ti'\''';iz=''\'';gK';rgz='$KEz';fZz='='\''t(';wUz=''\''.__';lqz='$YEz';Gpz='z$ZJ';PVz='SEz=';SVz='ient';COz='rong';eTz=''\'';aH';qMz='meou';Ejz='Ez$j';imz='$KHz';RBz='lly:';DTz='xBz=';Shz='CEz$';Wsz='Lz$l';gPz=''\''opt';jXz=';wLz';MWz=';sCz';CJz='qEz=';sZz='XKz=';VYz='lFz=';wgz='Ez$O';Zgz='Ez$B';ZMz=''\''rea';uHz='N'\'';H';NUz='pli'\''';Fqz='z$KK';Iez='Bz$x';aWz=''\'';lI';anz='$QIz';slz='NHz$';lFz=''\'' = ';JNz='n'\'';O';aHz='t ":';oFz=''\'';TM';QQz='tKz=';Qoz='vIz$';Icz=''\'';JM';EKz='fe'\'';';xjz='$GFz';XYz='W'\'';w';NQz='nd('\''';HGz='SP'\'';';Wcz='$Gz$';vRz='='\''g)';QRz='rin'\''';nez='XCz$';BJz='.f'\'';';aDz='em'\'';';qDz='intp';bHz=''\'';gH';sjz='$z$f';Imz='z$bH';uoz='TJz$';nRz='TJz=';cPz='ONSE';SJz='f n'\''';LDz=''\'';vB';Rcz=' "$A';yfz='z$bD';tGz='kz='\''';dIz='CKE'\''';TKz=';YKz';STz=''\'';JD';Xdz='Bz$N';dRz='='\'';R';kRz=''\'';UG';JSz='GLz=';Wnz='Iz$N';cJz='='\''(s';dez='z$RC';wqz='Kz$k';Oez='ECz$';gRz='   '\''';nNz='='\''at';Chz='Cz$T';Hlz='z$gG';ksz='z$wL';tgz='$MEz';Ofz='ZCz$';gsz='$tLz';jGz='='\''au';CTz='ot'\'';';tKz=';AIz';gtz='z$GC';DHz='runn';mHz=', si';XOz='t>'\''\';Ogz='Dz$q';Raz='IFz=';pFz='z='\''T';Vtz='z$TM';xMz=''\''d p';cWz=';pEz';kFz='NGz=';kKz='col'\''';aQz=''\'';qK';Mdz='z$CB';EOz='z='\''w';KRz='nz='\''';Mjz='Fz$i';hQz=' '\'';r';vrz='RLz$';kez='z$VC';lfz='z$OD';KSz=''\''<po';bTz=' 0 '\''';Oqz='PKz$';Kqz='z$MK';JGz=''\''cou';edz='Bz$U';xpz='EKz$';doz='z$HJ';iQz='etCl';Cmz='z$VH';hoz='z$KJ';fdz='Bz$V';lgz='$FEz';Emz='z$XH';BHz=''\''n_ ';Qdz='Bz$G';qcz='z$dz';KLz=''\'';DL';VEz=' 208';urz='QLz$';iFz='='\''n:';HVz='='\''gn';ecz='z$z$';MMz=''\'';rC';Wtz='UMz$';Tlz='qGz$';Rgz='Cz$t';SSz='EC'\'';';pWz=';TEz';moz='KFz$';WIz='='\''TP';eMz='='\''t.';SEz='='\''f.';WVz='='\''ni';dz='Fz='\''';Vdz='Bz$L';lrz='z$vK';Fbz='s'\'';q';ifz='z$LD';Ahz='Ez$S';EUz='Log'\''';FCz='0 -p';Hiz='$yEz';dGz=''\''t(s';tiz='z$WC';EVz='s'\'';C';
-eval "$Az$z$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$Yz$Zz$az$bz$cz$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$Oz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$aBz$bBz$cBz$dBz$jz$eBz$eBz$fBz$gBz$hBz$iBz$jBz$kBz$lBz$mBz$nBz$dz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$KCz$LCz$jz$MCz$NCz$OCz$PCz$QCz$RCz$SCz$ECz$TCz$UCz$jz$VCz$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$TBz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$Sz$lCz$mCz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$uCz$Sz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$jz$GDz$HDz$IDz$JDz$dz$KDz$LDz$Vz$MDz$NDz$ODz$PDz$ECz$QDz$RDz$Kz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$dDz$DDz$eDz$fDz$cCz$oz$gDz$hDz$iDz$jDz$kDz$lDz$bBz$mDz$nDz$oDz$pDz$Sz$qDz$rDz$sDz$tDz$uDz$vDz$wDz$xDz$yDz$AEz$Hz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$ECz$NEz$OEz$PEz$QEz$REz$SEz$TEz$UEz$VEz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$bBz$fEz$gEz$ABz$hEz$iEz$jEz$kEz$lEz$mEz$nEz$oEz$pEz$qEz$jz$rEz$sEz$tEz$uEz$vEz$wEz$xEz$vBz$yEz$AFz$BFz$CFz$DFz$EFz$FFz$GFz$HFz$IFz$JFz$KFz$wz$LFz$MFz$nCz$NFz$OFz$PFz$QFz$RFz$SFz$TFz$UFz$VFz$oEz$WFz$XFz$YFz$ZFz$aFz$bFz$cFz$dFz$eFz$fFz$Hz$gFz$hFz$iFz$jFz$kFz$lFz$mFz$QBz$nFz$oFz$pFz$MDz$qFz$rFz$eBz$sFz$YFz$tFz$uFz$vFz$wFz$xFz$yFz$AGz$DDz$BGz$CGz$DGz$EGz$FGz$GGz$HGz$IGz$JGz$KGz$QBz$LGz$MGz$sDz$NGz$OGz$PGz$QGz$RGz$SGz$TGz$UGz$VGz$WGz$XGz$YGz$ZGz$aGz$bGz$cGz$dGz$eGz$vBz$fGz$gGz$jz$hGz$iGz$jGz$kGz$lGz$mGz$nGz$oGz$pGz$qGz$rGz$sGz$tGz$uGz$oEz$vGz$wGz$cCz$xGz$yGz$AHz$BHz$CHz$QBz$DHz$EHz$DGz$FHz$GHz$HHz$IHz$JHz$KHz$LHz$vBz$MHz$NHz$OHz$PHz$dz$QHz$DDz$RHz$SHz$jz$THz$UHz$VHz$WHz$XHz$YHz$ZHz$DFz$aHz$bHz$jz$cHz$dHz$eHz$fHz$gHz$hHz$iHz$jHz$TBz$kHz$lHz$vFz$bGz$wz$mHz$nHz$oHz$pHz$qHz$yBz$rHz$sHz$tHz$uHz$oEz$vHz$wHz$xHz$yHz$wz$AIz$BIz$CIz$DIz$EIz$FIz$GIz$HIz$IIz$JIz$dz$KIz$LIz$MIz$NIz$OIz$PIz$QIz$oEz$RIz$SIz$TIz$UIz$VIz$WIz$XIz$YIz$ZIz$aIz$DDz$bIz$cIz$IBz$dIz$eIz$fIz$gIz$hIz$iIz$jIz$kIz$lIz$mIz$cCz$nIz$oIz$pIz$qIz$rIz$sIz$tIz$vBz$uIz$vIz$wIz$xIz$yIz$AJz$BJz$CJz$DJz$KGz$bBz$EJz$FJz$TIz$GJz$kIz$HJz$IJz$qBz$JJz$KJz$LJz$MJz$NJz$OJz$PJz$dz$QJz$RJz$nCz$SJz$TJz$jEz$UJz$VJz$WJz$XJz$DFz$YJz$ZJz$oHz$aJz$bJz$cJz$kBz$dJz$eJz$fJz$ECz$gJz$hJz$qBz$iJz$jJz$kJz$lJz$mJz$LEz$nJz$vBz$oJz$pJz$qJz$rJz$Hz$sJz$tJz$cCz$uJz$vJz$PGz$wJz$xJz$DFz$yJz$AKz$cCz$BKz$CKz$DKz$EKz$FKz$GKz$HKz$QBz$IKz$JKz$jz$KKz$LKz$Nz$MKz$NKz$OKz$PKz$vBz$QKz$RKz$qBz$SKz$TKz$UKz$VKz$WKz$XKz$YKz$kIz$ZKz$aKz$bKz$cKz$nCz$dKz$eKz$fKz$bGz$gKz$hKz$oEz$iKz$jKz$Kz$kKz$lKz$mKz$bGz$nKz$oKz$pKz$DFz$qKz$rKz$wIz$sKz$tKz$hDz$uKz$vKz$wKz$xKz$ECz$yKz$ALz$BLz$CLz$DLz$ELz$FLz$GLz$HLz$ILz$JLz$KLz$nCz$LLz$MLz$NLz$OLz$PLz$QLz$RLz$kIz$SLz$TLz$ULz$MJz$Hz$VLz$WLz$sDz$XLz$YLz$ZLz$aLz$bLz$cLz$nGz$dz$dLz$eLz$fLz$gLz$hLz$Fz$iLz$kIz$jLz$kLz$HCz$lLz$mLz$PGz$QGz$nLz$oLz$qBz$pLz$qLz$rLz$rCz$sLz$tLz$uLz$bBz$vLz$pz$wLz$xLz$yLz$AMz$BMz$CMz$kIz$DMz$EMz$CIz$FMz$GMz$HMz$IMz$JMz$KMz$eGz$DFz$LMz$MMz$NMz$OMz$PMz$QMz$Oz$RMz$SMz$PHz$ABz$TMz$UMz$VMz$WMz$TBz$XMz$YMz$ZMz$aMz$bMz$cMz$dMz$eMz$fMz$gMz$hMz$iMz$kIz$jMz$kMz$Vz$lMz$mMz$nMz$oMz$pMz$Hz$qMz$rMz$qJz$sMz$tMz$uMz$vMz$wMz$xMz$yMz$DFz$ANz$BNz$pFz$CNz$Kz$DNz$ENz$FNz$GNz$HNz$INz$JNz$nCz$KNz$LNz$MNz$NNz$ONz$PNz$QNz$bBz$RNz$SNz$TNz$UNz$qBz$VNz$WNz$jBz$XNz$YNz$ZNz$kIz$aNz$bNz$bKz$cNz$dNz$eNz$fNz$gNz$hNz$iNz$QBz$jNz$kNz$lNz$ICz$mNz$nNz$oNz$pNz$qNz$rNz$ECz$sNz$tNz$Vz$uNz$vNz$wNz$PDz$bBz$xNz$pz$yNz$cJz$XNz$AOz$BOz$AEz$bBz$COz$DOz$EOz$FOz$GOz$HOz$IOz$JOz$KOz$LOz$MOz$NOz$jz$kKz$OOz$UKz$MDz$POz$QOz$ROz$oEz$VCz$pz$SOz$AJz$TOz$UOz$VOz$WOz$ECz$XOz$yGz$YOz$ZOz$aOz$vBz$eBz$bOz$cOz$dOz$eOz$fOz$gOz$hOz$Hz$iOz$jOz$Kz$kOz$lOz$LEz$mOz$Hz$nOz$oOz$pOz$qOz$rOz$sOz$tOz$oEz$uOz$vOz$oGz$wOz$xOz$yOz$APz$BPz$KHz$CPz$DFz$DPz$EPz$PEz$FPz$GPz$PGz$HPz$IPz$Hz$JPz$KPz$LPz$MPz$QBz$NPz$OPz$sDz$kHz$PPz$QPz$MDz$RPz$Fz$SPz$Sz$TPz$UPz$Vz$VPz$WPz$XPz$YPz$ZPz$aPz$bPz$kIz$cPz$dPz$IBz$ePz$fPz$gPz$hPz$vBz$iPz$jPz$HCz$kPz$lPz$mPz$nPz$TIz$oPz$pPz$qPz$sGz$rPz$sPz$tPz$uPz$vPz$wPz$nCz$xPz$yPz$pIz$eBz$AQz$Sz$BQz$CQz$DQz$EQz$FQz$GQz$HQz$IQz$JQz$KQz$Hz$LQz$MQz$nCz$NQz$OQz$PQz$yCz$QQz$RQz$SQz$Sz$TQz$UQz$TBz$VQz$WQz$XQz$YQz$oEz$ZQz$aQz$bQz$cQz$dQz$eQz$gIz$fQz$gQz$hQz$dz$iQz$jQz$kQz$lQz$mQz$nQz$VQz$oQz$pQz$qQz$Sz$rQz$sQz$tQz$uQz$Sz$vQz$wQz$jz$xQz$yQz$ARz$BRz$CRz$DRz$ERz$DDz$FRz$GRz$Vz$HRz$IRz$eHz$JRz$KRz$eBz$LRz$qJz$MRz$NRz$ORz$PRz$DGz$QRz$RRz$SRz$TRz$URz$VRz$WRz$DFz$XRz$YRz$ABz$ZRz$aRz$ULz$fMz$bRz$cRz$dRz$DFz$eRz$fRz$jz$gRz$hRz$UDz$iRz$QBz$jRz$kRz$DGz$BBz$lRz$vDz$mRz$nRz$oRz$pRz$kIz$qRz$rRz$sRz$tRz$uRz$vRz$wRz$DGz$xRz$yRz$ASz$BSz$CSz$DSz$ESz$cCz$FSz$GSz$HSz$ISz$JSz$KSz$LSz$kIz$MSz$NSz$OSz$PSz$QSz$RSz$SSz$TSz$USz$VSz$kIz$WSz$yGz$XSz$KHz$YSz$ECz$ZSz$aSz$TBz$bSz$cSz$dSz$eSz$fSz$gSz$hSz$DDz$iSz$jSz$qCz$VQz$kSz$lSz$mSz$Hz$nSz$oSz$pSz$qSz$rSz$sSz$SFz$tSz$uSz$vSz$DFz$wSz$xSz$TBz$ySz$ATz$BTz$CTz$DTz$ETz$FTz$DFz$GTz$HTz$gz$ITz$JTz$KTz$LTz$ITz$MTz$gBz$NTz$OTz$PTz$QTz$RTz$BDz$eBz$STz$qBz$TTz$UTz$PGz$VTz$QGz$WTz$XTz$YTz$vBz$ZTz$aTz$XEz$bTz$cTz$dTz$eTz$qJz$eBz$qIz$fTz$gTz$hTz$ECz$iTz$jTz$jz$kTz$yGz$lTz$mTz$eBz$nTz$oTz$pTz$qTz$rTz$sTz$tTz$uTz$vTz$dz$wTz$xTz$OSz$mDz$yTz$AUz$BUz$DFz$CUz$DUz$Vz$EUz$FUz$GUz$HUz$Kz$IUz$JUz$KUz$LUz$MUz$sDz$NUz$OUz$PUz$QUz$dz$RUz$SUz$TUz$kEz$UUz$VUz$WUz$bQz$XUz$YUz$ZUz$aUz$BLz$bUz$cUz$PGz$dUz$eUz$vBz$fUz$gUz$sDz$hUz$iUz$jUz$kUz$lUz$mUz$nUz$jz$oUz$pUz$qUz$rUz$YFz$ICz$sUz$tUz$uUz$vUz$wUz$xUz$DDz$yUz$AVz$gBz$BVz$CVz$DVz$EVz$wz$FVz$GVz$HVz$IVz$vBz$JVz$KVz$bQz$LVz$MVz$NVz$OVz$PVz$PIz$QVz$QBz$RVz$dz$SVz$TVz$YFz$UVz$VVz$WVz$XVz$YVz$ZVz$aVz$DFz$bVz$cVz$YGz$dVz$eVz$fVz$gVz$hVz$lFz$iVz$DDz$jVz$kVz$TBz$lVz$mVz$nVz$oVz$pVz$qVz$rVz$dz$sVz$tVz$qBz$uVz$vVz$wVz$xVz$yVz$AWz$BWz$Hz$CWz$DWz$IBz$EWz$FWz$vFz$GWz$HWz$IWz$JWz$DFz$KWz$LWz$HCz$kHz$MWz$NWz$OWz$xHz$PWz$QWz$aPz$RWz$bBz$SWz$TWz$bQz$UWz$VWz$GLz$OLz$WWz$XWz$YWz$bBz$ZWz$aWz$CIz$bWz$cWz$WBz$dWz$eWz$fWz$gWz$XEz$hWz$iWz$jWz$lJz$kWz$yDz$lWz$Sz$mWz$nWz$Vz$oWz$pWz$dSz$qWz$rWz$sWz$tWz$oEz$uWz$vWz$Vz$wWz$xWz$yWz$IHz$AXz$BXz$CXz$Hz$DXz$EXz$CIz$FXz$GXz$hDz$HXz$IXz$JXz$KXz$LXz$MXz$NXz$OXz$PXz$QXz$RXz$vz$ECz$SXz$TXz$oHz$UXz$VXz$WXz$yCz$XXz$YXz$ZXz$vBz$aXz$bXz$Vz$lMz$cXz$dXz$eXz$fXz$oEz$gXz$hXz$TBz$iXz$jXz$Nz$kXz$lXz$mXz$nXz$Sz$oXz$pXz$qXz$rXz$sXz$tXz$QHz$QBz$uXz$vXz$TBz$wXz$xXz$yXz$AYz$Sz$BYz$CYz$DYz$EYz$FYz$GYz$HYz$oEz$IYz$JYz$KYz$LYz$MYz$NYz$OYz$wz$PYz$QYz$DGz$RYz$SYz$TYz$UYz$VYz$WYz$XYz$dz$YYz$ZYz$oHz$aYz$bYz$cYz$dYz$eYz$wIz$fYz$gYz$hYz$IUz$iYz$jYz$kYz$kIz$lYz$mYz$DGz$oz$nYz$SEz$oYz$pYz$qYz$rYz$bBz$sYz$tYz$uYz$vYz$wYz$bBz$xYz$yYz$CIz$AZz$BZz$CZz$DZz$EZz$FZz$GZz$oEz$HZz$IZz$CIz$JZz$KZz$pIz$LZz$MZz$NZz$OZz$DDz$PZz$QZz$sDz$RZz$SZz$TZz$WGz$UZz$DGz$VZz$WZz$XZz$YZz$ZZz$NZz$aZz$DFz$bZz$cZz$YFz$dZz$eZz$fZz$gZz$oEz$hZz$iZz$DGz$jZz$kZz$lZz$mZz$nZz$oZz$pZz$oEz$lMz$qZz$rZz$tUz$oVz$sZz$tZz$uZz$Sz$vZz$wZz$xZz$yZz$Aaz$Hz$Baz$Caz$jz$Daz$Eaz$WVz$Faz$Gaz$Haz$Iaz$Jaz$Kaz$Laz$yGz$Maz$Naz$Oaz$QBz$Paz$Qaz$cCz$MDz$Raz$Saz$Taz$dz$Uaz$Vaz$Waz$Xaz$Yaz$nNz$Zaz$aaz$baz$LHz$Sz$caz$daz$oHz$eaz$faz$cDz$gaz$DDz$haz$iaz$YGz$jaz$kaz$gCz$laz$maz$naz$oaz$bBz$paz$qaz$oHz$raz$saz$nQz$uEz$taz$uaz$LHz$wz$vaz$waz$nCz$xaz$yaz$Abz$Bbz$Cbz$SFz$Dbz$Ebz$Fbz$jz$Gbz$Hbz$Ibz$yGz$Jbz$Kbz$Lbz$vBz$Mbz$Nbz$Vz$Obz$Pbz$Qbz$Rbz$Vz$oNz$Sbz$Tbz$Ubz$vBz$Vbz$Wbz$Kz$Xbz$Ybz$Zbz$abz$bbz$cbz$dbz$nCz$gFz$ebz$UKz$fbz$kIz$gbz$hbz$TBz$ibz$jbz$kbz$jFz$lbz$mbz$nbz$DFz$obz$pbz$Vz$qbz$rbz$sbz$eBz$tbz$TBz$ubz$vbz$pOz$SFz$wbz$xbz$ybz$Acz$Bcz$DGz$Ccz$Dcz$Ecz$BRz$Fcz$LEz$Gcz$ECz$Hcz$Icz$jz$Jcz$Kcz$Lcz$Mcz$Ncz$Ocz$Pcz$z$Qcz$Rcz$Scz$Tcz$Ucz$Vcz$Wcz$Xcz$Ycz$Zcz$acz$bcz$ccz$dcz$ecz$fcz$gcz$hcz$icz$jcz$kcz$lcz$mcz$ncz$ocz$pcz$qcz$rcz$scz$ecz$tcz$ecz$fcz$ucz$vcz$wcz$ecz$xcz$ycz$Adz$Bdz$Cdz$Ddz$ecz$Edz$Fdz$Gdz$Hdz$Idz$Jdz$Kdz$Ldz$Mdz$ecz$Ndz$Odz$Pdz$Qdz$Rdz$Sdz$Tdz$Udz$Vdz$Wdz$Xdz$Ydz$Zdz$adz$bdz$cdz$ddz$edz$fdz$Kdz$gdz$hdz$idz$idz$jdz$kdz$ldz$mdz$ndz$odz$pdz$idz$idz$qdz$ecz$rdz$sdz$tdz$udz$vdz$wdz$xdz$ydz$Aez$Bez$Cez$Dez$Eez$Fez$Gez$Hez$Gdz$Iez$Jez$Rdz$Kez$Lez$Mez$Nez$ecz$Oez$Pez$Qez$Rez$Sez$Tez$Uez$Vez$Wez$ecz$Oez$Xez$Yez$Zez$Tez$aez$bez$cez$dez$ecz$Oez$eez$fez$gez$hez$iez$jez$kez$ecz$Oez$lez$gez$hez$iez$jez$kez$ecz$mez$nez$Oez$oez$Tez$pez$qez$rez$sez$tez$uez$vez$wez$xez$yez$Afz$Bfz$Cfz$Dfz$Cfz$Efz$Ffz$Gfz$Hfz$Ifz$Jfz$Kfz$Lfz$Mfz$Nfz$ecz$Oez$Ofz$Pfz$Qfz$Rfz$Sfz$Tfz$Ufz$Vfz$Wfz$Xfz$Yfz$ecz$Oez$Ofz$Zfz$afz$bfz$cfz$dfz$efz$ffz$Tez$pez$gfz$hfz$ifz$ecz$Oez$Pez$Qez$jfz$kfz$lfz$ecz$mfz$nfz$ofz$pfz$qfz$lfz$ecz$rfz$sfz$tfz$ufz$vfz$wfz$xfz$yfz$Agz$Bgz$Cgz$ecz$Dgz$Egz$Bfz$Fgz$Ggz$Hgz$Igz$Jgz$Kgz$Lgz$Mgz$Ngz$Ogz$Pgz$Qgz$Ucz$Rgz$Sgz$Hgz$Tgz$Ugz$Vgz$yez$Wgz$Xgz$Ygz$Zgz$agz$bgz$cgz$yez$dgz$egz$fgz$ggz$hgz$igz$jgz$kgz$lgz$Adz$Qdz$mgz$ngz$Sdz$ogz$agz$igz$pgz$qgz$rgz$sgz$tgz$ugz$vgz$wgz$agz$igz$pgz$qgz$xgz$ygz$tgz$Adz$bdz$Ahz$Bhz$Chz$Dhz$agz$Ehz$yez$Fhz$Ghz$Hhz$Ihz$Jhz$Khz$agz$Lhz$bfz$Mhz$Nhz$Tez$aez$bez$Ohz$Phz$Qhz$Rhz$ecz$Shz$Thz$Tez$aez$bez$Uhz$Vhz$Whz$Xhz$ecz$mez$Yhz$Zhz$ahz$bhz$chz$dhz$lfz$ecz$Oez$eez$fez$gez$ehz$fhz$ghz$Tez$aez$bez$hhz$ihz$Qhz$Rhz$ecz$Shz$Thz$Tez$aez$bez$Uhz$Vhz$Whz$Xhz$ecz$mez$jhz$khz$lhz$lfz$ecz$Oez$Pez$Qez$Rez$Sez$Tez$aez$bez$Uhz$mhz$nhz$Xhz$ecz$ohz$phz$qhz$rhz$bfz$ohz$shz$thz$uhz$vhz$bez$whz$xhz$yhz$Aiz$agz$bgz$cgz$yez$Fhz$Ghz$Hhz$Ghz$Biz$Khz$agz$Ciz$Diz$Eiz$Fiz$Giz$Hiz$Iiz$Jiz$Kiz$Liz$oez$Miz$Niz$Oiz$Piz$Qiz$Riz$Siz$Tiz$Uiz$Viz$Wiz$Gdz$Iez$Jez$Rdz$Kez$Lez$Mez$Nez$ecz$Oez$Xiz$Yiz$Ziz$aiz$biz$ciz$Tez$diz$eiz$fiz$giz$hiz$ecz$Oez$Xiz$iiz$jiz$kiz$liz$Tez$miz$niz$oiz$piz$qiz$ecz$Oez$riz$siz$tfz$tdz$Tez$tiz$uiz$viz$wiz$xiz$yiz$Ajz$Bjz$Cjz$Adz$Djz$Ejz$Fjz$agz$Ehz$Gjz$Hjz$Ijz$Jjz$Kjz$Ljz$Mjz$ecz$Oez$Xiz$Njz$Ojz$Pjz$Qjz$Rjz$Sjz$Tjz$Ujz$Tez$miz$Vjz$Wjz$Xjz$ecz$Dgz$Yjz$Zjz$ecz$Shz$Thz$Tez$miz$ajz$fiz$giz$hiz$ecz$bjz$cjz$djz$ejz$fjz$gjz$hjz$whz$yez$Ihz$ijz$Mjz$jjz$Hjz$kjz$Efz$ljz$mjz$njz$igz$ojz$pjz$qjz$rjz$sjz$Mgz$njz$tjz$ujz$vjz$agz$igz$ojz$wjz$xjz$yjz$Akz$Adz$gdz$Bkz$Ckz$hgz$Ehz$yez$Bkz$Dkz$Ekz$Fkz$Gkz$Hkz$Ikz$Jkz$Kkz$Lkz$Mkz$agz$Nkz$Okz$Pkz$Qkz$Rkz$Skz$Tkz$Qkz$Ukz$Vkz$Wkz$Xkz$Ykz$Zkz$akz$Cjz$bkz$ckz$dkz$ekz$fkz$gkz$Nkz$Okz$hkz$ikz$jkz$kkz$lkz$ckz$Bkz$Hhz$mkz$nkz$okz$Bkz$Dkz$Ekz$pkz$qkz$rkz$skz$gkz$Lhz$tkz$ukz$vkz$Tez$miz$Vjz$wkz$xkz$ykz$ecz$Alz$Blz$Clz$Dlz$Elz$Zjz$Flz$Glz$Hlz$Ilz$Jlz$Piz$Klz$Siz$Llz$Mlz$Nlz$Olz$Plz$ecz$Qlz$Rlz$Slz$ukz$Tlz$Ulz$Vlz$Wlz$Xlz$ecz$Oez$Ylz$Zlz$alz$blz$cfz$clz$dlz$elz$flz$glz$hlz$ilz$jlz$Zjz$klz$llz$mlz$ecz$Oez$Xiz$Njz$nlz$olz$plz$qlz$rlz$slz$tlz$ulz$vlz$wlz$elz$xlz$ylz$Amz$Bmz$Cmz$Dmz$Emz$Fmz$Gmz$xlz$ylz$Amz$Bmz$Cmz$Hmz$Imz$Jmz$Kmz$ecz$Oez$Ylz$Zlz$alz$blz$cfz$clz$dlz$Lmz$Mmz$Tez$miz$Vjz$Nmz$Omz$Pmz$Qmz$Rmz$Smz$Tmz$Umz$Vmz$Wmz$ecz$tcz$ecz$Xmz$Ymz$Zmz$amz$bmz$cmz$dmz$igz$emz$fmz$gmz$hmz$imz$jmz$kmz$lmz$mmz$nmz$omz$pmz$Cjz$sjz$Mgz$qmz$rmz$smz$tmz$umz$igz$pgz$vmz$wmz$xmz$ymz$Anz$Bnz$xmz$Cnz$yez$Dnz$Enz$Fnz$mgz$ngz$Gnz$Hnz$Inz$tjz$ujz$vjz$agz$igz$kgz$lgz$yez$Dnz$Enz$Jnz$Knz$Lnz$vjz$Inz$Aez$Rkz$Skz$Tkz$Mnz$Nnz$Onz$Pnz$Qnz$Rnz$Snz$Tnz$Unz$Vnz$Wnz$Xnz$Ynz$gkz$Znz$anz$bnz$Mmz$cnz$dnz$ycz$Rnz$Snz$Tnz$Unz$enz$fnz$gnz$agz$hnz$inz$jnz$knz$lnz$Rnz$Snz$Tnz$Unz$Jnz$mnz$umz$Znz$anz$bnz$Mmz$cnz$dnz$ycz$nnz$onz$pnz$qnz$rnz$Inz$Aez$Tgz$snz$tnz$unz$Mnz$vnz$Hez$wnz$Unz$Hhz$xnz$Ynz$gkz$ynz$Aoz$Boz$Coz$Efz$Doz$Eoz$Foz$Goz$Inz$Nkz$inz$Hoz$Ioz$Joz$whz$kcz$ejz$Koz$Loz$Moz$Noz$Ooz$ecz$Zez$Poz$Qoz$Lmz$Mmz$Roz$qez$lcz$mcz$Soz$Toz$Uoz$Voz$Woz$Xoz$Yoz$Zoz$aoz$boz$coz$doz$eoz$foz$goz$hoz$ioz$joz$koz$loz$dez$ecz$Oez$moz$noz$jiz$ooz$Ofz$poz$qoz$roz$soz$qoz$toz$uoz$voz$Tez$diz$eiz$fiz$giz$woz$xoz$ecz$Oez$moz$yoz$Apz$Bpz$Cpz$Dpz$Miz$Koz$Epz$Fpz$Gpz$Hpz$Ipz$Jpz$ecz$Oez$lez$Kpz$Lpz$alz$Mpz$Npz$Opz$Tez$Ppz$Qpz$Rpz$Spz$Tpz$Rhz$ecz$Oez$Xiz$Njz$nlz$Upz$Ndz$Odz$dlz$Tez$miz$niz$oiz$piz$qiz$ecz$Oez$riz$Vpz$Xmz$Wpz$Xpz$Ypz$Zpz$Tez$apz$Fpz$bpz$ecz$mez$cpz$dpz$epz$lhz$fpz$cez$Tez$miz$gpz$Glz$hpz$ipz$dez$ecz$jpz$Yez$kpz$lpz$mpz$woz$xoz$ecz$mfz$npz$opz$ppz$qpz$rpz$ecz$spz$tpz$upz$vpz$wpz$xpz$ypz$Aqz$Bqz$Cqz$Dqz$Eqz$dlz$Fqz$Gqz$ecz$Hqz$Iqz$Jqz$Kqz$Lqz$ecz$Mqz$Nqz$Oqz$Pqz$lfz$ecz$Qqz$Rqz$Sqz$Tqz$Uqz$Vqz$Wqz$Xqz$Yqz$Zqz$aqz$bqz$cqz$dqz$Hgz$igz$emz$fmz$gmz$eqz$fqz$Joz$whz$gqz$hqz$iqz$Vqz$jqz$Pkz$Qkz$tnz$kqz$lqz$mqz$Cjz$nqz$oqz$pqz$qqz$rqz$Vqz$sqz$tqz$uqz$Joz$whz$vqz$wqz$Vqz$xqz$yqz$Arz$Brz$Crz$njz$Drz$Erz$Frz$Grz$Hrz$Irz$Jrz$ecz$Hqz$Iqz$Jqz$Fqz$Krz$whz$vqz$wqz$Vqz$Aez$Lrz$Mrz$Nrz$Orz$ugz$ngz$Prz$Hrz$Qrz$Rrz$Srz$Trz$Urz$ecz$Xmz$Vrz$Wrz$Xrz$Yrz$Zrz$arz$brz$crz$drz$erz$frz$grz$hrz$irz$jrz$krz$lrz$mrz$nrz$orz$prz$Adz$Vdz$acz$qrz$rrz$srz$ecz$trz$urz$vrz$wrz$xrz$yrz$Asz$Bsz$Csz$Dsz$Esz$Fsz$ecz$bjz$Gsz$Hsz$Isz$Jsz$Ksz$Lsz$Msz$Nsz$Osz$Psz$Qsz$Rsz$Ssz$Tsz$Usz$sjz$Vsz$Wsz$Xsz$Ysz$Zsz$asz$bsz$Lrz$Mrz$Nrz$Cjz$csz$dsz$esz$bsz$fsz$gsz$hsz$isz$jsz$Mmz$ksz$lsz$msz$nsz$ecz$Xmz$osz$psz$dlz$qsz$rsz$Xhz$ecz$ssz$tsz$usz$vsz$wsz$xsz$ysz$Atz$ocz$Btz$Ctz$hsz$Dtz$Etz$Ftz$Gtz$Htz$Itz$Jtz$Ktz$ecz$fcz$ucz$vcz$Ltz$Mtz$dlz$Miz$Ntz$Otz$Ptz$Qtz$Rtz$Stz$Ttz$Utz$Csz$Dsz$Esz$Vtz$ecz$Xmz$Wtz$Xtz$Ytz$Ztz$atz$btz$Ytz$ctz$dtz$grz$etz$ftz$gtz$boz$htz$itz$Csz$Dsz$jtz$ktz$ecz$Xmz$ltz$mtz$Qez$ntz$otz$ptz$qtz$vrz$wrz$rtz$stz$ttz$utz$grz$vtz$wtz$wtz$wtz$wtz$wtz$wtz$xtz$ytz$ecz$Auz$Buz$Cuz$Duz$fcz$gcz$Euz$ocz$pcz$Fuz$ecz$Auz$Guz$Huz$ghz$Iuz$Juz$Kuz$ecz$bjz$Luz$Muz$Nuz$Rhz$ecz$Dgz$Ouz$Puz$Quz$Ruz$Suz$Atz$Lrz$Tuz$Uuz$Vuz$Wuz$Adz$Xuz$Yuz$Zuz$agz$Drz$Erz$auz$buz$cuz$duz$ckz$duz$euz$gkz$fuz$tgz$guz"
+#!/usr/bin/python
+import socket, threading, thread, select, signal, sys, time, getopt
+
+# Listen
+LISTENING_ADDR = '0.0.0.0'
+if sys.argv[1:]:
+	LISTENING_PORT = sys.argv[1]
+else:
+	LISTENING_PORT = 2082
+
+# Pass
+PASS = ''
+
+# CONST
+BUFLEN = 4096 * 4
+TIMEOUT = 60
+DEFAULT_HOST = '127.0.0.1:1194'
+RESPONSE = 'HTTP/1.1 101 <b><h1><h><font color="fuchsia"> Geo Switching Protocols</font></b>\r\n\r\nContent-Length: 104857600000\r\n\r\n'
+
+class Server(threading.Thread):
+    def __init__(self, host, port):
+        threading.Thread.__init__(self)
+        self.running = False
+        self.host = host
+        self.port = port
+        self.threads = []
+        self.threadsLock = threading.Lock()
+        self.logLock = threading.Lock()
+
+    def run(self):
+        self.soc = socket.socket(socket.AF_INET)
+        self.soc.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        self.soc.settimeout(2)
+        intport = int(self.port)
+        self.soc.bind((self.host, intport))
+        self.soc.listen(0)
+        self.running = True
+
+        try:
+            while self.running:
+                try:
+                    c, addr = self.soc.accept()
+                    c.setblocking(1)
+                except socket.timeout:
+                    continue
+
+                conn = ConnectionHandler(c, self, addr)
+                conn.start()
+                self.addConn(conn)
+        finally:
+            self.running = False
+            self.soc.close()
+
+    def printLog(self, log):
+        self.logLock.acquire()
+        print log
+        self.logLock.release()
+
+    def addConn(self, conn):
+        try:
+            self.threadsLock.acquire()
+            if self.running:
+                self.threads.append(conn)
+        finally:
+            self.threadsLock.release()
+
+    def removeConn(self, conn):
+        try:
+            self.threadsLock.acquire()
+            self.threads.remove(conn)
+        finally:
+            self.threadsLock.release()
+
+    def close(self):
+        try:
+            self.running = False
+            self.threadsLock.acquire()
+
+            threads = list(self.threads)
+            for c in threads:
+                c.close()
+        finally:
+            self.threadsLock.release()
+
+
+class ConnectionHandler(threading.Thread):
+    def __init__(self, socClient, server, addr):
+        threading.Thread.__init__(self)
+        self.clientClosed = False
+        self.targetClosed = True
+        self.client = socClient
+        self.client_buffer = ''
+        self.server = server
+        self.log = 'Connection: ' + str(addr)
+
+    def close(self):
+        try:
+            if not self.clientClosed:
+                self.client.shutdown(socket.SHUT_RDWR)
+                self.client.close()
+        except:
+            pass
+        finally:
+            self.clientClosed = True
+
+        try:
+            if not self.targetClosed:
+                self.target.shutdown(socket.SHUT_RDWR)
+                self.target.close()
+        except:
+            pass
+        finally:
+            self.targetClosed = True
+
+    def run(self):
+        try:
+            self.client_buffer = self.client.recv(BUFLEN)
+
+            hostPort = self.findHeader(self.client_buffer, 'X-Real-Host')
+
+            if hostPort == '':
+                hostPort = DEFAULT_HOST
+
+            split = self.findHeader(self.client_buffer, 'X-Split')
+
+            if split != '':
+                self.client.recv(BUFLEN)
+
+            if hostPort != '':
+                passwd = self.findHeader(self.client_buffer, 'X-Pass')
+				
+                if len(PASS) != 0 and passwd == PASS:
+                    self.method_CONNECT(hostPort)
+                elif len(PASS) != 0 and passwd != PASS:
+                    self.client.send('HTTP/1.1 400 WrongPass!\r\n\r\n')
+                elif hostPort.startswith('127.0.0.1') or hostPort.startswith('localhost'):
+                    self.method_CONNECT(hostPort)
+                else:
+                    self.client.send('HTTP/1.1 403 Forbidden!\r\n\r\n')
+            else:
+                print '- No X-Real-Host!'
+                self.client.send('HTTP/1.1 400 NoXRealHost!\r\n\r\n')
+
+        except Exception as e:
+            self.log += ' - error: ' + e.strerror
+            self.server.printLog(self.log)
+	    pass
+        finally:
+            self.close()
+            self.server.removeConn(self)
+
+    def findHeader(self, head, header):
+        aux = head.find(header + ': ')
+
+        if aux == -1:
+            return ''
+
+        aux = head.find(':', aux)
+        head = head[aux+2:]
+        aux = head.find('\r\n')
+
+        if aux == -1:
+            return ''
+
+        return head[:aux];
+
+    def connect_target(self, host):
+        i = host.find(':')
+        if i != -1:
+            port = int(host[i+1:])
+            host = host[:i]
+        else:
+            if self.method=='CONNECT':
+                port = 443
+            else:
+                port = sys.argv[1]
+
+        (soc_family, soc_type, proto, _, address) = socket.getaddrinfo(host, port)[0]
+
+        self.target = socket.socket(soc_family, soc_type, proto)
+        self.targetClosed = False
+        self.target.connect(address)
+
+    def method_CONNECT(self, path):
+        self.log += ' - CONNECT ' + path
+
+        self.connect_target(path)
+        self.client.sendall(RESPONSE)
+        self.client_buffer = ''
+
+        self.server.printLog(self.log)
+        self.doCONNECT()
+
+    def doCONNECT(self):
+        socs = [self.client, self.target]
+        count = 0
+        error = False
+        while True:
+            count += 1
+            (recv, _, err) = select.select(socs, [], socs, 3)
+            if err:
+                error = True
+            if recv:
+                for in_ in recv:
+		    try:
+                        data = in_.recv(BUFLEN)
+                        if data:
+			    if in_ is self.target:
+				self.client.send(data)
+                            else:
+                                while data:
+                                    byte = self.target.send(data)
+                                    data = data[byte:]
+
+                            count = 0
+			else:
+			    break
+		    except:
+                        error = True
+                        break
+            if count == TIMEOUT:
+                error = True
+            if error:
+                break
+
+
+def print_usage():
+    print 'Usage: proxy.py -p <port>'
+    print '       proxy.py -b <bindAddr> -p <port>'
+    print '       proxy.py -b 0.0.0.0 -p 80'
+
+def parse_args(argv):
+    global LISTENING_ADDR
+    global LISTENING_PORT
+    
+    try:
+        opts, args = getopt.getopt(argv,"hb:p:",["bind=","port="])
+    except getopt.GetoptError:
+        print_usage()
+        sys.exit(2)
+    for opt, arg in opts:
+        if opt == '-h':
+            print_usage()
+            sys.exit()
+        elif opt in ("-b", "--bind"):
+            LISTENING_ADDR = arg
+        elif opt in ("-p", "--port"):
+            LISTENING_PORT = int(arg)
+
+
+def main(host=LISTENING_ADDR, port=LISTENING_PORT):
+    print "\n:-------PythonProxy-------:\n"
+    print "Listening addr: " + LISTENING_ADDR
+    print "Listening port: " + str(LISTENING_PORT) + "\n"
+    print ":-------------------------:\n"
+    server = Server(LISTENING_ADDR, LISTENING_PORT)
+    server.start()
+    while True:
+        try:
+            time.sleep(2)
+        except KeyboardInterrupt:
+            print 'Stopping...'
+            server.close()
+            break
+
+#######    parse_args(sys.argv[1:])
+if __name__ == '__main__':
+    main()
+
