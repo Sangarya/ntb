@@ -1,3 +1,268 @@
-z="
-";QCz=']';LCz='.por';ILz='0 -p';ALz='  pr';xIz='ily,';eMz=' + L';VJz='ess)';dBz='1048';aFz='addr';DJz=', _,';IGz='if h';IHz='('\''HT';cCz='(soc';jGz='fer,';vz='= 60';cIz='];';MKz='ecv:';mKz='OUT:';XCz='):';bGz='(BUF';PEz='ease';dGz='!= '\''';FBz='/1.1';bHz='03 F';sDz=', ad';pFz='targ';yKz='    ';ENz='..'\''';sz='4';bMz='t "L';TFz=' '\'''\''';FEz='prin';ELz=' -p ';KIz='ind(';NIz=' '\'': ';AKz='v, _';hDz='meou';iBz='rver';GBz=' 101';yLz='h'\'':';mCz='T, s';wFz='FLEN';GDz='tpor';tGz='.met';WFz='ecti';OCz='eads';rKz='sage';CMz='", "';EHz='wd !';aMz='\n"';cKz='ta:';lz='PASS';gJz='get(';bCz='cket';gGz='ndHe';OLz='glob';bLz='pt(a';fDz='pt s';fMz='t: "';TGz='der(';VEz='ing:';Kz=', si';FMz='("-p';fHz=' No ';cJz='path';rz='6 * ';HKz=' [],';cBz='th: ';dJz='.con';gIz='d('\'':';iHz='oXRe';NCz='.thr';JIz='ad.f';HMz='rt")';aCz='t.so';oHz='xcep';nFz='pt:';PIz='ux =';tBz=' por';lEz='= li';SJz=', pr';nJz='socs';INz='e__ ';jEz='lf):';RHz='tPor';HFz='Fals';SFz='er =';JGz='ostP';Nz='s, t';sKz=': pr';wIz='_fam';WEz='.app';XKz='lf.t';CCz='lf)';MBz='or="';IMz=' int';hMz='tr(L';kLz='etop';vCz='intp';nMz='serv';JEz='.acq';lGz='Pass';TBz='Prot';qFz='etCl';jz=' 209';pz='EN =';gBz='clas';oEz='for ';OEz='.rel';CGz='nt_b';AFz='ocCl';bEz='nn(s';TJz='oto)';VLz='T';YKz='arge';TEz='nn):';KEz='uire';kGz=' '\''X-';GLz='t>'\''';FJz='ress';iJz='.doC';BDz='ort)';YJz='CT(s';rHz=' += ';FGz='X-Re';JLz=' 80'\''';HNz='_nam';DCz='self';dFz='clie';Cz='ocke';WJz='od_C';vMz='pt K';rIz=''\''CON';qHz='e:';DGz='uffe';jDz='cont';PGz='OST';BGz='er(s';vKz='p <p';wMz='eybo';YEz=')';lJz='NNEC';xDz='Conn';tz='TIME';IEz='og):';jHz='alHo';kMz='"';eIz='et(s';Mz=', sy';mIz='i+1:';kJz='doCO';tFz='f.cl';Fz='ding';WLz='opts';dz='RT =';GJz=') = ';wEz='Hand';HBz=' <b>';IFz='e';pDz='nHan';iMz='T) +';YGz=' != ';GNz='if _';SCz=' = t';Lz='gnal';vJz='ue:';PHz='n'\'')';uIz='43';IJz='etad';OBz='sia"';jKz='k';qLz='exit';xHz='r';HHz='send';VFz='ver ';WMz='-Pyt';rGz='sswd';nKz='rror';ACz='nit_';UEz='runn';QBz='o Sw';oGz='ASS)';NBz='fuch';DEz='.clo';CBz='RESP';ANz='rupt';PMz='ADDR';UDz='ddr ';uFz='.rec';fKz=' = d';sFz=' sel';LGz=''\'':';sIz='NECT';TKz='if d';EKz='sele';RDz='unni';ZKz='(dat';HJz='et.g';UHz='with';QKz='n_.r';FCz='ning';BHz='S) !';TDz='c, a';WKz='s se';BIz='g)';jFz='SHUT';rMz='er.s';AHz='(PAS';qBz='(sel';UGz='er, ';eEz='n):';Vz=' '\''0.';tEz='s Co';iCz='opt(';cMz='iste';eJz='nect';vHz=' + e';Rz='LIST';cDz='ckin';qKz='t '\''U';XLz=', ar';LKz='if r';ZDz='t()';IDz='.lis';EIz='d, h';xBz='g.Th';VHz='('\''12';XIz='aux+';sHz=''\'' - ';gHz='ost!';kBz='eadi';Uz='DR =';wHz='.str';rCz='1)';vEz='tion';GMz='--po';EDz='elf.';XMz='honP';oz='BUFL';YLz='gs =';bBz='Leng';XFz='on: ';mLz='topt';NJz='ket(';LJz='t)[0';pEz='c in';oBz='__in';JFz='.tar';bJz='ECT ';ZIz=''\''\r\';CIz='elf)';aKz='a)';QIz='= -1';JNz='__ma';rJz='coun';VDz='= se';NGz='EFAU';xEz='ler(';mEz='st(s';iz=':';GKz='ocs,';oMz=' Ser';BMz='("-b';SHz='t.st';gLz='nd="';EBz='HTTP';QEz='addC';hKz=':]';fBz='0000';SDz='ng:';tDz='dr)';KKz='rr:';lCz='OCKE';Dz='t, t';sJz='0';jBz='(thr';xGz='elif';PKz='data';NEz='g';HCz='alse';qGz='d pa';CFz='dr):';rBz='f, h';fJz='_tar';hz='else';pIz='meth';Pz=' get';XHz='0.1'\''';lIz='ost[';GHz='SS:';vDz='rt()';YBz='\r\n';mMz='-:\n';eGz='wd =';RLz='NING';JBz='<h><';UFz='.ser';oKz='t_us';iIz='-1:';kFz='_RDW';HDz='t))';kHz='st!\';NLz='rgv)';YHz=') or';HEz='f, l';gFz='ent.';aDz='c.se';Ez='hrea';PJz='fami';oDz='ctio';QDz='lf.r';ZHz='('\''lo';TLz='R';uJz='e Tr';gMz=' + s';CHz='= 0 ';KNz='in__';IBz='<h1>';uHz='r: '\''';JMz='(arg';vBz='thre';XJz='ONNE';KLz='pars';aEz='veCo';BJz='e, p';BCz='_(se';EGz='r, '\''';mFz='e()';XBz='</b>';oIz=':i]';Iz=', se';XEz='end(';KHz='.1 4';kCz='OL_S';dCz='ket.';lBz='ng.T';fLz='["bi';HLz='b 0.';GGz='al-H';QGz='spli';sCz='time';OKz='in r';QJz='ly, ';pGz='0 an';BKz=', er';hGz='ader';UMz='n:--';ABz='127.';kz='5';FHz='= PA';yMz='nter';lKz='ount';yBz='.__i';tLz=' arg';VCz='.log';hHz='00 N';pJz='f.ta';Bz='rt s';xKz='t '\'' ';qJz='rget';WGz='plit';oLz='r:';uGz='hod_';FDz=', in';sGz=' == ';xz='ULT_';nEz='ads)';FFz='lose';tKz='oxy.';ICz='.hos';kIz='nt(h';dLz='"hb:';uz='OUT ';ZBz='Cont';DLz='ddr>';FKz='ct(s';rFz='get.';eFz='ntCl';fIz='i = ';yIz=' soc';GFz='d = ';gCz='.set';QLz='ISTE';YCz='.soc';SMz='T):';dDz='g(1)';qz=' 409';SGz='dHea';uDz='.sta';UKz='ata:';qEz=' thr';az='rgv[';uCz='2)';yz='HOST';sBz='ost,';nz=''\''';qIz='od==';RIz='retu';WDz='lf.s';sMz='tart';ZCz=' = s';nCz='t.SO';VBz='s</f';WCz='run(';yDz='(con';vIz='1]';DMz='--bi';MCz='port';oJz='ent,';BBz='1:22';iFz='down';QHz=' hos';WHz='7.0.';FNz='er.c';xFz='Port';THz='arts';oCz='_REU';aGz='recv';cLz='rgv,';ECz='.run';uBz='t):';Gz=', th';Oz='ime,';gKz='ata[';LBz=' col';pCz='SEAD';gz='v[1]';bKz='e da';VGz=''\''X-S';AJz='_typ';Zz='ys.a';dHz='dden';vGz='CONN';QFz='ent_';DNz='ing.';mDz=' = C';JCz='t = ';eHz='t '\''-';ODz='whil';Jz='lect';IIz='= he';eBz='5760';hLz=',"po';tCz='out(';TCz='.Loc';aBz='ent-';gDz='t.ti';CNz='topp';ZMz='---:';kDz='inue';TIz=''\'':'\'',';eLz='p:",';LLz='e_ar';EEz='se()';CEz='lly:';wGz='ECT(';EJz=' add';SEz=', co';Xz='0'\''';JKz='if e';Hz='read';WBz='ont>';fEz='.rem';jLz='pt g';rLz='(2)';nGz='en(P';bDz='tblo';ULz='_POR';iDz='t:';tHz='erro';YFz=''\'' + ';aHz='calh';ZLz='opt.';DBz='ONSE';LFz='True';bIz=':aux';nIz='])';UIz=' aux';tIz=' = 4';cz='G_PO';IKz='s, 3';ZEz='remo';pLz='sys.';wCz='ort ';LIz='head';tMz='.sle';kEz='ads ';SIz='rn '\''';ez=' sys';sLz='opt,';xJz=' 1';RKz='ecv(';YDz='ccep';wBz='adin';JJz='drin';mGz='if l';pMz='ver(';nHz='pt E';jJz='CT()';PDz='e se';jMz=' "\n';GIz='r):';REz='onn(';FLz='<por';VIz=' = h';lLz='t.Ge';yFz='find';yCz='t(se';uLz=' in ';jCz='et.S';MJz='get ';LMz='(hos';nLz='Erro';OIz='if a';PLz='al L';iLz='rt="';XGz=''\'')';cEz='elf,';Tz='G_AD';wDz='.add';hFz='shut';VMz='----';yHz='ver.';XDz='oc.a';LEz='()';CDz='.bin';EFz='entC';Sz='ENIN';JDz='ten(';lDz='conn';cFz='ot s';PFz='ent';AIz='f.lo';kKz='if c';PCz=' = [';fCz='NET)';GEz='tLog';wz='DEFA';mJz='T(se';hIz='if i';aLz='geto';KFz='getC';HGz='ost'\''';tJz='r = ';mHz='r\n'\''';fFz='osed';RMz='rt=L';wLz='pt =';yJz='(rec';WIz='ead[';NKz='in_ ';MGz=' = D';uEz='nnec';BEz='fina';uKz='py -';OGz='LT_H';YIz='2:]';UJz='ect(';rEz='c.cl';MLz='gs(a';DDz='d((s';OHz='n\r\';qMz='RT)';dEz=' con';bFz='if n';Yz='if s';cGz='LEN)';SLz='_ADD';hBz='s Se';nBz='def ';NFz='= so';NMz='STEN';SKz='EN)';yEz='f, s';Wz='0.0.';DFz='.cli';oFz='pass';KBz='font';PBz='> Ge';AEz='n)';AMz=' opt';Az='impo';RBz='itch';UBz='ocol';hCz='sock';KJz='fo(h';aIz='rn h';lHz='r\n\';fz='.arg';iKz='brea';qDz='dler';gEz='ove(';RCz='Lock';rDz='(c, ';YMz='roxy';wJz='t +=';FIz='eade';BNz='t '\''S';sEz='ose(';DIz=' hea';pKz='age(';wKz='ort>';ZGz=''\'''\'':';KGz='== '\''';CLz='indA';DHz='and ';TMz='t "\';mz=' = '\''';bz='1:]:';BFz='ient';cHz='orbi';EMz='nd")';iEz='e(se';dMz='r: "';iGz='_buf';lMz='t ":';mBz='d):';KMz='main';RGz='.fin';BLz='b <b';AGz='Head';hJz='all(';NHz='!\r\';eDz='exce';RJz='type';dIz='ect_';KCz='host';aJz='h):';vFz='v(BU';KDz='0)';MFz='ent ';eKz='et.s';vLz='if o';Qz='opt';qCz='DR, ';ADz='lf.p';lFz='R)';OFz='cCli';xCz='= in';CJz='roto';xMz='ardI';eCz='AF_I';QMz=', po';xLz='= '\''-';MEz='t lo';LHz='00 W';MIz='er +';CKz='r) =';uMz='ep(2';MMz='t=LI';GCz=' = F';ZFz='str(';RFz='buff';jIz=' = i';hEz='clos';NDz='try:';MHz='rong';LDz=' = T';VKz='n_ i';yGz=' len';UCz='k()';nDz='onne';OJz='soc_';SBz='ing ';OMz='ING_';DKz='ect.';JHz='TP/1';dKz='byte';pHz=' as ';MDz='rue';ZJz=' pat';fGz='f.fi';HIz='aux ';pBz='it__';
-eval "$Az$Bz$Cz$Dz$Ez$Fz$Gz$Hz$Iz$Jz$Kz$Lz$Mz$Nz$Oz$Pz$Qz$z$Rz$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$z$Rz$Sz$cz$dz$ez$fz$gz$z$hz$iz$z$Rz$Sz$cz$dz$jz$kz$z$lz$mz$nz$z$oz$pz$qz$rz$sz$z$tz$uz$vz$z$wz$xz$yz$mz$ABz$Wz$BBz$nz$z$CBz$DBz$mz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$RBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$YBz$ZBz$aBz$bBz$cBz$dBz$eBz$fBz$YBz$YBz$nz$z$gBz$hBz$iBz$jBz$kBz$lBz$Ez$mBz$z$nBz$oBz$pBz$qBz$rBz$sBz$tBz$uBz$z$vBz$wBz$xBz$Hz$yBz$ACz$BCz$CCz$z$DCz$ECz$FCz$GCz$HCz$z$DCz$ICz$JCz$KCz$z$DCz$LCz$JCz$MCz$z$DCz$NCz$OCz$PCz$QCz$z$DCz$NCz$OCz$RCz$SCz$Ez$Fz$TCz$UCz$z$DCz$VCz$RCz$SCz$Ez$Fz$TCz$UCz$z$nBz$WCz$DCz$XCz$z$DCz$YCz$ZCz$Cz$aCz$bCz$cCz$dCz$eCz$fCz$z$DCz$YCz$gCz$hCz$iCz$hCz$jCz$kCz$lCz$mCz$Cz$nCz$oCz$pCz$qCz$rCz$z$DCz$YCz$gCz$sCz$tCz$uCz$z$vCz$wCz$xCz$yCz$ADz$BDz$z$DCz$YCz$CDz$DDz$EDz$KCz$FDz$GDz$HDz$z$DCz$YCz$IDz$JDz$KDz$z$DCz$ECz$FCz$LDz$MDz$z$NDz$z$ODz$PDz$QDz$RDz$SDz$z$NDz$z$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$z$aDz$bDz$cDz$dDz$z$eDz$fDz$Cz$gDz$hDz$iDz$z$jDz$kDz$z$lDz$mDz$nDz$oDz$pDz$qDz$rDz$DCz$sDz$tDz$z$lDz$uDz$vDz$z$DCz$wDz$xDz$yDz$AEz$z$BEz$CEz$z$DCz$ECz$FCz$GCz$HCz$z$DCz$YCz$DEz$EEz$z$nBz$FEz$GEz$qBz$HEz$IEz$z$DCz$VCz$RCz$JEz$KEz$LEz$z$FEz$MEz$NEz$z$DCz$VCz$RCz$OEz$PEz$LEz$z$nBz$QEz$REz$DCz$SEz$TEz$z$NDz$z$DCz$NCz$OCz$RCz$JEz$KEz$LEz$z$Yz$EDz$UEz$VEz$z$DCz$NCz$OCz$WEz$XEz$lDz$YEz$z$BEz$CEz$z$DCz$NCz$OCz$RCz$OEz$PEz$LEz$z$nBz$ZEz$aEz$bEz$cEz$dEz$eEz$z$NDz$z$DCz$NCz$OCz$RCz$JEz$KEz$LEz$z$DCz$NCz$OCz$fEz$gEz$lDz$YEz$z$BEz$CEz$z$DCz$NCz$OCz$RCz$OEz$PEz$LEz$z$nBz$hEz$iEz$jEz$z$NDz$z$DCz$ECz$FCz$GCz$HCz$z$DCz$NCz$OCz$RCz$JEz$KEz$LEz$z$vBz$kEz$lEz$mEz$EDz$vBz$nEz$z$oEz$pEz$qEz$OCz$iz$z$rEz$sEz$YEz$z$BEz$CEz$z$DCz$NCz$OCz$RCz$OEz$PEz$LEz$z$gBz$tEz$uEz$vEz$wEz$xEz$vBz$wBz$xBz$Hz$XCz$z$nBz$oBz$pBz$qBz$yEz$AFz$BFz$Iz$iBz$sDz$CFz$z$vBz$wBz$xBz$Hz$yBz$ACz$BCz$CCz$z$DCz$DFz$EFz$FFz$GFz$HFz$IFz$z$DCz$JFz$KFz$FFz$GFz$LFz$z$DCz$DFz$MFz$NFz$OFz$PFz$z$DCz$DFz$QFz$RFz$SFz$TFz$z$DCz$UFz$VFz$VDz$iBz$z$DCz$VCz$mz$xDz$WFz$XFz$YFz$ZFz$aFz$YEz$z$nBz$hEz$iEz$jEz$z$NDz$z$bFz$cFz$EDz$dFz$eFz$fFz$iz$z$DCz$DFz$gFz$hFz$iFz$cCz$dCz$jFz$kFz$lFz$z$DCz$DFz$gFz$hEz$mFz$z$eDz$nFz$z$oFz$z$BEz$CEz$z$DCz$DFz$EFz$FFz$GFz$LFz$z$NDz$z$bFz$cFz$EDz$pFz$qFz$fFz$iz$z$DCz$JFz$rFz$hFz$iFz$cCz$dCz$jFz$kFz$lFz$z$DCz$JFz$rFz$hEz$mFz$z$eDz$nFz$z$oFz$z$BEz$CEz$z$DCz$JFz$KFz$FFz$GFz$LFz$z$nBz$WCz$DCz$XCz$z$NDz$z$DCz$DFz$QFz$RFz$SFz$sFz$tFz$BFz$uFz$vFz$wFz$YEz$z$KCz$xFz$ZCz$EDz$yFz$AGz$BGz$EDz$dFz$CGz$DGz$EGz$FGz$GGz$HGz$YEz$z$IGz$JGz$wCz$KGz$LGz$z$KCz$xFz$MGz$NGz$OGz$PGz$z$QGz$JCz$DCz$RGz$SGz$TGz$DCz$DFz$QFz$RFz$UGz$VGz$WGz$XGz$z$Yz$WGz$YGz$ZGz$z$DCz$DFz$gFz$aGz$bGz$cGz$z$IGz$JGz$wCz$dGz$LGz$z$oFz$eGz$sFz$fGz$gGz$hGz$qBz$tFz$BFz$iGz$jGz$kGz$lGz$XGz$z$mGz$nGz$oGz$YGz$pGz$qGz$rGz$sGz$lz$iz$z$DCz$tGz$uGz$vGz$wGz$KCz$xFz$YEz$z$xGz$yGz$AHz$BHz$CHz$DHz$oFz$EHz$FHz$GHz$z$DCz$DFz$gFz$HHz$IHz$JHz$KHz$LHz$MHz$lGz$NHz$OHz$PHz$z$xGz$QHz$RHz$SHz$THz$UHz$VHz$WHz$XHz$YHz$QHz$RHz$SHz$THz$UHz$ZHz$aHz$HGz$XCz$z$DCz$tGz$uGz$vGz$wGz$KCz$xFz$YEz$z$hz$iz$z$DCz$DFz$gFz$HHz$IHz$JHz$KHz$bHz$cHz$dHz$NHz$OHz$PHz$z$hz$iz$z$FEz$eHz$fHz$FGz$GGz$gHz$nz$z$DCz$DFz$gFz$HHz$IHz$JHz$KHz$hHz$iHz$jHz$kHz$lHz$mHz$YEz$z$eDz$nHz$oHz$vEz$pHz$qHz$z$DCz$VCz$rHz$sHz$tHz$uHz$vHz$wHz$tHz$xHz$z$DCz$UFz$yHz$FEz$GEz$qBz$AIz$BIz$z$oFz$z$BEz$CEz$z$DCz$DEz$EEz$z$DCz$UFz$yHz$ZEz$aEz$bEz$CIz$z$nBz$yFz$AGz$BGz$cEz$DIz$EIz$FIz$GIz$z$HIz$IIz$JIz$KIz$LIz$MIz$NIz$XGz$z$OIz$PIz$QIz$iz$z$RIz$SIz$nz$z$HIz$IIz$JIz$KIz$TIz$UIz$YEz$z$LIz$VIz$WIz$XIz$YIz$z$HIz$IIz$JIz$KIz$ZIz$PHz$z$OIz$PIz$QIz$iz$z$RIz$SIz$nz$z$RIz$aIz$WIz$bIz$cIz$z$nBz$lDz$dIz$pFz$eIz$cEz$QHz$uBz$z$fIz$KCz$RGz$gIz$XGz$z$hIz$YGz$iIz$z$MCz$jIz$kIz$lIz$mIz$nIz$z$KCz$VIz$lIz$oIz$z$hz$iz$z$Yz$EDz$pIz$qIz$rIz$sIz$LGz$z$MCz$tIz$uIz$z$hz$iz$z$MCz$ZCz$Zz$az$vIz$z$cCz$wIz$xIz$yIz$AJz$BJz$CJz$DJz$EJz$FJz$GJz$hCz$HJz$IJz$JJz$KJz$sBz$tBz$LJz$QCz$z$DCz$JFz$MJz$NFz$bCz$YCz$NJz$OJz$PJz$QJz$OJz$RJz$SJz$TJz$z$DCz$JFz$KFz$FFz$GFz$HFz$IFz$z$DCz$JFz$rFz$lDz$UJz$aFz$VJz$z$nBz$pIz$WJz$XJz$YJz$cEz$ZJz$aJz$z$DCz$VCz$rHz$sHz$vGz$bJz$YFz$cJz$z$DCz$dJz$eJz$fJz$gJz$cJz$YEz$z$DCz$DFz$gFz$HHz$hJz$CBz$DBz$YEz$z$DCz$DFz$QFz$RFz$SFz$TFz$z$DCz$UFz$yHz$FEz$GEz$qBz$AIz$BIz$z$DCz$iJz$XJz$jJz$z$nBz$kJz$lJz$mJz$jEz$z$nJz$PCz$DCz$DFz$oJz$sFz$pJz$qJz$QCz$z$rJz$JCz$sJz$z$tHz$tJz$HFz$IFz$z$ODz$uJz$vJz$z$rJz$wJz$xJz$z$yJz$AKz$BKz$CKz$sFz$DKz$EKz$FKz$GKz$HKz$yIz$IKz$YEz$z$JKz$KKz$z$tHz$tJz$LFz$z$LKz$MKz$z$oEz$NKz$OKz$MKz$z$NDz$z$PKz$jIz$QKz$RKz$oz$SKz$z$TKz$UKz$z$hIz$VKz$WKz$XKz$YKz$iDz$z$DCz$DFz$gFz$HHz$ZKz$aKz$z$hz$iz$z$ODz$bKz$cKz$z$dKz$ZCz$EDz$pFz$eKz$XEz$PKz$YEz$z$PKz$fKz$gKz$dKz$hKz$z$rJz$JCz$sJz$z$hz$iz$z$iKz$jKz$z$eDz$nFz$z$tHz$tJz$LFz$z$iKz$jKz$z$kKz$lKz$sGz$tz$mKz$z$tHz$tJz$LFz$z$JKz$nKz$iz$z$iKz$jKz$z$nBz$FEz$oKz$pKz$XCz$z$FEz$qKz$rKz$sKz$tKz$uKz$vKz$wKz$nz$z$FEz$xKz$yKz$ALz$tKz$uKz$BLz$CLz$DLz$ELz$FLz$GLz$z$FEz$xKz$yKz$ALz$tKz$uKz$HLz$Wz$ILz$JLz$z$nBz$KLz$LLz$MLz$NLz$iz$z$OLz$PLz$QLz$RLz$SLz$TLz$z$OLz$PLz$QLz$RLz$ULz$VLz$z$NDz$z$WLz$XLz$YLz$Pz$ZLz$aLz$bLz$cLz$dLz$eLz$fLz$gLz$hLz$iLz$nIz$z$eDz$jLz$kLz$lLz$mLz$nLz$oLz$z$FEz$oKz$pKz$YEz$z$pLz$qLz$rLz$z$oEz$sLz$tLz$uLz$WLz$iz$z$vLz$wLz$xLz$yLz$z$FEz$oKz$pKz$YEz$z$pLz$qLz$LEz$z$xGz$AMz$uLz$BMz$CMz$DMz$EMz$iz$z$Rz$Sz$Tz$Uz$tLz$z$xGz$AMz$uLz$FMz$CMz$GMz$HMz$iz$z$Rz$Sz$cz$dz$IMz$JMz$YEz$z$nBz$KMz$LMz$MMz$NMz$OMz$PMz$QMz$RMz$QLz$RLz$ULz$SMz$z$FEz$TMz$UMz$VMz$WMz$XMz$YMz$VMz$ZMz$aMz$z$FEz$bMz$cMz$FCz$EJz$dMz$eMz$QLz$RLz$SLz$TLz$z$FEz$bMz$cMz$FCz$tBz$fMz$gMz$hMz$QLz$RLz$ULz$iMz$jMz$kMz$z$FEz$lMz$VMz$VMz$VMz$VMz$VMz$VMz$mMz$kMz$z$nMz$SFz$oMz$pMz$Rz$Sz$Tz$qCz$Rz$Sz$cz$qMz$z$nMz$rMz$sMz$LEz$z$ODz$uJz$vJz$z$NDz$z$sCz$tMz$uMz$YEz$z$eDz$vMz$wMz$xMz$yMz$ANz$iz$z$FEz$BNz$CNz$DNz$ENz$z$nMz$FNz$FFz$LEz$z$iKz$jKz$z$GNz$HNz$INz$KGz$JNz$KNz$LGz$z$KMz$LEz"
+#!/usr/bin/python
+import socket, threading, thread, select, signal, sys, time, getopt
+
+# Listen
+LISTENING_ADDR = '0.0.0.0'
+if sys.argv[1:]:
+	LISTENING_PORT = sys.argv[1]
+else:
+	LISTENING_PORT = 2095
+
+# Pass
+PASS = ''
+
+# CONST
+BUFLEN = 4096 * 4
+TIMEOUT = 60
+DEFAULT_HOST = '127.0.0.1:22'
+RESPONSE = 'HTTP/1.1 101 <b><h1><h><font color="fuchsia"> Geo Switching Protocols</font></b>\r\n\r\nContent-Length: 104857600000\r\n\r\n'
+
+class Server(threading.Thread):
+    def __init__(self, host, port):
+        threading.Thread.__init__(self)
+        self.running = False
+        self.host = host
+        self.port = port
+        self.threads = []
+        self.threadsLock = threading.Lock()
+        self.logLock = threading.Lock()
+
+    def run(self):
+        self.soc = socket.socket(socket.AF_INET)
+        self.soc.setsockopt(socket.SOL_SOCKET, socket.SO_REUSEADDR, 1)
+        self.soc.settimeout(2)
+        intport = int(self.port)
+        self.soc.bind((self.host, intport))
+        self.soc.listen(0)
+        self.running = True
+
+        try:
+            while self.running:
+                try:
+                    c, addr = self.soc.accept()
+                    c.setblocking(1)
+                except socket.timeout:
+                    continue
+
+                conn = ConnectionHandler(c, self, addr)
+                conn.start()
+                self.addConn(conn)
+        finally:
+            self.running = False
+            self.soc.close()
+
+    def printLog(self, log):
+        self.logLock.acquire()
+        print log
+        self.logLock.release()
+
+    def addConn(self, conn):
+        try:
+            self.threadsLock.acquire()
+            if self.running:
+                self.threads.append(conn)
+        finally:
+            self.threadsLock.release()
+
+    def removeConn(self, conn):
+        try:
+            self.threadsLock.acquire()
+            self.threads.remove(conn)
+        finally:
+            self.threadsLock.release()
+
+    def close(self):
+        try:
+            self.running = False
+            self.threadsLock.acquire()
+
+            threads = list(self.threads)
+            for c in threads:
+                c.close()
+        finally:
+            self.threadsLock.release()
+
+
+class ConnectionHandler(threading.Thread):
+    def __init__(self, socClient, server, addr):
+        threading.Thread.__init__(self)
+        self.clientClosed = False
+        self.targetClosed = True
+        self.client = socClient
+        self.client_buffer = ''
+        self.server = server
+        self.log = 'Connection: ' + str(addr)
+
+    def close(self):
+        try:
+            if not self.clientClosed:
+                self.client.shutdown(socket.SHUT_RDWR)
+                self.client.close()
+        except:
+            pass
+        finally:
+            self.clientClosed = True
+
+        try:
+            if not self.targetClosed:
+                self.target.shutdown(socket.SHUT_RDWR)
+                self.target.close()
+        except:
+            pass
+        finally:
+            self.targetClosed = True
+
+    def run(self):
+        try:
+            self.client_buffer = self.client.recv(BUFLEN)
+
+            hostPort = self.findHeader(self.client_buffer, 'X-Real-Host')
+
+            if hostPort == '':
+                hostPort = DEFAULT_HOST
+
+            split = self.findHeader(self.client_buffer, 'X-Split')
+
+            if split != '':
+                self.client.recv(BUFLEN)
+
+            if hostPort != '':
+                passwd = self.findHeader(self.client_buffer, 'X-Pass')
+				
+                if len(PASS) != 0 and passwd == PASS:
+                    self.method_CONNECT(hostPort)
+                elif len(PASS) != 0 and passwd != PASS:
+                    self.client.send('HTTP/1.1 400 WrongPass!\r\n\r\n')
+                elif hostPort.startswith('127.0.0.1') or hostPort.startswith('localhost'):
+                    self.method_CONNECT(hostPort)
+                else:
+                    self.client.send('HTTP/1.1 403 Forbidden!\r\n\r\n')
+            else:
+                print '- No X-Real-Host!'
+                self.client.send('HTTP/1.1 400 NoXRealHost!\r\n\r\n')
+
+        except Exception as e:
+            self.log += ' - error: ' + e.strerror
+            self.server.printLog(self.log)
+	    pass
+        finally:
+            self.close()
+            self.server.removeConn(self)
+
+    def findHeader(self, head, header):
+        aux = head.find(header + ': ')
+
+        if aux == -1:
+            return ''
+
+        aux = head.find(':', aux)
+        head = head[aux+2:]
+        aux = head.find('\r\n')
+
+        if aux == -1:
+            return ''
+
+        return head[:aux];
+
+    def connect_target(self, host):
+        i = host.find(':')
+        if i != -1:
+            port = int(host[i+1:])
+            host = host[:i]
+        else:
+            if self.method=='CONNECT':
+                port = 443
+            else:
+                port = sys.argv[1]
+
+        (soc_family, soc_type, proto, _, address) = socket.getaddrinfo(host, port)[0]
+
+        self.target = socket.socket(soc_family, soc_type, proto)
+        self.targetClosed = False
+        self.target.connect(address)
+
+    def method_CONNECT(self, path):
+        self.log += ' - CONNECT ' + path
+
+        self.connect_target(path)
+        self.client.sendall(RESPONSE)
+        self.client_buffer = ''
+
+        self.server.printLog(self.log)
+        self.doCONNECT()
+
+    def doCONNECT(self):
+        socs = [self.client, self.target]
+        count = 0
+        error = False
+        while True:
+            count += 1
+            (recv, _, err) = select.select(socs, [], socs, 3)
+            if err:
+                error = True
+            if recv:
+                for in_ in recv:
+		    try:
+                        data = in_.recv(BUFLEN)
+                        if data:
+			    if in_ is self.target:
+				self.client.send(data)
+                            else:
+                                while data:
+                                    byte = self.target.send(data)
+                                    data = data[byte:]
+
+                            count = 0
+			else:
+			    break
+		    except:
+                        error = True
+                        break
+            if count == TIMEOUT:
+                error = True
+            if error:
+                break
+
+
+def print_usage():
+    print 'Usage: proxy.py -p <port>'
+    print '       proxy.py -b <bindAddr> -p <port>'
+    print '       proxy.py -b 0.0.0.0 -p 80'
+
+def parse_args(argv):
+    global LISTENING_ADDR
+    global LISTENING_PORT
+    
+    try:
+        opts, args = getopt.getopt(argv,"hb:p:",["bind=","port="])
+    except getopt.GetoptError:
+        print_usage()
+        sys.exit(2)
+    for opt, arg in opts:
+        if opt == '-h':
+            print_usage()
+            sys.exit()
+        elif opt in ("-b", "--bind"):
+            LISTENING_ADDR = arg
+        elif opt in ("-p", "--port"):
+            LISTENING_PORT = int(arg)
+
+
+def main(host=LISTENING_ADDR, port=LISTENING_PORT):
+    print "\n:-------PythonProxy-------:\n"
+    print "Listening addr: " + LISTENING_ADDR
+    print "Listening port: " + str(LISTENING_PORT) + "\n"
+    print ":-------------------------:\n"
+    server = Server(LISTENING_ADDR, LISTENING_PORT)
+    server.start()
+    while True:
+        try:
+            time.sleep(2)
+        except KeyboardInterrupt:
+            print 'Stopping...'
+            server.close()
+            break
+
+#######    parse_args(sys.argv[1:])
+if __name__ == '__main__':
+    main()
