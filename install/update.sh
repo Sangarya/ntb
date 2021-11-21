@@ -97,6 +97,12 @@ wget -O /usr/bin/add-ssr https://raw.githubusercontent.com/Sangarya/ntb/main/add
 wget -O /usr/bin/del-ssr https://raw.githubusercontent.com/Sangarya/ntb/main/del/del-ssr.sh && chmod +x /usr/bin/del-ssr
 wget -O /usr/bin/renew-ssr https://raw.githubusercontent.com/Sangarya/ntb/main/renew/renew-ssr.sh && chmod +x /usr/bin/renew-ssr
 
+#SSLH
+apt-get install sslh -y
+#Forward 443 = ws-ssl-stunnel4-dropbear
+wget -O /etc/default/sslh "https://raw.githubusercontent.com/Sangarya/ntb/main/websocket/sslh.conf"
+service sslh restart
+
 #l2tp
 figlet -f slant Module L2TP | lolcat
 sleep 1
