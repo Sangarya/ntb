@@ -277,7 +277,7 @@ chmod +x status
 chmod +x bw
 chmod +x clear-log
 
-rm -rf websocket.sh && apt install curl && wget https://raw.githubusercontent.com/Sangarya/ntb/main/websocket/websocket.sh && apt update && apt install lolcat && apt install dos2unix && dos2unix websocket.sh && chmod +x websocket.sh && ./websocket.sh
+#rm -rf websocket.sh && apt install curl && wget https://raw.githubusercontent.com/Sangarya/ntb/main/websocket/websocket.sh && apt update && apt install lolcat && apt install dos2unix && dos2unix websocket.sh && chmod +x websocket.sh && ./websocket.sh
 wget -O /usr/bin/status https://github.com/Sangarya/ntb/raw/main/install/status.sh && chmod +x /usr/bin/status && cd /usr/bin && apt install -y dos2unix && dos2unix status
 wget -O /usr/bin/system https://github.com/Sangarya/ntb/raw/main/menu/system.sh && chmod +x /usr/bin/system && cd /usr/bin && apt install -y dos2unix && dos2unix system
 wget -O /usr/bin/del-ws https://raw.githubusercontent.com/Sangarya/ntb/main/del/del-ws.sh && chmod +x /usr/bin/del-ws
@@ -334,7 +334,7 @@ wget -O /usr/bin/user-generate https://raw.githubusercontent.com/Sangarya/ntb/ma
 wget -O /usr/bin/add-l2tp https://raw.githubusercontent.com/Sangarya/ntb/main/add/add-l2tp.sh && chmod +x /usr/bin/add-l2tp && cd /usr/bin && apt install -y dos2unix && dos2unix add-l2tp
 #wget https://raw.githubusercontent.com/Sangarya/ntb/main/backup/set-br.sh && chmod +x set-br.sh && ./set-br.sh
 #rm -f /root/set-br.sh
-wget https://raw.githubusercontent.com/Sangarya/ntb/main/bahan/sstp.sh && chmod +x sstp.sh && ./sstp.sh
+#wget https://raw.githubusercontent.com/Sangarya/ntb/main/bahan/sstp.sh && chmod +x sstp.sh && ./sstp.sh
 wget -O /home/vps/public_html/index.html https://raw.githubusercontent.com/Sangarya/ntb/main/install/index.html && chmod +x /home/vps/public_html/index.html && cd /home/vps/public_html/index.html && apt install -y dos2unix && dos2unix index.html
 echo "0 0 * * * root clear-log && xp" >> /etc/crontab
 echo "*/10 * * * * root xp-ws" >> /etc/crontab
@@ -356,7 +356,7 @@ cd
 systemctl restart cron
 echo "1.0.1" > /home/ver
 clear
-figlet -f slant UPDATE | lolcat
+figlet -f slant SUKSES | lolcat
 rm -f update.sh
 sleep 2
 clear
