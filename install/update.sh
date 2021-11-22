@@ -32,6 +32,7 @@ if [ "$(systemd-detect-virt)" == "openvz" ]; then
 		echo "OpenVZ is not supported"
 		exit 1
 fi
+clear
 echo "Untuk Melakukan Tindakan Ini, Anda Harus Laporan Terlebih Dahulu Kepada Pihak Admin."
 echo "Agar Diberikan Akses Pembaruan Pada Script VPS Anda!"
 read -p "Sudah Laporan? [Y/N]:" arg
