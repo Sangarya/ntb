@@ -24,6 +24,7 @@ echo -e "======================================="
 echo -e ""
 exit 0
 fi
+clear
 if [ "${EUID}" -ne 0 ]; then
 		echo "You need to run this script as root"
 		exit 1
@@ -32,7 +33,6 @@ if [ "$(systemd-detect-virt)" == "openvz" ]; then
 		echo "OpenVZ is not supported"
 		exit 1
 fi
-clear
 echo "Untuk Melakukan Tindakan Ini, Anda Harus Laporan Terlebih Dahulu Kepada Pihak Admin."
 echo "Agar Diberikan Akses Pembaruan Pada Script VPS Anda!"
 read -p "Sudah Laporan? [Y/N]:" arg
