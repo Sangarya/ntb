@@ -19,10 +19,10 @@ exit 0
 fi
 clear
 cat /usr/bin/bannerSSTP | lolcat
-echo -e "${color1}1${color3}.$bd Create Account SSTP (${color2}ADD-SSTP${color3})"
-echo -e "${color1}2${color3}.$bd Delete SSTP Account (${color2}DEL-SSTP${color3})"
-echo -e "${color1}3${color3}.$bd Renew SSTP Account (${color2}RENEW-SSTP${color3})"
-echo -e "${color1}4${color3}.$bd Check User Login SSTP (${color2}CEK-SSTP${color3})"
+echo -e "${color1}1${color3}.$bd Create Account SSTP (${color2}add-sstp${color3})"
+echo -e "${color1}2${color3}.$bd Delete SSTP Account (${color2}del-sstp${color3})"
+echo -e "${color1}3${color3}.$bd Renew SSTP Account (${color2}renew-sstp${color3})"
+echo -e "${color1}4${color3}.$bd Check User Login SSTP (${color2}cek-sstp${color3})"
 echo -e""
 echo -e "${color1}x${color3}.$bd Menu"
 echo -e""
