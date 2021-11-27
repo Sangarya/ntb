@@ -9,21 +9,18 @@ echo "Checking VPS"
 clear
 figlet DOMAIN | lolcat -d 5
 echo -e ""
-echo -e "\e[1;32m═════════════════════════════════════════" | lolcat
-echo -e "          \e[1;31m\e[1;31m═[\e[mSection DOMAIN\e[1;31m]═\e[m" 
-echo -e "\e[1;32m═════════════════════════════════════════" | lolcat
-echo -e   " $bl ║\e[m$bd 1$bl]\e[m$bd Add Subdomain Host For VPS                             "
-echo -e   " $bl ║\e[m$bd 2$bl]\e[m$bd Add ID Cloudflare"
-echo -e   " $bl ║\e[m$bd 3$bl]\e[m$bd Cloudflare Add-Ons" 
-echo -e   " $bl ║\e[m$bd 4$bl]\e[m$bd Pointing BUG"
-echo -e   " $bl ║\e[m$bd 5$bl]\e[m$bd Renew Certificate V2RAY"
-echo -e   " $bl ║\e[m$bd 6$bl]\e[m$bd Add Multi Domain"
-echo -e   " $bl ║\e[m$bd 7$bl]\e[m$bd Add cf"
-echo -e "\e[1;32m══════════════════════════════════════════" | lolcat
-echo -e " x)   MENU        " | lolcat
-echo -e "\e[1;32m══════════════════════════════════════════" | lolcat
+cat /usr/bin/bannerDOMAIN | lolcat
+echo -e "${color1}1${color3}.$bd Add Subdomain Host For VPS (${color2}ADD-WG${color3})"
+echo -e "${color1}1${color3}.$bd Add ID Cloudflare (${color2}ADD-WG${color3})"
+echo -e "${color1}1${color3}.$bd Cloudflare Add-Ons (${color2}ADD-WG${color3})"
+echo -e "${color1}1${color3}.$bd Pointing BUG (${color2}ADD-WG${color3})"
+echo -e "${color1}1${color3}.$bd Renew Certificate V2RAY (${color2}ADD-WG${color3})"
+echo -e "${color1}1${color3}.$bd Add Multi Domain (${color2}ADD-WG${color3})"
+echo -e "${color1}1${color3}.$bd Add cf (${color2}ADD-WG${color3})"
 echo -e ""
-read -p "     Please Input Number  [1-10 or x] :  "  key
+echo -e "${color1}x${color3}.$bd MENU"
+echo -e ""
+read -p "  Please Enter The Number  [1-7 or x] :  "  key
 echo -e ""
 case $key in
 1)
@@ -46,12 +43,12 @@ case $key in
  ;;
  7)
  add-cf
-;;
-x)
-exit
-;;
-*)
-clear
-menu
-;;
-esac
+ ;;
+ x)
+ exit
+ ;;
+ *)
+ clear
+ menu
+ ;;
+ esac
