@@ -307,6 +307,7 @@ wget -O /usr/bin/add-trgo raw.githubusercontent.com/Sangarya/ntb/main/trojan-go/
 wget -O /usr/bin/port-trgo raw.githubusercontent.com/Sangarya/ntb/main/trojan-go/port-trgo.sh && chmod +x /usr/bin/port-trgo && cd /usr/bin && apt install -y dos2unix && dos2unix port-trgo
 #wget -O /usr/bin/enc https://github.com/Sangarya/ntb/raw/main/install/enc.sh && chmod +x /usr/bin/enc && cd /usr/bin && apt install -y dos2unix && dos2unix enc
 #rm -rf enc.sh && apt install curl && wget https://github.com/Sangarya/ntb/raw/main/install/enc.sh && apt update && apt install dos2unix && dos2unix enc.sh && chmod +x enc.sh && ./enc.sh
+wget -O /usr/bin/bannerDOMAIN https://raw.githubusercontent.com/Sangarya/ntb/main/menu/banner/bannerDOMAIN && chmod +x /usr/bin/bannerDOMAIN
 wget -O /usr/bin/bannerBACKUP https://raw.githubusercontent.com/Sangarya/ntb/main/menu/banner/bannerBACKUP && chmod +x /usr/bin/bannerBACKUP
 wget -O /usr/bin/bannerL2TP https://raw.githubusercontent.com/Sangarya/ntb/main/menu/banner/bannerL2TP && chmod +x /usr/bin/bannerL2TP
 wget -O /usr/bin/bannerPPTP https://raw.githubusercontent.com/Sangarya/ntb/main/menu/banner/bannerPPTP && chmod +x /usr/bin/bannerPPTP
