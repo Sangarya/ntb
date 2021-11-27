@@ -7,7 +7,6 @@ bd='\e[1m'
 MYIP=$(wget -qO- ifconfig.co);
 echo "Checking VPS"
 clear
-figlet DOMAIN | lolcat -d 5
 echo -e ""
 cat /usr/bin/bannerDOMAIN | lolcat
 echo -e "${color1}1${color3}.$bd Add Subdomain Host For VPS (${color2}add-host${color3})"
