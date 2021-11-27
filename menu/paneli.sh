@@ -1,3 +1,52 @@
-z="
-";SDz='menu';PDz='4)';ez='=$( ';ODz='ppt';gz=' htt';bBz='ly F';wBz='e[m$';TCz='-Poi';Dz='m'\''';WCz='ling';LBz='ion ';HDz='1)';Mz='6;1m';Iz='NC='\''';oBz='/pan';fBz='sers';RDz='x)';QDz='wgr';bDz='yang';wCz='umbe';sCz='ease';cCz='Wire';wz='ep $';vCz='he N';JCz='P)"';PBz='{NC}';lz='serc';KBz='miss';nBz='/bin';YCz='toco';OCz=' (L2';oz='om/S';vBz='bl.\';UBz='ermi';Yz='echo';Cz='1;31';iBz='fi';HBz='"${g';QCz='d 3$';nCz='enu"';kz='hubu';VCz='unne';mz='onte';DCz='nnel';bz='ng V';NDz='3)';xCz='r  [';PCz='TP)"';Uz=' ifc';ACz='re S';fDz='pane';cDz='!"';cz='PS"';LDz='2)';TDz='*)';fCz='roto';uCz='er T';SBz='"${r';eCz='d® P';GDz='n in';JBz='}Per';UCz='nt T';ABz=' $MY';qCz=' -p ';eDz='p 1';Tz='-qO-';dz='IZIN';EDz='case';UDz=' "Ma';DDz='lon';CCz='t Tu';xBz='bd  ';pBz='elVP';NBz='pted';LCz='Laye';TBz='ed}P';gBz='exit';tBz='"$re';GBz=' -e ';OBz='...$';Sz='get ';BDz='] : ';az='ecki';hCz='(Wir';iCz='egua';SCz='t-to';hDz='esac';kCz=' -e"';NCz='o Tu';ECz='ing ';Oz='bd='\''';hz='ps:/';tCz=' Ent';MBz='Acce';gDz='li';fz='curl';kBz='r';MCz='r Tw';yCz='1-4 ';Wz='g.co';CBz=' $IZ';gCz='kol ';qBz='N | ';nz='nt.c';QBz='"';ADz='or x';ICz='-SST';YBz='!${N';pz='anga';CDz=' "  ';dBz='remi';jBz='clea';sBz='at';cBz='or P';bCz='d 4$';Az='red=';BCz='ocke';aDz='a Sa';Rz='=$(w';XDz='omor';tz='n/ip';FBz='en';EBz='; th';iz='/raw';Nz=''\''';Jz='\e[0';Kz='bl='\''';Lz='\e[3';Zz=' "Ch';ZCz='l (P';lBz='cat ';ZDz='g Ad';rz='izin';Fz='n='\''\';Ez='gree';IDz='sstp';Bz=''\''\e[';vz='| gr';VBz='ssio';Xz=');';dDz='slee';Vz='onfi';yz='if [';pCz='read';XCz=' Pro';uBz='d 1$';jz='.git';IBz='reen';Hz='32m'\''';FCz='Prot';eBz='um U';JDz='p';xz=' )';RBz='else';GCz='ocol';DBz='IN ]';WBz='n De';mCz='bd M';rBz='lolc';qz='rya/';aCz='PTP)';sz='/mai';MDz='l2tp';VDz='sukk';RCz='Poin';yBz='Secu';mBz='/usr';lCz='d x$';WDz='an N';rCz='" Pl';FDz=' $lo';jCz='rd)"';KCz='d 2$';hBz=' 0';YDz=' Yan';BBz='IP =';Qz='MYIP';oCz='""';HCz=' (MS';dCz='Guar';KDz=';;';Gz='e[0;';aBz=' "On';uz='vps ';ZBz='C}";';XBz='nied';Pz='\e[1';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$Mz$Nz$z$Oz$Pz$Dz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$cz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$Qz$xz$z$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$Yz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$z$RBz$z$Yz$GBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$z$Yz$aBz$bBz$cBz$dBz$eBz$fBz$QBz$z$gBz$hBz$z$iBz$z$jBz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$Yz$GBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$ICz$JCz$z$Yz$GBz$tBz$KCz$vBz$wBz$xBz$LCz$MCz$NCz$DCz$ECz$FCz$GCz$OCz$PCz$z$Yz$GBz$tBz$QCz$vBz$wBz$xBz$RCz$SCz$TCz$UCz$VCz$WCz$XCz$YCz$ZCz$aCz$QBz$z$Yz$GBz$tBz$bCz$vBz$wBz$xBz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$z$Yz$kCz$QBz$z$Yz$GBz$tBz$lCz$vBz$wBz$mCz$nCz$z$Yz$GBz$oCz$z$pCz$qCz$rCz$sCz$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$z$Yz$GBz$oCz$z$EDz$FDz$GDz$z$HDz$z$IDz$JDz$z$KDz$z$LDz$z$MDz$z$KDz$z$NDz$z$ODz$z$KDz$z$PDz$z$QDz$z$KDz$z$RDz$z$SDz$z$KDz$z$TDz$z$Yz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$bDz$cDz$z$dDz$eDz$z$fDz$gDz$z$KDz$z$hDz"
+#!/bin/bash
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+bl='\e[36;1m'
+bd='\e[1m'
+color1='\e[031;1m'
+color2='\e[34;1m'
+color3='\e[0m'
+MYIP=$(wget -qO- ifconfig.co);
+echo "Checking VPS"
+IZIN=$( curl https://raw.githubusercontent.com/Sangarya/izin/main/ipvps | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+echo -e "${green}Permission Accepted...${NC}"
+else
+echo -e "${red}Permission Denied!${NC}";
+echo "Only For Premium Users"
+exit 0
+fi
+clear
+cat /usr/bin/panelVPN | lolcat
+echo -e "${color1}1${color3}.$bd  Secure Socket Tunneling Protocol (${color2}MS-SSTP${color3})"
+echo -e "${color1}2${color3}.$bd  Layer Two Tunneling Protocol (${color2}L2TP${color3})"
+echo -e "${color1}3${color3}.$bd  Point-to-Point Tunneling Protocol (${color2}PPTP${color3})"
+echo -e "${color1}4${color3}.$bd  WireGuard® Protokol (${color2}Wireguard${color3})"
+echo -e""
+echo -e "${color1}x${color3}.$bd Menu"
+echo -e ""
+read -p " Please Enter The Number  [1-4 or x] :  "  lon
+echo -e ""
+case $lon in
+1)
+sstpp
+;;
+2)
+l2tp
+;;
+3)
+ppt
+;;
+4)
+wgr
+;;
+x)
+menu
+;;
+*)
+echo "Masukkan Nomor Yang Ada Sayang!"
+sleep 1
+paneli
+;;
+esac

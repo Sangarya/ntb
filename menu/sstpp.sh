@@ -1,3 +1,52 @@
-z="
-";TCz=' Use';Gz='e[0;';HCz='e SS';OCz=' SST';xBz='bd C';fz='curl';az='ecki';VBz='ssio';Nz=''\''';wz='ep $';dBz='remi';pz='anga';iz='/raw';ez='=$( ';Rz='=$(w';MBz='Acce';NCz='enew';NDz='an N';FCz='bd D';Az='red=';ACz='e Ac';RDz='a Sa';QBz='"';oBz='/ban';JDz='li';Sz='get ';Mz='6;1m';GDz='cek-';ECz='d 2$';Cz='1;31';RBz='else';vBz='bl.\';xCz=';;';Lz='\e[3';aBz=' "On';Pz='\e[1';eCz='ease';rz='izin';wCz='add-';TDz='!"';yBz='reat';oz='om/S';UDz='slee';YCz='d x$';cz='PS"';SDz='yang';IBz='reen';tz='n/ip';TBz='ed}P';EBz='; th';mCz='] : ';UCz='r Lo';BBz='IP =';yCz='2)';GBz=' -e ';CBz=' $IZ';eBz='um U';MDz='sukk';ODz='omor';dCz='" Pl';KCz='nt"';jCz='r  [';xz=' )';tBz='"$re';LCz='d 3$';XBz='nied';vz='| gr';JCz='ccou';FBz='en';GCz='elet';rCz='case';QDz='g Ad';pCz='p';kz='hubu';Tz='-qO-';SBz='"${r';UBz='ermi';sz='/mai';MCz='bd R';nBz='/bin';Qz='MYIP';nCz=' "  ';CDz='rene';lz='serc';sCz=' $ss';Xz=');';YBz='!${N';cCz=' -p ';bz='ng V';aCz='enu"';SCz='heck';Bz=''\''\e[';Iz='NC='\''';gCz='er T';BCz='coun';dz='IZIN';Jz='\e[0';kBz='r';oCz='sstp';WBz='n De';qCz='""';BDz='3)';JBz='}Per';rBz='| lo';NBz='pted';iCz='umbe';nz='nt.c';tCz='tpp ';KBz='miss';CCz='t SS';XCz=' -e"';uz='vps ';VCz='gin ';Ez='gree';qz='rya/';cBz='or P';bCz='read';Zz=' "Ch';PCz='P Ac';jz='.git';OBz='...$';Fz='n='\''\';WCz='SSTP';VDz='p 1';PDz=' Yan';bBz='ly F';Dz='m'\''';Uz=' ifc';gBz='exit';EDz='tp';ZCz='bd M';hz='ps:/';HBz='"${g';ADz='del-';PBz='{NC}';hBz=' 0';uBz='d 1$';FDz='4)';mBz='/usr';LDz=' "Ma';fBz='sers';Hz='32m'\''';DBz='IN ]';Oz='bd='\''';lCz='or x';ICz='TP A';WDz='esac';kCz='1-4 ';lBz='cat ';pBz='nerS';uCz='in';vCz='1)';DDz='w-ss';fCz=' Ent';ZBz='C}";';jBz='clea';gz=' htt';Yz='echo';LBz='ion ';qBz='STP ';Wz='g.co';IDz='pane';iBz='fi';Kz='bl='\''';DCz='TP"';yz='if [';hCz='he N';ABz=' $MY';sBz='lcat';Vz='onfi';QCz='t"';wBz='e[m$';KDz='*)';RCz='d 4$';mz='onte';HDz='x)';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$Mz$Nz$z$Oz$Pz$Dz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$cz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$Qz$xz$z$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$Yz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$z$RBz$z$Yz$GBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$z$Yz$aBz$bBz$cBz$dBz$eBz$fBz$QBz$z$gBz$hBz$z$iBz$z$jBz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$Yz$GBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$z$Yz$GBz$tBz$ECz$vBz$wBz$FCz$GCz$HCz$ICz$JCz$KCz$z$Yz$GBz$tBz$LCz$vBz$wBz$MCz$NCz$OCz$PCz$BCz$QCz$z$Yz$GBz$tBz$RCz$vBz$wBz$xBz$SCz$TCz$UCz$VCz$WCz$QBz$z$Yz$XCz$QBz$z$Yz$GBz$tBz$YCz$vBz$wBz$ZCz$aCz$z$Yz$XCz$QBz$z$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$pCz$z$Yz$GBz$qCz$z$rCz$sCz$tCz$uCz$z$vCz$z$wCz$oCz$z$xCz$z$yCz$z$ADz$oCz$z$xCz$z$BDz$z$CDz$DDz$EDz$z$xCz$z$FDz$z$GDz$oCz$z$xCz$z$HDz$z$IDz$JDz$z$xCz$z$KDz$z$Yz$LDz$MDz$NDz$ODz$PDz$QDz$RDz$SDz$TDz$z$UDz$VDz$z$oCz$pCz$z$xCz$z$WDz"
+#!/bin/bash
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+bl='\e[36;1m'
+bd='\e[1m'
+color1='\e[031;1m'
+color2='\e[34;1m'
+color3='\e[0m'
+MYIP=$(wget -qO- ifconfig.co);
+echo "Checking VPS"
+IZIN=$( curl https://raw.githubusercontent.com/Sangarya/izin/main/ipvps | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+echo -e "${green}Permission Accepted...${NC}"
+else
+echo -e "${red}Permission Denied!${NC}";
+echo "Only For Premium Users"
+exit 0
+fi
+clear
+cat /usr/bin/bannerSSTP | lolcat
+echo -e "${color1}1${color3}.$bd Create Account SSTP (${color2}ADD-SSTP${color3})"
+echo -e "${color1}2${color3}.$bd Delete SSTP Account (${color2}DEL-SSTP${color3})"
+echo -e "${color1}3${color3}.$bd Renew SSTP Account (${color2}RENEW-SSTP${color3})"
+echo -e "${color1}4${color3}.$bd Check User Login SSTP (${color2}CEK-SSTP${color3})"
+echo -e""
+echo -e "${color1}x${color3}.$bd Menu"
+echo -e""
+read -p " Please Enter The Number  [1-4 or x] :  "  sstpp
+echo -e ""
+case $sstpp in
+1)
+add-sstp
+;;
+2)
+del-sstp
+;;
+3)
+renew-sstp
+;;
+4)
+cek-sstp
+;;
+x)
+paneli
+;;
+*)
+echo "Masukkan Nomor Yang Ada Sayang!"
+sleep 1
+sstpp
+;;
+esac

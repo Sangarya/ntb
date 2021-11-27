@@ -1,3 +1,47 @@
-z="
-";SCz='d x$';PBz='{NC}';nCz='k in';iz='/raw';YBz='!${N';nz='nt.c';ZCz='ease';FBz='en';qBz='ACKU';VBz='ssio';aBz=' "On';rBz='P | ';UBz='ermi';JCz='a VP';aCz=' Ent';xBz='e[m$';kCz='""';WCz='read';NCz='esto';BDz=' "Ma';Tz='-qO-';wBz='bl.\';uBz='"$re';Wz='g.co';XBz='nied';Oz='bd='\''';fz='curl';tBz='at';WBz='n De';Yz='echo';hBz=' 0';HBz='"${g';nBz='/bin';FCz='bd B';lCz='case';NBz='pted';tz='n/ip';cCz='he N';XCz=' -p ';EDz='omor';jBz='clea';OBz='...$';ZBz='C}";';Nz=''\''';ez='=$( ';mCz=' $go';cBz='or P';Bz=''\''\e[';RBz='else';KCz='S "';Qz='MYIP';sz='/mai';GDz='g Ad';SBz='"${r';dBz='remi';NDz='k';xCz='x)';eBz='um U';ODz='esac';yBz='bd A';gCz='or x';DBz='IN ]';dCz='umbe';Mz='6;1m';HDz='a Sa';bCz='er T';Xz=');';jCz='gok';ECz='d 2$';rz='izin';lz='serc';qz='rya/';Lz='\e[3';oCz='1)';xz=' )';IBz='reen';RCz=' "';HCz='nual';VCz=' -e"';Gz='e[0;';JBz='}Per';ICz=' Dat';PCz='ata ';yz='if [';QCz='VPS ';bBz='ly F';pz='anga';iCz=' "  ';CDz='sukk';Dz='m'\''';lBz='cat ';tCz='2)';Kz='bl='\''';vz='| gr';Rz='=$(w';dz='IZIN';ADz='*)';KDz='slee';iBz='fi';Cz='1;31';sBz='lolc';MCz='bd R';eCz='r  [';uCz='3)';FDz=' Yan';TCz='bd M';EBz='; th';LDz='p 1';kz='hubu';CCz='p Da';MBz='Acce';gBz='exit';Uz=' ifc';DCz='ta V';IDz='yang';BBz='IP =';oBz='/ban';ABz=' $MY';YCz='" Pl';mz='onte';Iz='NC='\''';mBz='/usr';Hz='32m'\''';Jz='\e[0';pBz='nerB';UCz='enu"';MDz='bebe';BCz='acku';hz='ps:/';cz='PS"';kBz='r';Pz='\e[1';fCz='1-3 ';KBz='miss';LCz='d 3$';wz='ep $';Sz='get ';CBz=' $IZ';ACz='utob';LBz='ion ';qCz='back';vBz='d 1$';oz='om/S';QBz='"';bz='ng V';Fz='n='\''\';OCz='re D';Zz=' "Ch';gz=' htt';yCz='menu';sCz=';;';hCz='] : ';Vz='onfi';Az='red=';JDz='!"';uz='vps ';pCz='auto';DDz='an N';rCz='up';vCz='rest';GCz='p Ma';GBz=' -e ';wCz='ore';fBz='sers';jz='.git';az='ecki';Ez='gree';TBz='ed}P';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$Mz$Nz$z$Oz$Pz$Dz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$cz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$Qz$xz$z$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$Yz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$z$RBz$z$Yz$GBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$z$Yz$aBz$bBz$cBz$dBz$eBz$fBz$QBz$z$gBz$hBz$z$iBz$z$jBz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$z$Yz$GBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$cz$z$Yz$GBz$uBz$ECz$wBz$xBz$FCz$BCz$GCz$HCz$ICz$JCz$KCz$z$Yz$GBz$uBz$LCz$wBz$xBz$MCz$NCz$OCz$PCz$QCz$RCz$z$Yz$GBz$uBz$SCz$wBz$xBz$TCz$UCz$z$Yz$VCz$QBz$z$Yz$GBz$uBz$SCz$wBz$xBz$TCz$UCz$z$Yz$VCz$QBz$z$WCz$XCz$YCz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$hCz$iCz$jCz$z$Yz$GBz$kCz$z$lCz$mCz$nCz$z$oCz$z$pCz$qCz$rCz$z$sCz$z$tCz$z$qCz$rCz$z$sCz$z$uCz$z$vCz$wCz$z$sCz$z$xCz$z$yCz$z$sCz$z$ADz$z$Yz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$JDz$z$KDz$LDz$z$MDz$NDz$z$sCz$z$ODz"
+#!/bin/bash
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+bl='\e[36;1m'
+bd='\e[1m'
+color1='\e[031;1m'
+color2='\e[34;1m'
+color3='\e[0m'
+MYIP=$(wget -qO- ifconfig.co);
+echo "Checking VPS"
+IZIN=$( curl https://raw.githubusercontent.com/Sangarya/izin/main/ipvps | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+echo -e "${green}Permission Accepted...${NC}"
+else
+echo -e "${red}Permission Denied!${NC}";
+echo "Only For Premium Users"
+exit 0
+fi
+clear
+cat /usr/bin/bannerBACKUP | lolcat
+echo -e "${color1}1${color3}.$bd Autobackup Data VPS (${color2}AUTOBACKUP${color3})"
+echo -e "${color1}2${color3}.$bd Backup Manual Data VPS (${color2}BACKUP${color3})"
+echo -e "${color1}3${color3}.$bd Restore Data VPS (${color2}RESTORE${color3})"
+echo -e "${color1}x${color3}.$bd Menu"
+echo -e""
+read -p " Please Enter The Number  [1-3 or x] :  "  gok
+echo -e ""
+case $gok in
+1)
+autobackup
+;;
+2)
+backup
+;;
+3)
+restore
+;;
+x)
+menu
+;;
+*)
+echo "Masukkan Nomor Yang Ada Sayang!"
+sleep 1
+bebek
+;;
+esac

@@ -1,3 +1,72 @@
-z="
-";WCz='ss"';ADz='he N';OBz='...$';Rz='=$(w';Fz='n='\''\';tBz='t';TBz='ed}P';fDz='7)';LCz='Rene';KBz='miss';DBz='IN ]';XCz='d 5$';Ez='gree';Qz='MYIP';Bz=''\''\e[';oBz='/ban';YCz='te T';gCz='less';nCz='d 9$';ZCz='rial';Kz='bl='\''';UBz='ermi';iCz='ting';LBz='ion ';VCz=' Vme';IDz='y';hz='ps:/';fBz='sers';sCz='enu"';fz='curl';pDz='an N';xBz='e[m ';ODz='1)';PBz='{NC}';KCz='d 3$';VBz='ssio';tDz='a Sa';sz='/mai';ZBz='C}";';NDz='in';GDz=' "  ';eBz='um U';WDz='w-ws';PCz='unt"';oz='om/S';FDz='] : ';DCz=' Web';WBz='n De';RCz='Chec';OCz='Acco';MDz='ray ';fCz='d 6$';YDz='cek-';dz='IZIN';kBz='r';Gz='e[0;';KDz='case';Vz='onfi';FCz='et A';oCz=' -e"';XDz='4)';tCz='read';yCz='er T';GCz='ccou';CCz='mess';kDz='x)';wBz='bl.\';Oz='bd='\''';cz='PS"';nz='nt.c';QBz='"';cDz='6)';iDz='ess';HCz='nt"';yz='if [';vDz='!"';Cz='1;31';NBz='pted';eCz='ount';JCz='Dele';RBz='else';dDz='vles';rDz=' Yan';RDz=';;';az='ecki';uBz='"$re';qDz='omor';TDz='del-';nBz='/bin';Sz='get ';hDz='w-vl';BDz='umbe';oDz='sukk';pBz='nerV';jDz='9)';dBz='remi';cCz='cket';iz='/raw';BCz='te V';JBz='}Per';UCz='ogin';qBz='2RAY';kCz='d 8$';EBz='; th';sBz='olca';wz='ep $';YBz='!${N';MCz='w Vm';wCz='ease';bDz='lws';lCz='w Vl';aBz=' "On';NCz='ess ';Pz='\e[1';ECz='sock';jCz=' Vle';Hz='32m'\''';aCz='ss W';GBz=' -e ';Zz=' "Ch';lBz='cat ';VDz='rene';bBz='ly F';mCz='unt ';pz='anga';mz='onte';dCz=' Acc';jz='.git';xDz='p 1';MBz='Acce';bz='ng V';CBz=' $IZ';Dz='m'\''';hBz=' 0';cBz='or P';xz=' )';mDz='*)';DDz='1-9 ';AEz='esac';pCz='d x$';Xz=');';kz='hubu';ez='=$( ';UDz='3)';rCz='bd M';uCz=' -p ';vBz='d 1$';QDz='ws';Mz='6;1m';eDz='s';lz='serc';hCz='d 7$';yDz='ay';Az='red=';SBz='"${r';QCz='d 4$';vCz='" Pl';gDz='8)';BBz='IP =';XBz='nied';uz='vps ';ACz='Crea';EDz='or x';PDz='add-';rBz=' | l';LDz=' $v2';Uz=' ifc';qz='rya/';HDz='v2ra';jBz='clea';wDz='slee';bCz='ebso';ABz=' $MY';qCz='e[m$';ZDz='5)';SDz='2)';HBz='"${g';Yz='echo';vz='| gr';CDz='r  [';ICz='d 2$';aDz='tria';JDz='""';SCz='k Us';gz=' htt';TCz='er L';Tz='-qO-';mBz='/usr';nDz=' "Ma';Lz='\e[3';gBz='exit';tz='n/ip';sDz='g Ad';lDz='menu';IBz='reen';FBz='en';xCz=' Ent';Wz='g.co';uDz='yang';Iz='NC='\''';rz='izin';Jz='\e[0';iBz='fi';yBz='$bd ';Nz=''\''';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$Mz$Nz$z$Oz$Pz$Dz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$cz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$Qz$xz$z$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$Yz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$z$RBz$z$Yz$GBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$z$Yz$aBz$bBz$cBz$dBz$eBz$fBz$QBz$z$gBz$hBz$z$iBz$z$jBz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$z$Yz$GBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$z$Yz$GBz$uBz$ICz$wBz$xBz$yBz$JCz$BCz$CCz$DCz$ECz$FCz$GCz$HCz$z$Yz$GBz$uBz$KCz$wBz$xBz$yBz$LCz$MCz$NCz$OCz$PCz$z$Yz$GBz$uBz$QCz$wBz$xBz$yBz$RCz$SCz$TCz$UCz$VCz$WCz$z$Yz$GBz$uBz$XCz$wBz$xBz$yBz$ACz$YCz$ZCz$VCz$aCz$bCz$cCz$dCz$eCz$QBz$z$Yz$GBz$uBz$fCz$wBz$xBz$yBz$ACz$BCz$gCz$DCz$ECz$FCz$GCz$HCz$z$Yz$GBz$uBz$hCz$wBz$xBz$yBz$JCz$iCz$jCz$aCz$bCz$cCz$dCz$eCz$QBz$z$Yz$GBz$uBz$kCz$wBz$xBz$yBz$LCz$lCz$NCz$OCz$mCz$QBz$z$Yz$GBz$uBz$nCz$wBz$xBz$yBz$RCz$SCz$TCz$UCz$jCz$WCz$z$Yz$oCz$QBz$z$Yz$GBz$uBz$pCz$wBz$qCz$rCz$sCz$z$Yz$oCz$QBz$z$tCz$uCz$vCz$wCz$xCz$yCz$ADz$BDz$CDz$DDz$EDz$FDz$GDz$HDz$IDz$z$Yz$GBz$JDz$z$KDz$LDz$MDz$NDz$z$ODz$z$PDz$QDz$z$RDz$z$SDz$z$TDz$QDz$z$RDz$z$UDz$z$VDz$WDz$z$RDz$z$XDz$z$YDz$QDz$z$RDz$z$ZDz$z$aDz$bDz$z$RDz$z$cDz$z$PDz$dDz$eDz$z$RDz$z$fDz$z$TDz$dDz$eDz$z$RDz$z$gDz$z$VDz$hDz$iDz$z$RDz$z$jDz$z$YDz$dDz$eDz$z$RDz$z$kDz$z$lDz$z$RDz$z$mDz$z$Yz$nDz$oDz$pDz$qDz$rDz$sDz$tDz$uDz$vDz$z$wDz$xDz$z$HDz$yDz$z$RDz$z$AEz"
+#!/bin/bash
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+bl='\e[36;1m'
+bd='\e[1m'
+color1='\e[031;1m'
+color2='\e[34;1m'
+color3='\e[0m'
+MYIP=$(wget -qO- ifconfig.co);
+echo "Checking VPS"
+IZIN=$( curl https://raw.githubusercontent.com/Sangarya/izin/main/ipvps | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+echo -e "${green}Permission Accepted...${NC}"
+else
+echo -e "${red}Permission Denied!${NC}";
+echo "Only For Premium Users"
+exit 0
+fi
+clear
+cat /usr/bin/bannerV2RAY | lolcat
+echo -e "${color1}1${color3}.$bd Create Vmess Websocket Account (${color2}ADD-WS${color3})"
+echo -e "${color1}2${color3}.$bd Delete Vmess Websocket Account (${color2}DEL-WS${color3})"
+echo -e "${color1}3${color3}.$bd Renew Vmess Account (${color2}RENEW-WS${color3})"
+echo -e "${color1}4${color3}.Check User Login Vmess (${color2}CEK-WS${color3})"
+echo -e "${color1}5${color3}.Create Trial Vmess Websocket Account (${color2}TRIAL-WS${color3})"
+echo -e "${color1}6${color3}.$bd Create Vless Websocket Account (${color2}ADD-VLESS${color3})"
+echo -e "${color1}7${color3}.$bd Deleting Vless Websocket Account (${color2}DEL-VLESS${color3})"
+echo -e "${color1}8${color3}.$bd Renew Vless Account (${color2}RENEW-VLESS${color3})"
+echo -e "${color1}9${color3}.$bd Check User Login Vless (${color2}CEK-VLESS${color3})"
+echo -e""
+echo -e "${color1}x${color3}.$bd Menu"
+echo -e""
+read -p " Please Enter The Number  [1-9 or x] :  "  v2ray
+echo -e ""
+case $v2ray in
+1)
+add-ws
+;;
+2)
+del-ws
+;;
+3)
+renew-ws
+;;
+4)
+cek-ws
+;;
+5)
+trialws
+;;
+6)
+add-vless
+;;
+7)
+del-vless
+;;
+8)
+renew-vless
+;;
+9)
+cek-vless
+;;
+x)
+menu
+;;
+*)
+echo "Masukkan Nomor Yang Ada Sayang!"
+sleep 1
+v2raay
+;;
+esac

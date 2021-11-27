@@ -1,3 +1,72 @@
-z="
-";aBz=' "On';KCz='ount';MEz='an N';bDz='""';Ez='gree';lCz='er S';yz='if [';SDz='ter ';BDz='SH"';ADz='ll S';SEz='!"';rDz='ser';QDz='leas';AEz='te';qDz='delu';lDz='l';BEz='8)';OBz='...$';yCz='toki';Hz='32m'\''';XBz='nied';RBz='else';BBz='IP =';PDz='"  P';fBz='sers';FEz='cekl';pDz='4)';gBz='exit';rCz='er E';LBz='ion ';hDz='new';CCz='Open';Fz='n='\''\';TCz='ccou';Pz='\e[1';dDz=' $ss';dCz='SSH ';yBz='reat';Jz='\e[0';cCz='gin ';Cz='1;31';hCz='d 6$';Gz='e[0;';VCz='d 4$';VDz='er  ';QEz='a Sa';GDz='Mult';Kz='bl='\''';vCz='bd S';JDz=' -e"';hBz=' 0';Zz=' "Ch';MBz='Acce';ODz=' -p ';vz='| gr';uBz='d 1$';GCz='d 2$';wBz='e[m$';kDz='tria';LDz='bd M';gDz='user';pBz='nerS';oBz='/ban';MCz=' & O';cBz='or P';NEz='omor';sCz='xpir';CEz='auto';QBz='"';mDz='3)';lBz='cat ';eDz='h in';DCz='VPN ';mCz='SH &';fCz='enVP';MDz='enu"';OCz='PN"';VEz='ssh';WDz='[1-9';qz='rya/';HEz='x)';XCz='elet';VBz='ssio';az='ecki';EEz='9)';Uz=' ifc';oDz='w';XDz=' or ';HBz='"${g';REz='yang';jCz='ist ';DBz='IN ]';Bz=''\''\e[';Az='red=';mz='onte';RDz='e En';HCz='bd T';Sz='get ';FBz='en';TEz='slee';Wz='g.co';Xz=');';qCz='e Us';qBz='SH |';Vz='onfi';dBz='remi';NCz='penV';GBz=' -e ';Iz='NC='\''';YCz='d 5$';iCz='bd L';bz='ng V';Mz='6;1m';rz='izin';Oz='bd='\''';LEz='sukk';Yz='echo';nCz=' Ope';fz='curl';jz='.git';TBz='ed}P';wCz='et u';Nz=''\''';Lz='\e[3';ACz='e SS';NDz='read';jBz='clea';IEz='menu';gCz='N"';IBz='reen';SBz='"${r';pz='anga';BCz='H & ';tz='n/ip';CBz=' $IZ';Qz='MYIP';dz='IZIN';nz='nt.c';Dz='m'\''';RCz='enew';iz='/raw';tDz='cek';bBz='ly F';FCz='unt"';JCz=' Acc';sz='/mai';KBz='miss';aDz=' ssh';cDz='case';eCz='& Op';HDz='i Lo';YBz='!${N';PCz='d 3$';nBz='/bin';EBz='; th';YDz='x] :';TDz='The ';uz='vps ';LCz=' SSH';ECz='Acco';tBz='"$re';kBz='r';eBz='um U';WCz='bd D';xz=' )';nDz='rene';lz='serc';ZDz='  " ';fDz='1)';pCz='d 7$';KEz=' "Ma';DEz='kill';DDz='ek U';iBz='fi';uCz='d 8$';UCz='nt"';mBz='/usr';oCz='nVPN';ez='=$( ';WBz='n De';SCz='PN A';jDz='2)';wz='ep $';UEz='p 1';CDz='d 9$';tCz='ed S';OEz=' Yan';Rz='=$(w';iDz=';;';FDz=' Do ';QCz='bd R';yDz='dele';sDz='5)';IDz='SSH"';NBz='pted';bCz='r Lo';ZBz='C}";';JBz='}Per';GEz='im';EDz=' Who';rBz=' lol';kCz='Memb';uDz='6)';PBz='{NC}';vBz='bl.\';hz='ps:/';Tz='-qO-';PEz='g Ad';UBz='ermi';gz=' htt';cz='PS"';ABz=' $MY';wDz='er';JEz='*)';UDz='Numb';KDz='d x$';oz='om/S';xBz='bd C';ZCz='heck';aCz=' Use';xCz='p Au';kz='hubu';xDz='7)';ICz='rial';WEz='esac';sBz='cat';vDz='memb';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$Mz$Nz$z$Oz$Pz$Dz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$cz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$Qz$xz$z$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$Yz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$z$RBz$z$Yz$GBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$z$Yz$aBz$bBz$cBz$dBz$eBz$fBz$QBz$z$gBz$hBz$z$iBz$z$jBz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$z$Yz$GBz$tBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$z$Yz$GBz$tBz$GCz$vBz$wBz$HCz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$z$Yz$GBz$tBz$PCz$vBz$wBz$QCz$RCz$LCz$MCz$NCz$SCz$TCz$UCz$z$Yz$GBz$tBz$VCz$vBz$wBz$WCz$XCz$ACz$BCz$CCz$DCz$ECz$FCz$z$Yz$GBz$tBz$YCz$vBz$wBz$xBz$ZCz$aCz$bCz$cCz$dCz$eCz$fCz$gCz$z$Yz$GBz$tBz$hCz$vBz$wBz$iCz$jCz$kCz$lCz$mCz$nCz$oCz$QBz$z$Yz$GBz$tBz$pCz$vBz$wBz$WCz$XCz$qCz$rCz$sCz$tCz$mCz$nCz$oCz$QBz$z$Yz$GBz$tBz$uCz$vBz$wBz$vCz$wCz$xCz$yCz$ADz$BDz$z$Yz$GBz$tBz$CDz$vBz$wBz$xBz$DDz$fBz$EDz$FDz$GDz$HDz$cCz$IDz$z$Yz$JDz$QBz$z$Yz$GBz$tBz$KDz$vBz$wBz$LDz$MDz$z$Yz$JDz$QBz$z$NDz$ODz$PDz$QDz$RDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$ZDz$aDz$z$Yz$GBz$bDz$z$cDz$dDz$eDz$z$fDz$z$gDz$hDz$z$iDz$z$jDz$z$kDz$lDz$z$iDz$z$mDz$z$nDz$oDz$z$iDz$z$pDz$z$qDz$rDz$z$iDz$z$sDz$z$tDz$z$iDz$z$uDz$z$vDz$wDz$z$iDz$z$xDz$z$yDz$AEz$z$iDz$z$BEz$z$CEz$DEz$z$iDz$z$EEz$z$FEz$GEz$z$iDz$z$HEz$z$IEz$z$iDz$z$JEz$z$Yz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$REz$SEz$z$TEz$UEz$z$VEz$z$iDz$z$WEz"
+#!/bin/bash
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+bl='\e[36;1m'
+bd='\e[1m'
+color1='\e[031;1m'
+color2='\e[34;1m'
+color3='\e[0m'
+MYIP=$(wget -qO- ifconfig.co);
+echo "Checking VPS"
+IZIN=$( curl https://raw.githubusercontent.com/Sangarya/izin/main/ipvps | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+echo -e "${green}Permission Accepted...${NC}"
+else
+echo -e "${red}Permission Denied!${NC}";
+echo "Only For Premium Users"
+exit 0
+fi
+clear
+cat /usr/bin/bannerSSH | lolcat
+echo -e "${color1}1${color3}.$bd Create SSH & OpenVPN Account (${color2}USERNEW${color3})"
+echo -e "${color1}2${color3}.$bd Trial Account SSH & OpenVPN (${color2}TRIAL${color3})"
+echo -e "${color1}3${color3}.$bd Renew SSH & OpenVPN Account (${color2}RENEW${color3})"
+echo -e "${color1}4${color3}.$bd Delete SSH & OpenVPN Account (${color2}DELUSER${color3})"
+echo -e "${color1}5${color3}.$bd Check User Login SSH & OpenVPN (${color2}CEK${color3})"
+echo -e "${color1}6${color3}.$bd List Member SSH & OpenVPN (${color2}MEMBER${color3})"
+echo -e "${color1}7${color3}.$bd Delete User Expired SSH & OpenVPN (${color2}DELETE${color3})"
+echo -e "${color1}8${color3}.$bd Set up Autokill SSH (${color2}AUTOKILL${color3})"
+echo -e "${color1}9${color3}.$bd Cek Users Who Do Multi Login SSH (${color2}CEKLIM${color3})"
+echo -e""
+echo -e "${color1}x${color3}.$bd Menu"
+echo -e""
+read -p "  Please Enter The Number  [1-9 or x] :  "  ssh
+echo -e ""
+case $ssh in
+1)
+usernew
+;;
+2)
+trial
+;;
+3)
+renew
+;;
+4)
+deluser
+;;
+5)
+cek
+;;
+6)
+member
+;;
+7)
+delete
+;;
+8)
+autokill
+;;
+9)
+ceklim
+;;
+x)
+menu
+;;
+*)
+echo "Masukkan Nomor Yang Ada Sayang!"
+sleep 1
+ssh
+;;
+esac

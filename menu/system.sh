@@ -1,3 +1,108 @@
-z="
-";yCz='uto ';Dz='m'\''';LCz='nu"';kFz='x)';Rz='=$(w';NBz='pted';QEz='s';VDz='andw';LFz=' /et';Uz=' ifc';oz='om/S';PFz='16)';pz='anga';Hz='32m'\''';sFz='g Ad';qBz='YSTE';rz='izin';IBz='reen';bFz='od +';FFz='13)';dDz='dit ';Zz=' "Ch';UCz='er"';RBz='else';cBz='or P';tFz='a Sa';Vz='onfi';UBz='ermi';pBz='nerS';dFz=' ./r';dz='IZIN';yFz='syst';xEz='auto';wBz='  1$';oCz='nfor';cFz='x ro';AGz='em';gz=' htt';nz='nt.c';CDz='  9$';nEz='dtes';TCz='Serv';DBz='IN ]';kBz='r';aBz=' "On';mBz='/usr';iCz='bd S';oDz=' Pas';ZBz='C}";';OBz='...$';SEz='case';Wz='g.co';oBz='/ban';wDz=' -e"';NDz='VPS"';SBz='"${r';BDz='all"';RFz='-gen';MCz='  3$';wEz='10)';QCz='dwit';gEz='4)';OFz='net';LBz='ion ';qEz='info';GFz='bw';VFz='wget';Fz='n='\''\';SDz='s"';Pz='\e[1';nFz=' "Ma';hBz=' 0';GDz='bd A';GBz=' -e ';hEz='ram';BFz='ting';LEz='[1-1';fDz='er S';eBz='um U';qCz='on D';vBz='$red';wFz='slee';ZFz='h &&';NFz='sue.';XEz='ge-p';KFz='nano';dBz='remi';Xz=');';Tz='-qO-';OEz=':  "';mCz='  7$';TFz='e';lBz='cat ';tz='n/ip';hCz='  6$';qz='rya/';uCz='  8$';GEz='e En';NEz=' x] ';iBz='fi';QBz='"';ZEz=';;';sEz='abou';kCz='test';PCz=' Ban';uDz='ctio';YDz='nsta';mEz='spee';DCz='rt A';SFz='erat';Nz=''\''';vFz='!"';WCz='heck';FEz='leas';XCz=' Usa';xz=' )';bBz='ly F';tBz='at';SCz='eed ';GCz='nt"';HBz='"${g';EDz=' Log';HDz='Rebo';iDz='bd G';HEz='ter ';MFz='c/is';TEz=' $si';yBz='e[m$';uEz='r-lo';ADz='Inst';BCz='hang';lz='serc';sDz='omai';vCz='nfo ';JBz='}Per';kDz='ate ';vEz='g';YCz='ge o';QFz='user';uz='vps ';PDz='ervi';WBz='n De';CBz=' $IZ';XFz='n/ro';cEz='3)';fEz='eed';wz='ep $';IDz='ot"';TDz=' 13$';UDz='ek B';KCz='n Me';UEz='s in';KDz='bd P';KBz='miss';lCz=' VPS';FBz='en';YEz='ort';bz='ng V';iz='/raw';FDz=' 10$';Kz='bl='\''';qFz='omor';oFz='sukk';rDz='bd D';RCz='h Sp';FCz='ccou';pDz='s VP';VCz='  4$';DDz='lear';uFz='yang';eCz='eboo';tDz='n Se';nCz='bd I';Qz='MYIP';ODz=' 12$';QDz='ce S';aEz='2)';uBz='  " ';cDz='bd E';ZCz='f VP';xBz='bl.\';DEz=' -p ';AEz='bd M';kEz='ot';EEz='"  P';hz='ps:/';mFz='*)';UFz='17)';MEz='8 or';gDz='SH"';sz='/mai';wCz='Scri';RDz='tatu';hFz='pane';Lz='\e[3';oEz='t';xFz='p 1';sCz='ay S';iEz='5)';CCz='e Po';VBz='ssio';ACz='bd C';yDz='d x$';Sz='get ';IFz='bbr';HCz='  2$';aCz='S Ra';rCz='ispl';Cz='1;31';EFz='us';pEz='7)';tEz='9)';JEz='Numb';hDz=' 16$';Az='red=';OCz='imit';AFz='poin';BBz='IP =';fFz='sh';iFz='l-do';Ez='gree';DFz='stat';HFz='14)';XDz=' 14$';WEz='chan';az='ecki';Iz='NC='\''';JCz='ebmi';fz='curl';ICz='bd W';yz='if [';PBz='{NC}';JFz='15)';lFz='menu';WDz='idth';ZDz='ll B';jEz='rebo';eDz='Bann';YBz='!${N';lDz='SSH"';NCz='bd L';mDz=' 17$';ez='=$( ';VEz='1)';WFz='root';cz='PS"';jz='.git';KEz='er  ';pCz='mati';XBz='nied';xCz='pt A';fCz='t VP';YFz='ot.s';bCz='m"';Jz='\e[0';EBz='; th';fBz='sers';CFz='12)';eEz='t-sp';jDz='ener';kz='hubu';JDz=' 11$';bEz='wbmn';aDz='BR"';PEz='  si';gBz='exit';vDz='n"';Bz=''\''\e[';dEz='limi';pFz='an N';ECz='ll A';gCz='S"';jCz='peed';nBz='/bin';Mz='6;1m';nDz='anti';lEz='6)';IEz='The ';rFz=' Yan';Yz='echo';sBz='lolc';Gz='e[0;';tCz='yste';rBz='M | ';MBz='Acce';rEz='8)';BEz='enu"';Oz='bd='\''';LDz='oint';bDz=' 15$';jBz='clea';MDz='ing ';eFz='oot.';qDz=' 18$';mz='onte';jFz='main';cCz='  5$';xDz='"$re';ABz=' $MY';BGz='esac';vz='| gr';TBz='ed}P';dCz='bd R';gFz='18)';CEz='read';REz='""';yEz='11)';aFz=' chm';
-eval "$Az$Bz$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Jz$Dz$z$Kz$Lz$Mz$Nz$z$Oz$Pz$Dz$z$Qz$Rz$Sz$Tz$Uz$Vz$Wz$Xz$z$Yz$Zz$az$bz$cz$z$dz$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$uz$vz$wz$Qz$xz$z$yz$ABz$BBz$CBz$DBz$EBz$FBz$z$Yz$GBz$HBz$IBz$JBz$KBz$LBz$MBz$NBz$OBz$PBz$QBz$z$RBz$z$Yz$GBz$SBz$TBz$UBz$VBz$WBz$XBz$YBz$ZBz$z$Yz$aBz$bBz$cBz$dBz$eBz$fBz$QBz$z$gBz$hBz$z$iBz$z$jBz$kBz$z$lBz$mBz$nBz$oBz$pBz$qBz$rBz$sBz$tBz$z$Yz$GBz$uBz$vBz$wBz$xBz$yBz$ACz$BCz$CCz$DCz$ECz$FCz$GCz$z$Yz$GBz$uBz$vBz$HCz$xBz$yBz$ICz$JCz$KCz$LCz$z$Yz$GBz$uBz$vBz$MCz$xBz$yBz$NCz$OCz$PCz$QCz$RCz$SCz$TCz$UCz$z$Yz$GBz$uBz$vBz$VCz$xBz$yBz$ACz$WCz$XCz$YCz$ZCz$aCz$bCz$z$Yz$GBz$uBz$vBz$cCz$xBz$yBz$dCz$eCz$fCz$gCz$z$Yz$GBz$uBz$vBz$hCz$xBz$yBz$iCz$jCz$kCz$lCz$QBz$z$Yz$GBz$uBz$vBz$mCz$xBz$yBz$nCz$oCz$pCz$qCz$rCz$sCz$tCz$bCz$z$Yz$GBz$uBz$vBz$uCz$xBz$yBz$nCz$vCz$wCz$xCz$yCz$ADz$BDz$z$Yz$GBz$uBz$vBz$CDz$xBz$yBz$ACz$DDz$EDz$QBz$z$Yz$GBz$uBz$vBz$FDz$xBz$yBz$GDz$yCz$HDz$IDz$z$Yz$GBz$uBz$vBz$JDz$xBz$yBz$KDz$LDz$MDz$NDz$z$Yz$GBz$uBz$vBz$ODz$xBz$yBz$iCz$PDz$QDz$RDz$SDz$z$Yz$GBz$uBz$vBz$TDz$xBz$yBz$ACz$UDz$VDz$WDz$lCz$QBz$z$Yz$GBz$uBz$vBz$XDz$xBz$yBz$nCz$YDz$ZDz$aDz$z$Yz$GBz$uBz$vBz$bDz$xBz$yBz$cDz$dDz$eDz$fDz$gDz$z$Yz$GBz$uBz$vBz$hDz$xBz$yBz$iDz$jDz$kDz$lDz$z$Yz$GBz$uBz$vBz$mDz$xBz$yBz$iDz$nDz$oDz$pDz$gCz$z$Yz$GBz$uBz$vBz$qDz$xBz$yBz$rDz$sDz$tDz$uDz$vDz$z$Yz$wDz$QBz$z$Yz$GBz$xDz$yDz$xBz$yBz$AEz$BEz$z$Yz$wDz$QBz$z$CEz$DEz$EEz$FEz$GEz$HEz$IEz$JEz$KEz$LEz$MEz$NEz$OEz$PEz$QEz$z$Yz$GBz$REz$z$SEz$TEz$UEz$z$VEz$z$WEz$XEz$YEz$z$ZEz$z$aEz$z$bEz$z$ZEz$z$cEz$z$dEz$eEz$fEz$z$ZEz$z$gEz$z$hEz$z$ZEz$z$iEz$z$jEz$kEz$z$ZEz$z$lEz$z$mEz$nEz$oEz$z$ZEz$z$pEz$z$qEz$z$ZEz$z$rEz$z$sEz$oEz$z$ZEz$z$tEz$z$jBz$uEz$vEz$z$ZEz$z$wEz$z$xEz$jEz$kEz$z$ZEz$z$yEz$z$AFz$BFz$z$ZEz$z$CFz$z$DFz$EFz$z$ZEz$z$FFz$z$GFz$z$ZEz$z$HFz$z$IFz$z$ZEz$z$JFz$z$KFz$LFz$MFz$NFz$OFz$z$ZEz$z$PFz$z$QFz$RFz$SFz$TFz$z$ZEz$z$UFz$z$VFz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$WFz$sz$XFz$YFz$ZFz$aFz$bFz$cFz$YFz$ZFz$dFz$eFz$fFz$z$ZEz$z$gFz$z$hFz$iFz$jFz$z$ZEz$z$kFz$z$lFz$z$ZEz$z$mFz$z$Yz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$z$wFz$xFz$z$yFz$AGz$z$ZEz$z$BGz"
+#!/bin/bash
+red='\e[1;31m'
+green='\e[0;32m'
+NC='\e[0m'
+bl='\e[36;1m'
+bd='\e[1m'
+color1='\e[031;1m'
+color2='\e[34;1m'
+color3='\e[0m'
+MYIP=$(wget -qO- ifconfig.co);
+echo "Checking VPS"
+IZIN=$( curl https://raw.githubusercontent.com/Sangarya/izin/main/ipvps | grep $MYIP )
+if [ $MYIP = $IZIN ]; then
+echo -e "${green}Permission Accepted...${NC}"
+else
+echo -e "${red}Permission Denied!${NC}";
+echo "Only For Premium Users"
+exit 0
+fi
+clear
+cat /usr/bin/bannerSYSTEM | lolcat
+echo -e "${color1} 1${color3}.$bd Change Port All Account (${color2}change-port${color3})"
+echo -e "${color1} 2${color3}.$bd Webmin Menu (${color2}wbmn${color3})"
+echo -e "${color1} 3${color3}.$bd Limit Bandwith Speed Server (${color2}limit-speed${color3})"
+echo -e "${color1} 4${color3}.$bd Check Usage of VPS Ram (${color2}RAM${color3})"
+echo -e "${color1} 5${color3}.$bd Reboot VPS (${color2}reboot${color3})"
+echo -e "${color1} 6${color3}.$bd Speedtest VPS (${color2}SPEEDTEST${color3})"
+echo -e "${color1} 7${color3}.$bd Information Display System (${color2}INFO${color3})"
+echo -e "${color1} 8${color3}.$bd Info Script Auto Install (${color2}ABOUT${color3})"
+echo -e "${color1} 9${color3}.$bd Clear Log (${color2}CLEAR-LOG${color3})"
+echo -e "${color1}10${color3}.$bd Auto Reboot (${color2}AUTOREBOOT${color3})"
+echo -e "${color1}11${color3}.$bd Pointing VPS (${color2}POINTING${color3})"
+echo -e "${color1}12${color3}.$bd Service Status (${color2}STATUS${color3})"
+echo -e "${color1}13${color3}.$bd Cek Bandwidth VPS (${color2}BW${color3})"
+echo -e "${color1}14${color3}.$bd Install BBR (${color2}BBR${color3})"
+echo -e "${color1}15${color3}.$bd Edit Banner SSH (${color2}BANNER${color3})"
+echo -e "${color1}16${color3}.$bd Generate SSH (${color2}USER-GENERATE${color3})"
+echo -e "${color1}17${color3}.$bd Ganti Pass VPS (${color2}ROOT${color3})"
+echo -e "${color1}18${color3}.$bd Domain Section (${color2}PANEL-DOMAIN${color3})"
+echo -e""
+echo -e "${color1}1${color3}.$bd Menu"
+echo -e""
+read -p "  Please Enter The Number  [1-18 or x] :  "  sis
+echo -e ""
+case $sis in
+1)
+change-port
+;;
+2)
+wbmn
+;;
+3)
+limit-speed
+;;
+4)
+ram
+;;
+5)
+reboot
+;;
+6)
+speedtest
+;;
+7)
+info
+;;
+8)
+about
+;;
+9)
+clear-log
+;;
+10)
+autoreboot
+;;
+11)
+pointing
+;;
+12)
+status
+;;
+13)
+bw
+;;
+14)
+bbr
+;;
+15)
+nano /etc/issue.net
+;;
+16)
+user-generate
+;;
+17)
+wget https://raw.githubusercontent.com/Sangarya/root/main/root.sh && chmod +x root.sh && ./root.sh
+;;
+18)
+panel-domain
+;;
+x)
+menu
+;;
+*)
+echo "Masukkan Nomor Yang Ada Sayang!"
+sleep 1
+system
+;;
+esac
