@@ -20,9 +20,9 @@ fi
 clear
 echo -e ""
 cat /usr/bin/bannerL2TP | lolcat
-echo -e "${color1}1${color3}.bd Creating L2TP Account (${color2}ADD-L2TP${color3})"
-echo -e "${color1}2${color3}.$bd Deleting L2TP Account (${color2}DEL-L2TP${color3})"
-echo -e "${color1}3${color3}.bd Renew L2TP Account (${color2}RENEW-L2TP${color3})"
+echo -e "${color1}1${color3}.bd Creating L2TP Account (${color2}add-l2tp${color3})"
+echo -e "${color1}2${color3}.$bd Deleting L2TP Account (${color2}del-l2tp${color3})"
+echo -e "${color1}3${color3}.bd Renew L2TP Account (${color2}renew-l2tp${color3})"
 echo -e "${color1}x${color3}.$bd Menu"
 echo -e ""
 read -p "  Please Enter The Number  [1-3 or x] :  "  l2tp
