@@ -10,13 +10,13 @@ clear
 figlet DOMAIN | lolcat -d 5
 echo -e ""
 cat /usr/bin/bannerDOMAIN | lolcat
-echo -e "${color1}1${color3}.$bd Add Subdomain Host For VPS (${color2}ADD-WG${color3})"
-echo -e "${color1}1${color3}.$bd Add ID Cloudflare (${color2}ADD-WG${color3})"
+echo -e "${color1}1${color3}.$bd Add Subdomain Host For VPS (${color2}add-host${color3})"
+echo -e "${color1}1${color3}.$bd Add ID Cloudflare (${color2}id-cloudflare${color3})"
 echo -e "${color1}1${color3}.$bd Cloudflare Add-Ons (${color2}ADD-WG${color3})"
 echo -e "${color1}1${color3}.$bd Pointing BUG (${color2}ADD-WG${color3})"
-echo -e "${color1}1${color3}.$bd Renew Certificate V2RAY (${color2}ADD-WG${color3})"
-echo -e "${color1}1${color3}.$bd Add Multi Domain (${color2}ADD-WG${color3})"
-echo -e "${color1}1${color3}.$bd Add cf (${color2}ADD-WG${color3})"
+echo -e "${color1}1${color3}.$bd Renew Certificate V2RAY (${color2}certv2ray${color3})"
+echo -e "${color1}1${color3}.$bd Add Multi Domain (${color2}host${color3})"
+echo -e "${color1}1${color3}.$bd Add cf (${color2}add-cf${color3})"
 echo -e ""
 echo -e "${color1}x${color3}.$bd MENU"
 echo -e ""
