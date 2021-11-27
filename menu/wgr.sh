@@ -20,10 +20,10 @@ fi
 clear
 echo -e ""
 cat /usr/bin/bannerWIREGUARD | lolcat
-echo -e "${color1}1${color3}.$bd Create Wireguard Account (${color2}ADD-WG${color3})"
-echo -e "${color1}2${color3}.$bd Delete Wireguard Account (${color2}DEL-WG${color3})"
-echo -e "${color1}3${color3}.$bd Check User Login Wireguard (${color2}CEK-WG${color3})"
-echo -e "${color1}4${color3}.$bd Renew Wireguard Account (${color2}RENEW-WG${color3})"
+echo -e "${color1}1${color3}.$bd Create Wireguard Account (${color2}add-wg${color3})"
+echo -e "${color1}2${color3}.$bd Delete Wireguard Account (${color2}del-wg${color3})"
+echo -e "${color1}3${color3}.$bd Check User Login Wireguard (${color2}cek-wg${color3})"
+echo -e "${color1}4${color3}.$bd Renew Wireguard Account (${color2}renew-wg${color3})"
 echo -e""
 echo -e "${color1}x${color3}.$bd Menu"
 echo -e""
