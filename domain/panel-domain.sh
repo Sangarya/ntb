@@ -4,6 +4,9 @@ green='\e[0;32m'
 NC='\e[0m'
 bl='\e[36;1m'
 bd='\e[1m'
+color1='\e[031;1m'
+color2='\e[34;1m'
+color3='\e[0m'
 MYIP=$(wget -qO- ifconfig.co);
 echo "Checking VPS"
 clear
