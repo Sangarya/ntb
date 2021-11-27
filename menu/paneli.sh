@@ -19,9 +19,9 @@ exit 0
 fi
 clear
 cat /usr/bin/panelVPN | lolcat
-echo -e "${color1}1${color3}.$bd  Secure Socket Tunneling Protocol (${color2}MS-SSTP${color3})"
-echo -e "${color1}2${color3}.$bd  Layer Two Tunneling Protocol (${color2}L2TP${color3})"
-echo -e "${color1}3${color3}.$bd  Point-to-Point Tunneling Protocol (${color2}PPTP${color3})"
+echo -e "${color1}1${color3}.$bd  Secure Socket Tunneling Protocol (${color2}ms-sstp${color3})"
+echo -e "${color1}2${color3}.$bd  Layer Two Tunneling Protocol (${color2}l2tp${color3})"
+echo -e "${color1}3${color3}.$bd  Point-to-Point Tunneling Protocol (${color2}pptp${color3})"
 echo -e "${color1}4${color3}.$bd  WireGuard® Protokol (${color2}Wireguard${color3})"
 echo -e""
 echo -e "${color1}x${color3}.$bd Menu"
