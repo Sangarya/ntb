@@ -19,9 +19,9 @@ exit 0
 fi
 clear
 cat /usr/bin/bannerBACKUP | lolcat
-echo -e "${color1}1${color3}.$bd Autobackup Data VPS (${color2}AUTOBACKUP${color3})"
-echo -e "${color1}2${color3}.$bd Backup Manual Data VPS (${color2}BACKUP${color3})"
-echo -e "${color1}3${color3}.$bd Restore Data VPS (${color2}RESTORE${color3})"
+echo -e "${color1}1${color3}.$bd Autobackup Data VPS (${color2}autobackup${color3})"
+echo -e "${color1}2${color3}.$bd Backup Manual Data VPS (${color2}backup${color3})"
+echo -e "${color1}3${color3}.$bd Restore Data VPS (${color2}restore${color3})"
 echo -e "${color1}x${color3}.$bd Menu"
 echo -e""
 read -p " Please Enter The Number  [1-3 or x] :  "  gok
