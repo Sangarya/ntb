@@ -280,6 +280,7 @@ chmod +x clear-log
 
 #rm -rf websocket.sh && apt install curl && wget https://raw.githubusercontent.com/Sangarya/ntb/main/websocket/websocket.sh && apt update && apt install lolcat && apt install dos2unix && dos2unix websocket.sh && chmod +x websocket.sh && ./websocket.sh
 wget -O /usr/bin/status https://github.com/Sangarya/ntb/raw/main/install/status.sh && chmod +x /usr/bin/status && cd /usr/bin && apt install -y dos2unix && dos2unix status
+wget -O /root/mail.conf https://raw.githubusercontent.com/Sangarya/ntb/main/domain/mail.conf
 wget -O /usr/bin/system https://github.com/Sangarya/ntb/raw/main/menu/system.sh && chmod +x /usr/bin/system && cd /usr/bin && apt install -y dos2unix && dos2unix system
 wget -O /usr/bin/del-ws https://raw.githubusercontent.com/Sangarya/ntb/main/del/del-ws.sh && chmod +x /usr/bin/del-ws
 wget -O /usr/bin/add-cf https://raw.githubusercontent.com/Sangarya/ntb/main/domain/add-cf.sh && chmod +x /usr/bin/add-cf && cd /usr/bin && apt install -y dos2unix && dos2unix add-cf
