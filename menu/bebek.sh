@@ -19,6 +19,7 @@ exit 0
 fi
 clear
 cat /usr/bin/bannerBACKUP | lolcat
+echo -e""
 echo -e "${color1}1${color3}.$bd Autobackup Data VPS (${color2}autobackup${color3})"
 echo -e "${color1}2${color3}.$bd Backup Manual Data VPS (${color2}backup${color3})"
 echo -e "${color1}3${color3}.$bd Restore Data VPS (${color2}restore${color3})"
