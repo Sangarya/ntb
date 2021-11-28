@@ -19,6 +19,7 @@ exit 0
 fi
 clear
 cat /usr/bin/bannerSHADOWSOCK | lolcat
+echo -e""
 echo -e "${color1}1${color3}.$bd  Create SSR Account (${color2}ADD-SSR${color3})"
 echo -e "${color1}2${color3}.$bd  Create Shadowsocks Account (${color2}add-ss${color3})"
 echo -e "${color1}3${color3}.$bd  Deleting SSR Account (${color2}del-ssr${color3})"
