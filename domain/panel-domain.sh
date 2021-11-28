@@ -21,7 +21,7 @@ echo -e "${color1}5${color3}.$bd Renew Certificate V2RAY (${color2}certv2ray${co
 echo -e "${color1}6${color3}.$bd Add Multi Domain (${color2}host${color3})"
 echo -e "${color1}7${color3}.$bd Add cf (${color2}add-cf${color3})"
 echo -e ""
-echo -e "${color1}x${color3}.$bd MENU"
+echo -e "${color1}x${color3}.$bd menu"
 echo -e ""
 read -p "  Please Enter The Number  [1-7 or x] :  "  key
 echo -e ""
@@ -48,11 +48,11 @@ case $key in
  add-cf
  ;;
 x)
-paneli
+system
 ;;
 *)
 echo "Masukkan Nomor Yang Ada Sayang!"
 sleep 1
-system
+panel-domain
 ;;
 esac
