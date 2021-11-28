@@ -19,6 +19,7 @@ exit 0
 fi
 clear
 cat /usr/bin/bannerTROJAN | lolcat
+echo -e""
 echo -e "${color1}1${color3}.$bd Create Trojan Account (${color2}add-tr${color3})"
 echo -e "${color1}2${color3}.$bd Deleting Trojan Account (${color2}del-tr${color3})"
 echo -e "${color1}3${color3}.$bd Renew Trojan Account (${color2}renew-tr${color3})"
