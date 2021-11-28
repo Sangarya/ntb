@@ -19,6 +19,7 @@ exit 0
 fi
 clear
 cat /usr/bin/bannerSSH | lolcat
+echo -e""
 echo -e "${color1}1${color3}.$bd Create SSH & OpenVPN Account (${color2}usernew${color3})"
 echo -e "${color1}2${color3}.$bd Trial Account SSH & OpenVPN (${color2}trial${color3})"
 echo -e "${color1}3${color3}.$bd Renew SSH & OpenVPN Account (${color2}renew${color3})"
