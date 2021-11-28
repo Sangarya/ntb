@@ -19,6 +19,7 @@ exit 0
 fi
 clear
 cat /usr/bin/bannerSYSTEM | lolcat
+echo -e""
 echo -e "${color1} 1${color3}.$bd Change Port All Account (${color2}change-port${color3})"
 echo -e "${color1} 2${color3}.$bd Webmin Menu (${color2}wbmn${color3})"
 echo -e "${color1} 3${color3}.$bd Limit Bandwith Speed Server (${color2}limit-speed${color3})"
