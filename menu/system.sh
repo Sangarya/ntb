@@ -39,7 +39,7 @@ echo -e "${color1}16${color3}.$bd Generate SSH (${color2}user-generate${color3})
 echo -e "${color1}17${color3}.$bd Ganti Pass VPS (${color2}root${color3})"
 echo -e "${color1}18${color3}.$bd Domain Section (${color2}panel-domain${color3})"
 echo -e""
-echo -e "${color1}1${color3}.$bd Menu"
+echo -e "${color1}x${color3}.$bd Menu"
 echo -e""
 read -p "  Please Enter The Number  [1-18 or x] :  "  sis
 echo -e ""
