@@ -12,6 +12,7 @@ echo "Checking VPS"
 clear
 echo -e ""
 cat /usr/bin/bannerDOMAIN | lolcat
+echo -e ""
 echo -e "${color1}1${color3}.$bd Add Subdomain Host For VPS (${color2}add-host${color3})"
 echo -e "${color1}2${color3}.$bd Add ID Cloudflare (${color2}id-cloudflare${color3})"
 echo -e "${color1}3${color3}.$bd Cloudflare Add-Ons (${color2}Add-Ons${color3})"
@@ -46,11 +47,12 @@ case $key in
  7)
  add-cf
  ;;
- x)
- exit
- ;;
- *)
- clear
- menu
- ;;
- esac
+x)
+paneli
+;;
+*)
+echo "Masukkan Nomor Yang Ada Sayang!"
+sleep 1
+system
+;;
+esac
