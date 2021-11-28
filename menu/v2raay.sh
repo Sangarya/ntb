@@ -19,6 +19,7 @@ exit 0
 fi
 clear
 cat /usr/bin/bannerV2RAY | lolcat
+echo -e""
 echo -e "${color1}1${color3}.$bd Create Vmess Websocket Account (${color2}add-ws${color3})"
 echo -e "${color1}2${color3}.$bd Delete Vmess Websocket Account (${color2}del-ws${color3})"
 echo -e "${color1}3${color3}.$bd Renew Vmess Account (${color2}renew-ws${color3})"
