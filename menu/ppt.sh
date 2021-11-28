@@ -20,6 +20,7 @@ fi
 clear
 echo -e ""
 cat /usr/bin/bannerPPTP | lolcat
+echo -e""
 echo -e "${color1}1${color3}.$bd Create Account PPTP (${color2}add-pptp${color3})"
 echo -e "${color1}2${color3}.$bd Delete PPTP Account (${color2}del-pptp${color3})"
 echo -e "${color1}3${color3}.$bd Check User Login PPTP (${color2}cek-pptp${color3})"
