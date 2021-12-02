@@ -83,10 +83,10 @@ apt-get install boxes
 
 # color text
 cd
-#rm -rf /root/.bashrc
-#wget -O /root/.bashrc "https://raw.githubusercontent.com/Sangarya/ntb/main/install/.bashrc"
+rm -rf /root/.bashrc
+wget -O /root/.bashrc "https://raw.githubusercontent.com/Sangarya/ntb/main/install/.bashrc"
 
-figlet -f slant WRBSOCKET | lolcat
+figlet -f slant Wesocket | lolcat
 #WEBSOCKET
 rm -rf websocket.sh && apt install curl && wget https://raw.githubusercontent.com/Sangarya/ntb/main/websocket/websocket.sh && apt update && apt install dos2unix && dos2unix websocket.sh && chmod +x websocket.sh && ./websocket.sh
 
@@ -105,22 +105,22 @@ wget -O /etc/default/sslh "https://raw.githubusercontent.com/Sangarya/ntb/main/w
 service sslh restart
 
 #l2tp
-figlet -f slant Module L2TP | lolcat
+figlet -f slant L2TP | lolcat
 sleep 1
 cd /usr/bin
-wget -O /usr/bin/add-l2tp https://raw.githubusercontent.com/Sangarya/ntb/main/add/add-l2tp.sh && chmod +x /usr/bin/add-l2tp
+#wget -O /usr/bin/add-l2tp https://raw.githubusercontent.com/Sangarya/ntb/main/add/add-l2tp.sh && chmod +x /usr/bin/add-l2tp
 wget -O /usr/bin/del-l2tp https://raw.githubusercontent.com/Sangarya/ntb/main/del/del-l2tp.sh && chmod +x /usr/bin/del-l2tp
 wget -O /usr/bin/renew-l2tp https://raw.githubusercontent.com/Sangarya/ntb/main/renew/renew-l2tp.sh && chmod +x /usr/bin/renew-l2tp
 
 #pptp
-figlet -f slant Module PPTP | lolcat
+figlet -f slant PPTP | lolcat
 sleep 1
 wget -O /usr/bin/add-pptp https://raw.githubusercontent.com/Sangarya/ntb/main/add/add-pptp.sh && chmod +x /usr/bin/add-pptp
 wget -O /usr/bin/del-pptp https://raw.githubusercontent.com/Sangarya/ntb/main/del/del-pptp.sh && chmod +x /usr/bin/del-pptp
 wget -O /usr/bin/renew-pptp https://raw.githubusercontent.com/Sangarya/ntb/main/renew/renew-pptp.sh && chmod +x /usr/bin/renew-pptp
 
 #sstp
-figlet -f slant Module SSTP | lolcat
+figlet -f slant SSTP | lolcat
 sleep 1
 wget -O /usr/bin/add-sstp https://raw.githubusercontent.com/Sangarya/ntb/main/add/add-sstp.sh && chmod +x /usr/bin/add-sstp
 wget -O /usr/bin/del-sstp https://raw.githubusercontent.com/Sangarya/ntb/main/del/del-sstp.sh && chmod +x /usr/bin/del-sstp
@@ -128,7 +128,7 @@ wget -O /usr/bin/cek-sstp https://raw.githubusercontent.com/Sangarya/ntb/main/ce
 wget -O /usr/bin/renew-sstp https://raw.githubusercontent.com/Sangarya/ntb/main/renew/renew-sstp.sh && chmod +x /usr/bin/renew-sstp
 
 #SHADOWSOCKS
-figlet -f slant SHADOWSOCKS-R | lolcat
+figlet -f slant shadowsocks-r | lolcat
 sleep 1
 cd /usr/bin
 wget -O /usr/bin/bebek https://raw.githubusercontent.com/Sangarya/ntb/main/menu/bebek.sh && chmod +x /usr/bin/bebek
@@ -145,7 +145,7 @@ chmod +x cek-ss
 chmod +x renew-ss
 
 #PANEL-PORT
-figlet -f slant Module Port | lolcat
+figlet -f slant Port | lolcat
 sleep 1
 cd /usr/bin
 wget -O port-ovpn "https://raw.githubusercontent.com/Sangarya/ntb/main/port/port-ovpn.sh"
@@ -166,7 +166,7 @@ chmod +x port-ws
 chmod +x port-vless
 
 #PANEL SSH
-figlet -f slant Module SSH | lolcat
+figlet -f slant SSH | lolcat
 sleep 1
 cd /usr/bin
 wget -O speedtest "https://github.com/Sangarya/ntb/raw/main/bahan/speedtest_cli.py"
@@ -192,7 +192,7 @@ chmod +x ceklim
 chmod +x tendang
 
 #PANEL V2RAY VMESS
-figlet -f slant Module Vmess | lolcat
+figlet -f slant Vmess | lolcat
 cd /usr/bin
 wget -O add-ws "https://raw.githubusercontent.com/Sangarya/ntb/main/add/add-ws.sh"
 wget -O del-ws "https://raw.githubusercontent.com/Sangarya/ntb/main/del/del-ws.sh"
@@ -206,7 +206,7 @@ chmod +x renew-ws
 chmod +x trialws
 
 #PANEL V2RAY VLESS
-figlet -f slant Module Vless | lolcat
+figlet -f slant Vless | lolcat
 sleep 1
 cd /usr/bin
 wget -O add-vless "https://raw.githubusercontent.com/Sangarya/ntb/main/add/add-vless.sh"
@@ -219,7 +219,7 @@ chmod +x cek-vmess
 chmod +x renew-vless
 
 #PANEL-TROJAN
-figlet -f slant Module Trojan | lolcat
+figlet -f slant Trojan | lolcat
 sleep 1
 cd /usr/bin
 wget -O add-tr "https://raw.githubusercontent.com/Sangarya/ntb/main/add/add-tr.sh"
@@ -232,7 +232,7 @@ chmod +x renew-tr
 chmod +x cek-tr
 
 #PANEL WIREGUARD
-figlet -f slant wireguard | lolcat
+figlet -f slant Wireguard | lolcat
 sleep 1
 cd /usr/bin
 wget -O add-wg "https://raw.githubusercontent.com/Sangarya/ntb/main/add/add-wg.sh"
